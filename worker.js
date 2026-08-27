@@ -417,11 +417,12 @@ app.get('/admin/*', async (c) => {
     }
   } catch {}
 
-  const fallback = await c.env.ASSETS.fetch(new URL('/admin.html', c.req.url));
+  const fallback = await c.env.ASSETS.fetch(new URL('/admin_root.html', c.req.url));
   return new Response(fallback.body, {
     headers: { 'Content-Type': 'text/html; charset=utf-8' }
   });
 });
+
 
 // POST Handler for Remix Actions (e.g. delete product, toggle publish)
 app.post('/admin', async (c) => {
