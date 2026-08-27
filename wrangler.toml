@@ -6,3 +6,5 @@ compatibility_flags = ["nodejs_compat"]
 [assets]
 directory = "./dist"
 binding = "ASSETS"
+not_found_handling = "none"
+

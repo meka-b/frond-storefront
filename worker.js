@@ -5,8 +5,48 @@ const app = new Hono();
 
 app.use('*', cors());
 
-// Health Check
-app.get('/api/health', (c) => c.json({ status: 'ok', runtime: 'cloudflare-worker', time: new Date().toISOString() }));
+// Universal Remix _data Loader Middleware (intercepts any request with ?_data=...)
+app.use('*', async (c, next) => {
+  const url = new URL(c.req.url);
+  const rawData = url.searchParams.get('_data');
+  if (rawData) {
+    const dataParam = decodeURIComponent(rawData);
+    try {
+      const res = await c.env.ASSETS.fetch(new URL('/assets/admin_data_map.json', c.req.url));
+      const map = await res.json();
+      
+      // 1. Direct match
+      if (map[dataParam]) {
+        return c.json(map[dataParam]);
+      }
+
+      // 2. Index normalization (routes/admin._index or routes/admin.products._index)
+      const cleanParam = dataParam.replace(/\._index$/, '').replace(/_index$/, '');
+      if (map[cleanParam]) {
+        return c.json(map[cleanParam]);
+      }
+      if (map[cleanParam + '._index']) {
+        return c.json(map[cleanParam + '._index']);
+      }
+
+      // 3. Dynamic Product ID match
+      if (dataParam.includes('admin.products')) {
+        const parts = url.pathname.split('/');
+        const pid = parts[parts.length - 1];
+        if (pid && map[`routes/admin.products.@${pid}`]) {
+          return c.json(map[`routes/admin.products.@${pid}`]);
+        }
+        if (map['routes/admin.products.']) {
+          return c.json(map['routes/admin.products.']);
+        }
+      }
+    } catch {}
+    return c.json({});
+  }
+  return next();
+});
+
+
 
 // Favicon handler
 app.get('/favicon.ico', async (c) => {
@@ -326,24 +366,13 @@ app.get('/account', async (c) => {
 
 // Admin Panel & Remix _data Loader Resolver
 app.get('/admin', async (c) => {
-  const url = new URL(c.req.url);
-  const dataParam = url.searchParams.get('_data');
-  if (dataParam) {
-    try {
-      const res = await c.env.ASSETS.fetch(new URL('/assets/admin_data_map.json', c.req.url));
-      const map = await res.json();
-      if (map[dataParam]) {
-        return c.json(map[dataParam]);
-      }
-    } catch {}
-    return c.json({});
-  }
-
-  const res = await c.env.ASSETS.fetch(new URL('/admin.html', c.req.url));
+  const res = await c.env.ASSETS.fetch(new URL('/admin_root.html', c.req.url));
   return new Response(res.body, {
     headers: { 'Content-Type': 'text/html; charset=utf-8' }
   });
 });
+
+
 
 app.get('/admin/*', async (c) => {
   const url = new URL(c.req.url);
@@ -436,4 +465,58 @@ app.get('*', async (c) => {
   return c.env.ASSETS.fetch(c.req.raw);
 });
 
-export default app;
+export default {
+  async fetch(request, env, ctx) {
+    const url = new URL(request.url);
+    const rawData = url.searchParams.get('_data');
+
+    // 1. Intercept any Remix Single-Fetch / loader data request
+    if (rawData) {
+      const dataParam = decodeURIComponent(rawData);
+      try {
+        const res = await env.ASSETS.fetch(new URL('/assets/admin_data_map.json', request.url));
+        const map = await res.json();
+
+        // Match direct or normalized keys
+        if (map[dataParam]) {
+          return new Response(JSON.stringify(map[dataParam]), {
+            headers: { 'Content-Type': 'application/json; charset=utf-8' }
+          });
+        }
+
+        const cleanParam = dataParam.replace(/\._index$/, '').replace(/_index$/, '');
+        if (map[cleanParam]) {
+          return new Response(JSON.stringify(map[cleanParam]), {
+            headers: { 'Content-Type': 'application/json; charset=utf-8' }
+          });
+        }
+        if (map[cleanParam + '._index']) {
+          return new Response(JSON.stringify(map[cleanParam + '._index']), {
+            headers: { 'Content-Type': 'application/json; charset=utf-8' }
+          });
+        }
+
+        if (dataParam.includes('admin.products')) {
+          const parts = url.pathname.split('/');
+          const pid = parts[parts.length - 1];
+          if (pid && map[`routes/admin.products.@${pid}`]) {
+            return new Response(JSON.stringify(map[`routes/admin.products.@${pid}`]), {
+              headers: { 'Content-Type': 'application/json; charset=utf-8' }
+            });
+          }
+          if (map['routes/admin.products.']) {
+            return new Response(JSON.stringify(map['routes/admin.products.']), {
+              headers: { 'Content-Type': 'application/json; charset=utf-8' }
+            });
+          }
+        }
+      } catch {}
+      return new Response('{}', {
+        headers: { 'Content-Type': 'application/json; charset=utf-8' }
+      });
+    }
+
+    return app.fetch(request, env, ctx);
+  }
+};
+
