@@ -33,6 +33,7 @@ export function getAllApiKeys() {
 export const SERVICES = [
   { key: 'EXA_API_KEY',              label: 'Exa.ai - Neural Web Search' },
   { key: 'FIRECRAWL_API_KEY',        label: 'Firecrawl - Web Scraping' },
+  { key: 'PLANTNET_API_KEY',         label: 'PlantNet - Visual botanical identification' },
   { key: 'MISTRAL_API_KEY',          label: 'Mistral AI - LLM Reasoning' },
   { key: 'RAGFLOW_API_KEY',          label: 'RAGFlow - Cloud Vector Search (optional)' },
   { key: 'LLAMAINDEX_CLOUD_API_KEY', label: 'LlamaIndex Cloud - RAG (optional)' },
