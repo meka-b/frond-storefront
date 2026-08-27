@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shopping Cart &mdash; FROND Living Plants &amp; Objects</title>
+  <meta name="description" content="Slow-grown greenhouse plants and quietly sculptural objects ready for climate-safe root dispatch.">
+  <meta property="og:title" content="Shopping Cart &mdash; FROND">
+  <meta property="og:description" content="Slow-grown greenhouse plants and quietly sculptural objects ready for climate-safe root dispatch.">
+  <meta property="og:type" content="website">
+
+  <base href="/">
+
+  <!-- Fonts (degrade gracefully offline) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/assets/theme.css?v=280">
+</head>
+<body class="page-collections">
+
+  <!-- ========== Announcement marquee ========== -->
+  <div class="announce">
+    <marquee-band speed="36s" aria-label="Announcements">
+      <span class="mq-item">Free shipping on orders over $75 <i>&#10022;</i></span>
+      <span class="mq-item">New in &mdash; The Dune Collection <i>&#10022;</i></span>
+      <span class="mq-item">Every plant ships with a 7-day root guarantee <i>&#10022;</i></span>
+    </marquee-band>
+  </div>
+
+  <!-- ========== Header (Standard Theme Header) ========== -->
+  <header class="site-header">
+    <button class="icon-btn burger" data-menu-toggle aria-label="Open menu" aria-expanded="false">
+      <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M2 5h16M2 10h16M2 15h16"/></svg>
+    </button>
+
+    <nav class="nav" aria-label="Primary">
+      <a href="/#shop">Shop</a>
+      <a href="/collections" class="active">Collections</a>
+      <a href="/blogs">Journal</a>
+      <a href="/#community">Community</a>
+    </nav>
+
+    <a class="logo" href="/">FROND<sup>&reg;</sup></a>
+
+    <div class="header-actions">
+      <predictive-search></predictive-search>
+      <button class="icon-btn" data-search-toggle aria-label="Search" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg>
+      </button>
+      <button class="icon-btn" aria-label="Account">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 5-5.5 8-5.5s6.5 1.5 8 5.5"/></svg>
+      </button>
+      <button class="icon-btn" data-cart-toggle aria-label="Open cart">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M5 8h14l-1.2 12.2a1.5 1.5 0 0 1-1.5 1.3H7.7a1.5 1.5 0 0 1-1.5-1.3L5 8Z"/><path d="M8.5 10V6.5a3.5 3.5 0 0 1 7 0V10"/></svg>
+        <span class="cart-count" aria-live="polite">0</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="section page-cart-sec">
+      <div class="container">
+        <div class="cart-page-head">
+          <p class="eyebrow" data-reveal>Your Living Order</p>
+          <h1 class="serif" style="font-size:clamp(2.2rem, 4.5vw, 3.4rem); font-weight:500; margin-top:.4rem;">Shopping Cart</h1>
+          <p style="color:var(--ink-60); margin-top:.4rem; font-size:.95rem;">Slow-grown plants ready for careful root-safe dispatch.</p>
+        </div>
+
+        <div class="cart-page-grid" id="cart-page-layout">
+          <!-- Left Column: Items Table / List -->
+          <div class="cart-page-items-col">
+            <!-- Free Shipping Progress Pill -->
+            <div class="cart-free-ship-box" id="cart-ship-box">
+              <div class="ship-txt" id="cart-ship-msg">Add <b>$27.00</b> more for free greenhouse shipping!</div>
+              <div class="ship-bar"><div class="ship-fill" id="cart-ship-bar-fill" style="width:60%"></div></div>
+            </div>
+
+            <!-- Cart Items Container -->
+            <div class="cart-table-wrap" id="cart-items-table">
+              <!-- Rendered dynamically by cart.js -->
+            </div>
+
+            <!-- Empty Cart State -->
+            <div class="cart-empty-view" id="cart-empty-state" style="display:none;">
+              <div class="empty-icon" style="font-size:3rem; margin-bottom:1rem;">🌿</div>
+              <h2 class="serif" style="font-size:1.8rem; margin-bottom:.5rem;">Your cart is quiet.</h2>
+              <p style="color:var(--ink-60); margin-bottom:1.8rem;">No plants or botanical objects have been added yet.</p>
+              <a href="/collections" class="btn">Explore Collections <span class="btn-arrow">&rarr;</span></a>
+            </div>
+          </div>
+
+          <!-- Right Column: Order Summary & Sticky Checkout Card -->
+          <aside class="cart-page-summary-col" id="cart-summary-card">
+            <div class="cart-summary-box">
+              <h3 class="summary-title" style="font-family:var(--font-display); font-size:1.35rem; margin-bottom:1.4rem;">Order Summary</h3>
+
+              <div class="summary-row">
+                <span>Subtotal</span>
+                <span class="val" id="summary-subtotal">$0.00</span>
+              </div>
+              <div class="summary-row">
+                <span>Estimated Shipping</span>
+                <span class="val" id="summary-shipping">Calculated at checkout</span>
+              </div>
+              <div class="summary-row">
+                <span>Greenhouse Root Guarantee (7-day)</span>
+                <span class="val free-tag" style="color:var(--moss); font-weight:600;">Included ✓</span>
+              </div>
+
+              <div class="summary-divider"></div>
+
+              <!-- Promo Code Input -->
+              <div class="cart-coupon-wrap">
+                <div class="coupon-input-group">
+                  <input type="text" id="cart-coupon-input" placeholder="Promo code (e.g. GREEN10)">
+                  <button type="button" id="btn-apply-coupon">Apply</button>
+                </div>
+                <div class="coupon-feedback" id="coupon-feedback"></div>
+              </div>
+
+              <div class="summary-divider"></div>
+
+              <div class="summary-total-row">
+                <span style="font-weight:600; font-size:1.15rem;">Total</span>
+                <span class="total-val" id="summary-total" style="font-family:var(--font-display); font-size:1.45rem; font-weight:600;">$0.00</span>
+              </div>
+
+              <a href="/checkout" class="btn btn--checkout-cta" id="btn-goto-checkout" style="width:100%; justify-content:center; margin-top:1.4rem; padding:1rem 1.5rem; font-size:1rem;">
+                Proceed to Checkout <span class="btn-arrow">&rarr;</span>
+              </a>
+
+              <div class="checkout-perks-list" style="margin-top:1.6rem; font-size:.82rem; color:var(--ink-60); display:flex; flex-direction:column; gap:.5rem;">
+                <div><span style="color:var(--moss);">✦</span> 7-Day Root Health Guarantee</div>
+                <div><span style="color:var(--moss);">✦</span> 100% Recyclable &amp; Plastic-Free Packaging</div>
+                <div><span style="color:var(--moss);">✦</span> Greenhouse Direct Fast Climate Dispatch</div>
+              </div>
+            </div>
+          </aside>
+        </div>
+
+        <!-- ═══════════════════════════════════════════════════════
+             UPSELL / CROSS-SELL CAROUSEL (Mini Rectangular Cards)
+             ═══════════════════════════════════════════════════════ -->
+        <div class="cart-upsell-sec" id="cart-upsell-sec">
+          <div class="cart-upsell-head">
+            <div>
+              <p class="eyebrow" style="color:var(--moss); font-size:.8rem; font-weight:600; text-transform:uppercase; letter-spacing:.06em;">Pair With Your Living Order</p>
+              <h2 style="font-family:var(--font-display); font-size:clamp(1.4rem, 2.5vw, 1.9rem); font-weight:500; margin-top:.2rem;">Complete Your Plant Routine</h2>
+            </div>
+            <div class="upsell-nav-arrows">
+              <button type="button" class="upsell-nav-btn prev" id="upsell-prev" aria-label="Previous suggestions">
+                <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M10 13L5 8l5-5"/></svg>
+              </button>
+              <button type="button" class="upsell-nav-btn next" id="upsell-next" aria-label="Next suggestions">
+                <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 3l5 5-5 5"/></svg>
+              </button>
+            </div>
+          </div>
+
+          <!-- Single-Row Smooth Drag Embla Viewport for Mini Horizontal Cards -->
+          <div class="cart-upsell-embla" id="cart-upsell-embla-vp">
+            <div class="cart-upsell-track" id="cart-upsell-track">
+              <!-- Rendered dynamically by cart.js -->
+            </div>
+          </div>
+        </div>
+
+        <!-- ═══════════════════════════════════════════════════════
+             BOTANICAL CARE & DISPATCH PROMISES (Icon Badges Strip)
+             ═══════════════════════════════════════════════════════ -->
+        <div class="cart-promises-strip">
+          <div class="cart-promise-card">
+            <div class="promise-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            </div>
+            <div>
+              <h4>7-Day Root Guarantee</h4>
+              <p>If your plant shows signs of stress during transit, our botanists will replace it free of charge.</p>
+            </div>
+          </div>
+          <div class="cart-promise-card">
+            <div class="promise-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>
+            </div>
+            <div>
+              <h4>Climate-Controlled Packing</h4>
+              <p>Wrapped with thermal cellulose and breathable root coco-coir to preserve moisture balance.</p>
+            </div>
+          </div>
+          <div class="cart-promise-card">
+            <div class="promise-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+            </div>
+            <div>
+              <h4>Greenhouse Direct</h4>
+              <p>Hand-selected directly from our nursery benches within 24 hours of dispatch.</p>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ══════════ Full-Width Product Page FAQ Section ══════════ -->
+    <section class="section faq" style="border-top:1px solid var(--paper-line);">
+      <div class="container faq-grid">
+        <div class="faq-left" data-reveal>
+          <p class="eyebrow">Good to know</p>
+          <h2><reveal-text>Questions, answered.</reveal-text></h2>
+          <p>Still curious? <a class="link-line" href="#" onclick="return false">Write to us</a> &mdash; a human (usually with soil under their nails) replies within a day.</p>
+        </div>
+        <div class="pdp-acc" data-reveal>
+          <details open>
+            <summary>How does my plant survive shipping? <i>+</i></summary>
+            <div class="acc-body"><p>Each plant is potted, watered and secured in a soil-lock insert the day it ships. Boxes are plastic-free with breathing holes, for 1–3 days in transit.</p></div>
+          </details>
+          <details>
+            <summary>What is the 7-day root guarantee? <i>+</i></summary>
+            <div class="acc-body"><p>If your plant arrives damaged or declines within 7 days, send us a photo &mdash; a replacement ships free, no return required.</p></div>
+          </details>
+          <details>
+            <summary>Does the decorative pot come potted? <i>+</i></summary>
+            <div class="acc-body"><p>Plants ship in their nursery pots; decorative pots ship alongside. Pick "ships potted" at checkout and we pot it for you (10% bundle discount applies).</p></div>
+          </details>
+          <details>
+            <summary>Can I add a gift note? <i>+</i></summary>
+            <div class="acc-body"><p>Yes &mdash; free handwritten cards, and we never include prices in the box. Add your note in the cart before checkout.</p></div>
+          </details>
+          <details>
+            <summary>I'm a serial plant-killer. Where do I start? <i>+</i></summary>
+            <div class="acc-body"><p>Start with our Easy Care collection, and read the care card in the box &mdash; each one is written for the exact plant you received, not a generic species page.</p></div>
+          </details>
+          <details>
+            <summary>Do you ship internationally? <i>+</i></summary>
+            <div class="acc-body"><p>Currently EU-wide; soil regulations keep us from shipping live plants overseas. Pots &amp; objects travel worldwide.</p></div>
+          </details>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ========== Footer (Standard Theme Footer) ========== -->
+  <footer class="site-footer">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <a class="logo" href="/" style="color:var(--cream)">FROND<sup>&reg;</sup></a>
+        <p>Slow-grown plants &amp; quietly sculptural objects. Greenhouse-direct since 2019.</p>
+      </div>
+      <div>
+        <h4>Shop</h4>
+        <ul>
+          <li><a href="/#shop">Bestsellers</a></li>
+          <li><a href="/collections">Statement plants</a></li>
+          <li><a href="/collections">Easy care</a></li>
+          <li><a href="/collections">Pots &amp; objects</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Help</h4>
+        <ul>
+          <li><a href="#">Shipping &amp; returns</a></li>
+          <li><a href="#">Root guarantee</a></li>
+          <li><a href="#">Care guides</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Social</h4>
+        <ul>
+          <li><a href="#">Instagram</a></li>
+          <li><a href="#">Pinterest</a></li>
+          <li><a href="#">TikTok</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-mark" aria-hidden="true">FROND</div>
+    <div class="foot-bar">
+      <span>? 2026 Frond ? demo clone</span>
+      <span>Built with vanilla Web Components</span>
+    </div>
+  </footer>
+
+  <!-- ========== Drawers ========== -->
+  <shop-modal></shop-modal>
+  <cart-drawer></cart-drawer>
+  <menu-drawer left></menu-drawer>
+
+  <script src="/assets/data.js?v=1050" defer></script>
+  <script src="/assets/vendor/lenis.min.js" defer></script>
+  <script src="/assets/vendor/embla-carousel.umd.js" defer></script>
+  <script src="/assets/theme.js?v=1050" defer></script>
+  <script src="/assets/cart.js?v=1050" defer></script>
+</body>
+</html>
+
+
+
+
+
+

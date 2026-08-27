@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Article &mdash; FROND Journal</title>
+  <meta name="description" content="Read expert greenhouse guides, botanical care rituals and propagation field notes.">
+
+  <base href="/">
+
+  <!-- Fonts (degrade gracefully offline) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/assets/theme.css?v=520">
+</head>
+<body class="page-blog-detail">
+
+  <!-- ========== Announcement marquee ========== -->
+  <div class="announce">
+    <marquee-band speed="36s" aria-label="Announcements">
+      <span class="mq-item">Free shipping on orders over $75 <i>&#10022;</i></span>
+      <span class="mq-item">New in &mdash; The Dune Collection <i>&#10022;</i></span>
+      <span class="mq-item">Every plant ships with a 7-day root guarantee <i>&#10022;</i></span>
+    </marquee-band>
+  </div>
+
+  <!-- ========== Header ========== -->
+  <header class="site-header">
+    <button class="icon-btn burger" data-menu-toggle aria-label="Open menu" aria-expanded="false">
+      <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M2 5h16M2 10h16M2 15h16"/></svg>
+    </button>
+
+    <nav class="nav" aria-label="Primary">
+      <a href="/#shop">Shop</a>
+      <a href="/collections">Collections</a>
+      <a href="/blogs" class="active">Journal</a>
+      <a href="/#community">Community</a>
+    </nav>
+
+    <a class="logo" href="/">FROND<sup>&reg;</sup></a>
+
+    <div class="header-actions">
+      <predictive-search></predictive-search>
+      <button class="icon-btn" data-search-toggle aria-label="Search" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg>
+      </button>
+      <button class="icon-btn" aria-label="Account">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 5-5.5 8-5.5s6.5 1.5 8 5.5"/></svg>
+      </button>
+      <button class="icon-btn" data-cart-toggle aria-label="Open cart">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M5 8h14l-1.2 12.2a1.5 1.5 0 0 1-1.5 1.3H7.7a1.5 1.5 0 0 1-1.5-1.3L5 8Z"/><path d="M8.5 10V6.5a3.5 3.5 0 0 1 7 0V10"/></svg>
+        <span class="cart-count" aria-live="polite">0</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- ========== Single Master Grid for Article & Sticky TOC ========== -->
+    <article class="article-wrap">
+      <div class="container container--article-grid">
+        
+        <!-- Left Column: Title + Cover + Content (All vertically aligned) -->
+        <div class="art-main-col">
+          <!-- Article Header -->
+          <header class="art-post-header">
+            <div class="art-breadcrumbs">
+              <a href="/blogs">Journal</a>
+              <span>/</span>
+              <span id="art-tag-badge" class="art-tag">Care Lab</span>
+            </div>
+
+            <h1 id="art-title" class="art-headline">
+              Loading Article...
+            </h1>
+
+            <!-- Author & Meta Strip -->
+            <div class="art-meta-strip">
+              <div class="art-author-info">
+                <div class="art-author-avatar" id="art-author-avatar">ML</div>
+                <div>
+                  <b id="art-author-name">Maya Lin</b>
+                  <span id="art-author-role">Botanical Care Specialist</span>
+                </div>
+              </div>
+
+              <div class="art-read-meta">
+                <span id="art-read-time">6 min read</span>
+                <span>&bull;</span>
+                <span id="art-pub-date">August 2026</span>
+              </div>
+            </div>
+          </header>
+
+          <!-- Cover Image (Starts right alongside the Sticky TOC) -->
+          <div class="art-cover-box">
+            <img id="art-cover-img" src="/assets/img/hero.jpg" alt="" loading="eager" decoding="async">
+          </div>
+
+          <!-- Rich Content -->
+          <div class="art-content-col" id="art-content-body">
+            <!-- Populated dynamically by blog-detail.js -->
+          </div>
+        </div>
+
+        <!-- Right Column: Floating Editorial Sticky TOC (Starts at same top level as Cover Image) -->
+        <aside class="art-toc-col">
+          <div class="art-toc-sticky" id="art-toc-container">
+            <div class="toc-header">
+              <span class="toc-bullet">?</span>
+              <h4>İçindekiler</h4>
+            </div>
+            <nav class="toc-nav" id="toc-nav-list" aria-label="Table of Contents">
+              <!-- Populated dynamically via IntersectionObserver ScrollSpy -->
+            </nav>
+          </div>
+        </aside>
+
+      </div>
+
+      <!-- ========== Related Articles Section ========== -->
+      <section class="section art-related-sec">
+        <div class="container">
+          <div class="section-head">
+            <h2><reveal-text>Related <em>readings</em></reveal-text></h2>
+            <a class="link-line" href="/blogs">View all stories</a>
+          </div>
+          <div class="blog-articles-grid" id="art-related-grid">
+            <!-- Populated from other blog articles -->
+          </div>
+        </div>
+      </section>
+    </article>
+
+    <!-- ========== Modern Mobile Floating Quick-Jump TOC FAB & Sheet ========== -->
+    <button type="button" class="mobile-toc-fab" id="mobile-toc-fab" aria-label="İçindekiler men?s?n? a?">
+      <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 5h14M3 10h9M3 15h11"/></svg>
+      <span>İçindekiler</span>
+    </button>
+
+    <!-- Mobile Drawer Sheet Backdrop & Container -->
+    <div class="mobile-toc-backdrop" id="mobile-toc-backdrop"></div>
+    <div class="mobile-toc-sheet" id="mobile-toc-sheet">
+      <div class="mobile-toc-sheet-head">
+        <div class="toc-header" style="margin-bottom:0;">
+          <span class="toc-bullet">?</span>
+          <h4>İçindekiler</h4>
+        </div>
+        <button type="button" class="btn-close-sheet" id="btn-close-sheet" aria-label="Kapat">?</button>
+      </div>
+      <div class="mobile-toc-sheet-body" id="mobile-toc-sheet-list">
+        <!-- Cloned or synced from TOC -->
+      </div>
+    </div>
+  </main>
+
+  <!-- ========== Footer (Standard Theme Footer) ========== -->
+  <footer class="site-footer">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <a class="logo" href="/" style="color:var(--cream)">FROND<sup>&reg;</sup></a>
+        <p>Slow-grown plants &amp; quietly sculptural objects. Greenhouse-direct since 2019.</p>
+      </div>
+      <div>
+        <h4>Shop</h4>
+        <ul>
+          <li><a href="/#shop">Bestsellers</a></li>
+          <li><a href="/collections">Statement plants</a></li>
+          <li><a href="/collections">Easy care</a></li>
+          <li><a href="/collections">Pots &amp; objects</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Help</h4>
+        <ul>
+          <li><a href="#">Shipping &amp; returns</a></li>
+          <li><a href="#">Root guarantee</a></li>
+          <li><a href="#">Care guides</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Social</h4>
+        <ul>
+          <li><a href="#">Instagram</a></li>
+          <li><a href="#">Pinterest</a></li>
+          <li><a href="#">TikTok</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-mark" aria-hidden="true">FROND</div>
+    <div class="foot-bar">
+      <span>? 2026 Frond ? demo clone</span>
+      <span>Built with vanilla Web Components</span>
+    </div>
+  </footer>
+
+  <!-- ========== Drawers ========== -->
+  <shop-modal></shop-modal>
+  <cart-drawer></cart-drawer>
+  <menu-drawer left></menu-drawer>
+
+  <script src="/assets/data.js?v=520" defer></script>
+  <script src="/assets/vendor/lenis.min.js" defer></script>
+  <script src="/assets/vendor/embla-carousel.umd.js" defer></script>
+  <script src="/assets/theme.js?v=520" defer></script>
+  <script src="/assets/blog-detail.js?v=520" defer></script>
+</body>
+</html>
+
+
+

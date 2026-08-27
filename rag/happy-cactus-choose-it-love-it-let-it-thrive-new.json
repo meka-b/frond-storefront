@@ -1,0 +1,2641 @@
+{
+  "data": {
+    "plantProfiles": [
+      {
+        "scientificName": "Adromischus cooperi",
+        "commonName": "Plover’s Eggs",
+        "profilePageNumbers": "pp.32–33",
+        "vitalStatistics": {
+          "growthDescription": "slow-growing dwarf succulent branches freely to form a small cluster of stems",
+          "growthRate": "slow",
+          "sizeDescription": "grows up to 4in (10cm) in height and 6in (15cm) across",
+          "anatomicalFeatures": [
+            "thick, fleshy, gray-green leaves",
+            "wavy tips",
+            "green upper surface",
+            "sometimes mottled with purple spots"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in the spring and summer",
+            "winterRestFrequency": "don’t water mid-fall to early spring in cool climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "bright sunlight on a south-facing windowsill (but don’t shut behind curtains on cold nights)",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in the spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "if cared for well, will produce small, reddish, tubular flowers on tall stems in midsummer",
+            "flowerDescription": "small, reddish, tubular flowers on tall stems",
+            "conditionsForFlowering": ""
+          },
+          "propagation": {
+            "methods": [
+              "leaf cuttings"
+            ],
+            "generalInstructions": "Remove individual leaves with the base intact, place on dry potting soil. When roots appear, insert into potting soil, watering about a week later."
+          }
+        }
+      },
+      {
+        "scientificName": "Aeonium arboreum atropurpureum ‘Zwartkop’",
+        "commonName": "Black Rose",
+        "profilePageNumbers": "pp.34–35",
+        "vitalStatistics": {
+          "growthDescription": "relatively tall, branching plant; leaves form at the tips of the branches",
+          "growthRate": "fast",
+          "sizeDescription": "producing a cluster of branches 3ft (1m) or more in height after about two to five years",
+          "anatomicalFeatures": [
+            "flowerlike rosettes of dark purple or almost black leaves",
+            "clusters of striking yellow flowers on mature branches"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "about every two weeks in spring and summer",
+            "winterRestFrequency": "",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "direct sunlight",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "will have best chance of flowering if placed in full sun in cooler climates",
+            "conditionsForFlowering": "prefers subtropical conditions",
+            "flowerDescription": "clusters of striking yellow flowers"
+          },
+          "propagation": {
+            "methods": [
+              "stem cuttings"
+            ],
+            "generalInstructions": "Take cuttings in spring or summer, lay on fresh, dry potting soil. When new roots appear, plant carefully, supporting each cutting with a stick."
+          }
+        }
+      },
+      {
+        "scientificName": "Agave americana var. mediopicta ‘Alba’",
+        "commonName": "Century Plant",
+        "profilePageNumbers": "pp.36–37",
+        "vitalStatistics": {
+          "growthDescription": "grows long leaves in a rosette formation with a central cream-colored stripe",
+          "sizeDescription": "smallest of the species; needs a pot no bigger than 16–20in (40–50cm) in diameter",
+          "anatomicalFeatures": [
+            "sharp, pointy leaves",
+            "jagged teeth"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer",
+            "winterRestFrequency": "don’t water from mid-fall to spring in cool climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "full sunshine, windowsill with lots of light",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in the growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring a week or two before watering again",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": ""
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Remove offset rosettes with a sharp knife, leave to dry for a couple of weeks before repotting. Dust with hormone rooting powder if roots have not formed."
+          },
+          "flowering": null
+        }
+      },
+      {
+        "scientificName": "Aloe variegata",
+        "commonName": "Tiger Aloe",
+        "profilePageNumbers": "pp.38–39",
+        "vitalStatistics": {
+          "growthDescription": "grows clusters of triangular, striped leaves in a rosette formation",
+          "growthRate": "slow",
+          "sizeDescription": "one of the smallest aloes; takes about eight years to make a full-sized rosette; max height and spread 10in (25cm)",
+          "anatomicalFeatures": [
+            "leaves culminate in firm, sharp points",
+            "little white teeth lining edges of each leaf"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer",
+            "winterRestFrequency": "don’t water from mid-fall to spring",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny windowsill or greenhouse kept above 40°F (4°C); indoors don’t shut behind curtains on cold nights",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in the growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "wrap soft material around stem when moving to protect spines and hands"
+          },
+          "flowering": {
+            "easeOfFlowering": "keep dry and cool in winter to encourage flowering",
+            "flowerDescription": "reddish-pink flowers on a stem growing from middle of rosette after about a dozen leaves",
+            "conditionsForFlowering": ""
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Gently remove offset rosettes when repotting; dust with hormone rooting powder if roots have not formed."
+          }
+        }
+      },
+      {
+        "scientificName": "Astrophytum ornatum",
+        "commonName": "Monk’s Hood",
+        "profilePageNumbers": "pp.40–41",
+        "vitalStatistics": {
+          "growthDescription": "starts as young globular plant and becomes thick and columnar",
+          "sizeDescription": "takes about 10 years to grow 12in (30cm) tall and 6–8in (15–20cm) wide; indoors can reach 3ft (1m) tall",
+          "anatomicalFeatures": [
+            "strong yellowish spines running down ribs",
+            "distinct white woolen flecks on surface"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer",
+            "winterRestFrequency": "don’t water from mid-fall to spring",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny spot",
+            "temperature": {
+              "winterNighttime": "don’t expose to temperatures below 41°F (5°C)",
+              "frostFree": true,
+              "growthPeriodDaytime": "",
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in the growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "wrap a cloth around it when repotting to protect from sharp spines"
+          },
+          "flowering": {
+            "easeOfFlowering": "full exposure to sunlight helps flower",
+            "flowerDescription": "yellow or rarely white flowers grow at crown after about 4in (10cm) height",
+            "conditionsForFlowering": ""
+          },
+          "propagation": {
+            "methods": [
+              "sowing seed"
+            ],
+            "generalInstructions": "propagated by growing from seed produced by cross-pollinating two plants"
+          }
+        }
+      },
+      {
+        "scientificName": "Cereus repandus",
+        "commonName": "Peruvian Apple",
+        "profilePageNumbers": "pp.42–43",
+        "vitalStatistics": {
+          "growthDescription": "columnar cactus forms branches as it matures",
+          "growthRate": "fast",
+          "sizeDescription": "from 6in (15cm) seedling to approx. 18in (45cm) after 4–6 years, continues to grow taller",
+          "anatomicalFeatures": [
+            "green or gray-green stems with 7–12 spined ribs"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer",
+            "winterRestFrequency": "don’t water mid-fall to spring in cooler climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny windowsill or greenhouse",
+            "temperature": {
+              "winterNighttime": "minimum 45ºF (7ºC)",
+              "frostFree": true,
+              "growthPeriodDaytime": "",
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in the growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot; choose heavy container",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "wrap prickly stems in soft cloth when repotting"
+          },
+          "flowering": {
+            "easeOfFlowering": "keep healthy and growing steadily to encourage flowers",
+            "flowerDescription": "several white flowers tinged pink or green open at night for a week or two when plant reaches at least 16in (40cm)",
+            "conditionsForFlowering": ""
+          },
+          "propagation": {
+            "methods": [
+              "stem cuttings"
+            ],
+            "generalInstructions": "use branches as cuttings in early summer when about 6in (15cm) long; allow cut end to dry, place on potting soil with sand; water once roots form"
+          }
+        }
+      },
+      {
+        "scientificName": "Cleistocactus strausii",
+        "commonName": "Silver Torch",
+        "profilePageNumbers": "pp.44–45",
+        "vitalStatistics": {
+          "growthDescription": "grows from tiny seedling into tall, columnar plant over several years",
+          "sizeDescription": "takes about five years to reach flowering height of 20–24in (50–60cm)",
+          "anatomicalFeatures": [
+            "green stem densely covered with fine, needlelike white spines"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "only water in spring and summer months about every two weeks",
+            "winterRestFrequency": "don’t water from mid-fall to spring",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "full exposure to sunlight; sunny windowsill or greenhouse",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "wrap soft material around stem when moving to protect spines and hands"
+          },
+          "flowering": {
+            "easeOfFlowering": "keep happy to reach flowering height",
+            "flowerDescription": "tubular flowers flare at tips, form on top side of column; several flowers open for a week or two in summer",
+            "conditionsForFlowering": ""
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "remove offsets from stem when 4in (10cm) tall; dry about a week; place on fresh potting soil and sand; loosely tie to stick for support"
+          }
+        }
+      },
+      {
+        "scientificName": "Cleistocactus winteri colademono",
+        "commonName": "Monkey Tail",
+        "profilePageNumbers": "pp.46–47",
+        "vitalStatistics": {
+          "growthDescription": "steadily produces new upright stems from base that begin to hang as they grow",
+          "sizeDescription": "stems recorded nearly 3ft (1m); estimated to reach 6ft (2m)",
+          "anatomicalFeatures": [
+            "long, white, hairlike spines that get denser with age"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer",
+            "winterRestFrequency": "don’t water mid-fall to spring in cool climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny spot; rotate pot monthly for even sunlight",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times during spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "wrap in soft material when moving to protect spines"
+          },
+          "flowering": {
+            "easeOfFlowering": "keep happy and healthy to encourage bright red, tubular flowers",
+            "flowerDescription": "bright red, tubular flowers toward tips of hanging stems once about 6in (15cm) long",
+            "conditionsForFlowering": ""
+          },
+          "propagation": {
+            "methods": [
+              "stem cuttings"
+            ],
+            "generalInstructions": "cut sprouting stems in early summer when 3–4in (8–10cm) long; dry for a week; place on fresh potting soil with sand to encourage root growth; then pot and water"
+          }
+        }
+      },
+      {
+        "scientificName": "Cotyledon orbiculata var. oblonga (undulata)",
+        "commonName": "Silver Crown",
+        "profilePageNumbers": "pp.48–49",
+        "vitalStatistics": {
+          "growthDescription": "gradually branching, shrubby plant becoming as tall as wide",
+          "sizeDescription": "height and spread 24in (60cm) after about five years; flowers add further 6in (15cm)",
+          "anatomicalFeatures": [
+            "flat, gray-green leaves like paddles or scallop shells with powdery, waxy coating"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or when potting soil nearly dry in spring and summer",
+            "winterRestFrequency": "reduce mid-fall to spring",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny windowsill or lightly shaded but frost-free greenhouse or frame",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly larger pot",
+            "pottingSoilRecommendation": "",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "produces tubular, coral-red flowers every year on erect flower stem",
+            "flowerDescription": "tubular, coral-red flowers with petals flaring at tip",
+            "conditionsForFlowering": ""
+          },
+          "propagation": {
+            "methods": [
+              "leaf cuttings"
+            ],
+            "generalInstructions": "take cuttings just below bottom leaves on branches; place on potting soil with sand; water when roots appear"
+          }
+        }
+      },
+      {
+        "scientificName": "Crassula perfoliata var. minor (falcata)",
+        "commonName": "Propeller Plant",
+        "profilePageNumbers": "pp.50–51",
+        "vitalStatistics": {
+          "growthDescription": "bushy, evergreen succulent gradually increasing size by producing side shoots",
+          "sizeDescription": "can grow to 3ft (1m) in height and spread in wild; as houseplant up to 24in (60cm) tall and 30in (75cm) spread",
+          "anatomicalFeatures": [
+            "thick, sickle-shaped leaves up to 4in (10cm) long produced in overlapping pairs"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer",
+            "winterRestFrequency": "don’t water mid-fall to spring in cool climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "equally happy indoors on sunny windowsill or lightly shaded greenhouse kept above 41°F (5°C)",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times during spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "flowers in late summer when a few years old; blooms last nearly a month",
+            "flowerDescription": "tiny, star-shaped flowers with vivid color in bright light",
+            "conditionsForFlowering": ""
+          },
+          "propagation": {
+            "methods": [
+              "stem cuttings"
+            ],
+            "generalInstructions": "take side shoots as cuttings; place on fresh potting soil; when roots appear, insert into potting soil"
+          }
+        }
+      },
+      {
+        "scientificName": "Dioscorea elephantipes",
+        "commonName": "Turtle Shell Plant",
+        "profilePageNumbers": "pp.54–55",
+        "vitalStatistics": {
+          "growthDescription": "Vinelike stems grow from the top of the tuber each year, dying back at the end of the growing season.",
+          "growthRate": "slow",
+          "sizeDescription": "The vinelike stem can reach a height and spread of 3ft (1m) or more, and will need a support such as a sturdy stake or trellis to twine around.",
+          "anatomicalFeatures": [
+            "above-ground tuber",
+            "partially buried woody tuber",
+            "fissured appearance"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in the spring and summer, when my potting soil is nearly dry",
+            "winterRestFrequency": "Don’t water mid-fall to spring in cool climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "fairly sunny spot, such as on a southeast- or southwest-facing windowsill",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times during spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring, at the end of my winter rest",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "frequency": "",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "If you care for me well, I will produce tiny yellow flowers among the leaves of my top-growth when I’m a few years old.",
+            "flowerDescription": "tiny yellow flowers among the leaves of my top-growth",
+            "conditionsForFlowering": ""
+          },
+          "propagation": {
+            "methods": [
+              "sowing seed"
+            ],
+            "generalInstructions": "Can only be grown from seed produced by cross-pollinating two plants."
+          }
+        }
+      },
+      {
+        "scientificName": "Disocactus (formerly Aporocactus) flagelliformis",
+        "commonName": "Rat-tail Cactus",
+        "profilePageNumbers": "pp.56–57",
+        "vitalStatistics": {
+          "growthDescription": "Trailing cactus, growing long, thin stems from the top of the plant.",
+          "sizeDescription": "The hanging stems can grow to 3ft (1m) or more in length if regularly transplanted.",
+          "anatomicalFeatures": [
+            "thin-stemmed",
+            "trailing stems",
+            "potting soil comprising two parts peat or coir to one part bark chippings"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "Water me regularly in spring and summer, easing off in early fall",
+            "winterRestFrequency": "Keep me drier between late fall and the end of winter",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "dappled sunlight, sunny spot with partial shade",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times during the spring and summer months",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every three or four years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly larger hanging pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "Wrap me in a soft cloth to protect me from damage and to prevent injury"
+          },
+          "flowering": {
+            "easeOfFlowering": "I flower in the summer once stems have reached about 8in (20cm)",
+            "conditionsForFlowering": "Combination of light and shade",
+            "flowerDescription": "deep-pink flowers"
+          },
+          "propagation": {
+            "methods": [
+              "stem cuttings"
+            ],
+            "generalInstructions": "Cut off one of my stems when several have formed, divide into pieces about 3in (7cm) long, lay on dry potting soil with a thin top layer of sand to encourage root growth."
+          }
+        }
+      },
+      {
+        "scientificName": "Echeveria lilacina",
+        "commonName": "Ghost Echeveria",
+        "profilePageNumbers": "pp.58–59",
+        "vitalStatistics": {
+          "growthDescription": "Usually stays solitary (although many other species will go on to form clusters of rosettes).",
+          "sizeDescription": "Rosette can reach diameter of 5–10in (13–25cm). Flower stems grow to height of up to 6in (15cm).",
+          "anatomicalFeatures": [
+            "pointed, spoon-shaped leaves",
+            "covered with a layer of farina (powdery substance)"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer, when my potting soil is nearly dry",
+            "winterRestFrequency": "Don’t water me from mid-fall to early spring",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "some sunlight, happy on a southeast- or southwest-facing windowsill (but don’t shut me behind drapes on cold nights)",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times during spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "after two or three years",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "bestTime": "",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "Will produce slender flower stems bearing small, tubular flowers in spring",
+            "conditionsForFlowering": "Follow care advice and spring season",
+            "flowerDescription": "small, tubular flowers"
+          },
+          "propagation": {
+            "methods": [
+              "leaf cuttings"
+            ],
+            "generalInstructions": "Remove a whole leaf with the base intact, place on dry, fresh potting soil. Roots develop first, followed by a tiny new rosette."
+          }
+        }
+      },
+      {
+        "scientificName": "Echinocactus grusonii",
+        "commonName": "Golden Barrel",
+        "profilePageNumbers": "pp.60–61",
+        "vitalStatistics": {
+          "growthDescription": "Naturally globular, can grow into a thick column if denied full sunlight.",
+          "sizeDescription": "Can eventually reach diameter of about 24–28in (60–70cm).",
+          "anatomicalFeatures": [
+            "dense cover of golden yellow spines",
+            "strong, sharp spines at edges of deep ribs",
+            "solitary, globular body"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer, when my soil is nearly dry",
+            "winterRestFrequency": "Don’t water me from mid-fall to early spring in cool climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny windowsill or greenhouse",
+            "temperature": {
+              "winterNighttime": "Keep me above 41°F (5°C)",
+              "frostFree": true,
+              "sensitivity": "low temperatures can cause scarring",
+              "growthPeriodDaytime": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in the growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "Wear thick gloves to protect yourself, and wrap a cloth around me to prevent damage to my spines",
+            "frequency": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "If kept healthy, will produce yellow flowers",
+            "conditionsForFlowering": "Grow steadily and reach at least size of a soccer ball",
+            "flowerDescription": "yellow flowers from crown in summer"
+          },
+          "propagation": {
+            "methods": [
+              "sowing seed"
+            ],
+            "generalInstructions": "Can only be propagated from seed by cross-pollination; hard to achieve in cultivation."
+          }
+        }
+      },
+      {
+        "scientificName": "Echinocereus subinermis",
+        "commonName": "Echinocereus",
+        "profilePageNumbers": "pp.62–63",
+        "vitalStatistics": {
+          "growthDescription": "Globular in shape when young, slowly becomes columnar and produces a cluster of stems.",
+          "sizeDescription": "Reaches height of about 8in (20cm). Blooms up to 3in (8cm) in diameter.",
+          "anatomicalFeatures": [
+            "ribbed, dark green or bluish-green stems",
+            "short, yellow spines",
+            "least spiny species in genus"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer, when my potting soil is nearly dry",
+            "winterRestFrequency": "Don’t water me from mid-fall to spring",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny spot, such as on a south-facing windowsill or in a greenhouse kept frost-free",
+            "temperature": {
+              "frostFree": true,
+              "growthPeriodDaytime": "",
+              "winterNighttime": "",
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "Produce large, funnel-shaped blooms from an early age",
+            "conditionsForFlowering": "Expose to full sunlight in spring and summer",
+            "flowerDescription": "large, funnel-shaped blooms lasting one or two months in early summer"
+          },
+          "propagation": {
+            "methods": [
+              "stem cuttings"
+            ],
+            "generalInstructions": "Take cuttings of young stems, let dry for a week, then place on fresh, dry potting soil."
+          }
+        }
+      },
+      {
+        "scientificName": "Echinopsis chamaecereus (Chamaecereus sylvestrii)",
+        "commonName": "Peanut Cactus",
+        "profilePageNumbers": "pp.64–65",
+        "vitalStatistics": {
+          "growthDescription": "Heavily clustering plant that needs regular repotting to give it room to expand.",
+          "growthRate": "fast",
+          "sizeDescription": "Clusters of narrow stems about 4–6in (10–15cm) long.",
+          "anatomicalFeatures": [
+            "finger-sized, slightly bristly stems",
+            "numerous red flowers in late spring and early summer"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer, when my soil is nearly dry",
+            "winterRestFrequency": "Don't water mid-fall to spring in cooler climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny spot on a windowsill, or in a greenhouse with a minimum temperature of 39ºF (4ºC)",
+            "temperature": {
+              "winterNighttime": "minimum temperature of 39ºF (4ºC)",
+              "growthPeriodDaytime": "",
+              "frostFree": null,
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times during the growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring, just before watering commences",
+            "potSizePreference": "slightly larger, shallow pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "frequency": "",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "Flower readily when stems are no more than 3in (8cm) long",
+            "conditionsForFlowering": "Kept in a sunny spot",
+            "flowerDescription": "bright red flowers"
+          },
+          "propagation": {
+            "methods": [
+              "stem cuttings"
+            ],
+            "generalInstructions": "Cut off some stems in early spring, place on fresh, dry potting soil with a layer of sand. When roots appear, insert cuttings into potting soil and water."
+          }
+        }
+      },
+      {
+        "scientificName": "Epiphyllum anguliger",
+        "commonName": "Fishbone Cactus",
+        "profilePageNumbers": "pp.68–69",
+        "vitalStatistics": {
+          "growthDescription": "Long, leaflike stems that sprawl downward as they grow.",
+          "sizeDescription": "Hanging stems lengthen to 3ft (1m) or more if regularly repotted.",
+          "anatomicalFeatures": [
+            "flat, deeply lobed stems",
+            "strong-smelling, nocturnal, white or pale yellow flowers"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two or three weeks in spring and summer, with occasional very light watering in fall and late winter",
+            "winterRestFrequency": "",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "some shade, indoors an east- or west-facing windowsill is ideal",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "once a month in spring and summer",
+            "fertilizerType": "high-potash feed"
+          },
+          "repotting": {
+            "bestTime": "early spring",
+            "potSizePreference": "slightly larger hanging pot or lined basket",
+            "pottingSoilRecommendation": "mix of two parts peat or coir to one part bark chippings",
+            "frequency": "",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "Can be reluctant to flower",
+            "conditionsForFlowering": "Need dappled sunshine",
+            "flowerDescription": "strong-smelling, nocturnal, white or pale yellow flowers"
+          },
+          "propagation": {
+            "methods": [
+              "stem cuttings"
+            ],
+            "generalInstructions": "Remove one stem, cut into pieces 4in (10cm) long, lay on fresh, dry potting soil with thin layer of sand, water once roots appear."
+          }
+        }
+      },
+      {
+        "scientificName": "Eriosyce (formerly Neoporteria) senilis",
+        "commonName": "Eriosyce senilis",
+        "profilePageNumbers": "pp.70–71",
+        "vitalStatistics": {
+          "growthDescription": "Globular at first, slowly forming a short, solitary column.",
+          "growthRate": "slow",
+          "sizeDescription": "Reaches 2½–7in (6–18cm) in height and 2–3in (5–8cm) in diameter, taking five years or more to reach maximum size.",
+          "anatomicalFeatures": [
+            "ribbed, green-blue body",
+            "densely covered with bristly, twisted white spines"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every three or four weeks when potting soil is nearly dry in spring and summer",
+            "winterRestFrequency": "Don’t water from mid-fall to early spring",
+            "method": "pouring away any excess in the base",
+            "overwateringWarning": "Prone to rot if overwatered",
+            "waterTypePreference": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny windowsill or greenhouse or frame",
+            "temperature": {
+              "winterNighttime": "no lower than 37–41ºF (3–5ºC)",
+              "frostFree": true,
+              "growthPeriodDaytime": "",
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring, before watering restarts",
+            "potSizePreference": "slightly larger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "frequency": "",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "Readily produce bold, pink flowers that last for a week or two",
+            "conditionsForFlowering": "Given right care and enough sunlight",
+            "flowerDescription": "bold, pink flowers"
+          },
+          "propagation": {
+            "methods": [
+              "sowing seed"
+            ],
+            "generalInstructions": "Grows well from seed; seed may develop into hybrids if near other Eriosyce species."
+          }
+        }
+      },
+      {
+        "scientificName": "Espostoa melanostele",
+        "commonName": "Peruvian Old Lady",
+        "profilePageNumbers": "pp.72–73",
+        "vitalStatistics": {
+          "growthDescription": "Slow-growing cactus gradually forming a clump of columnar stems.",
+          "growthRate": "slow",
+          "sizeDescription": "Indoors reaches height of 10in (25cm) or more within ten years.",
+          "anatomicalFeatures": [
+            "ribbed, grayish-green stem",
+            "rows of sharp spines yellow in young plants, turn black as cactus matures",
+            "dense covering of long, white hairs"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer, when soil is nearly dry",
+            "winterRestFrequency": "Don’t water from mid-fall to spring in cool climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny windowsill",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times during the growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "Wrap soft material around stem to prevent injury when moving or repotting"
+          },
+          "flowering": {
+            "easeOfFlowering": "Won’t bloom until at least 12in (30cm) tall",
+            "conditionsForFlowering": "Patience required; flowers emerge on side of stem on cephalium",
+            "flowerDescription": "white or dull red flowers"
+          },
+          "propagation": {
+            "methods": [
+              "stem cuttings"
+            ],
+            "generalInstructions": "Cut off shoots developing around base, dry for a week, then insert into dry potting soil with base just below surface, support with stick."
+          }
+        }
+      },
+      {
+        "scientificName": "Euphorbia suzannae",
+        "commonName": "Suzanne’s Spurge",
+        "profilePageNumbers": "pp.74–75",
+        "vitalStatistics": {
+          "growthDescription": "Makes a low-growing cluster of stems that spread outward over time.",
+          "sizeDescription": "Maximum height of 6in (15cm), can reach 12in (30cm) across.",
+          "anatomicalFeatures": [
+            "toxic, milky-looking sap",
+            "separate male and female plants"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer, when soil is nearly dry",
+            "winterRestFrequency": "Do not water mid-fall to spring in cooler climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny windowsill or greenhouse with minimum temperature of 39°F (4°C)",
+            "temperature": {
+              "winterNighttime": "minimum temperature of 39°F (4°C)",
+              "growthPeriodDaytime": "",
+              "frostFree": null,
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger shallow pan or pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "frequency": "",
+            "handlingInstructions": ""
+          },
+          "propagation": {
+            "methods": [
+              "sowing seed"
+            ],
+            "generalInstructions": "Cuttings not recommended due to toxic sap; grow new plants from seeds produced on pollinated female plants; cover in fine netting when in fruit."
+          },
+          "flowering": null
+        }
+      },
+      {
+        "scientificName": "Faucaria tuberculosa",
+        "commonName": "Warty Tiger Jaws",
+        "profilePageNumbers": "pp.76–77",
+        "vitalStatistics": {
+          "growthDescription": "Grows quite quickly to make a cluster of rosettes; flowers every year.",
+          "growthRate": "fast",
+          "sizeDescription": "Each rosette grows to about 2in (5cm) across; clusters reach about 6in (15cm) spread after about five years.",
+          "anatomicalFeatures": [
+            "pairs of triangular leaves with soft, toothlike edges",
+            "rosettes produce offsets",
+            "one spectacular yellow flower in fall"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer",
+            "winterRestFrequency": "keep dry from mid-fall to early spring",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny windowsill or lightly shaded greenhouse or frame",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "once in spring",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring",
+            "potSizePreference": "when plant reaches sides of pot, rehome in slightly bigger pot",
+            "frequency": "",
+            "pottingSoilRecommendation": "",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "Given enough sunshine, produces large, sumptuous flowers in center of rosettes",
+            "conditionsForFlowering": "Enough sunshine",
+            "flowerDescription": "large, yellow flowers"
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Remove offsets with sharp knife when repotting; place on potting soil with thin layer of sand; water after about a week."
+          }
+        }
+      },
+      {
+        "scientificName": "Fenestraria rhopalophylla subsp. aurantiaca",
+        "commonName": "Baby’s Toes",
+        "profilePageNumbers": "pp.78–79",
+        "vitalStatistics": {
+          "growthDescription": "Stemless plant that gradually produces new leaves to form a low clump.",
+          "sizeDescription": "Height of 2in (5cm), spread up to 12in (30cm).",
+          "anatomicalFeatures": [
+            "small, fleshy, club-shaped leaves with transparent windowlike area at flattened end"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer, when potting soil is nearly dry",
+            "winterRestFrequency": "Don’t water from mid-fall to spring in cooler climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny position such as south-facing windowsill or frost-free greenhouse",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "just once in early spring",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "Wrap a soft cloth around main clump of leaves and offsets to hold together and prevent damage",
+            "frequency": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "Will produce golden yellow, daisylike flowers in late summer and fall if cared for well",
+            "flowerDescription": "golden yellow, daisylike flowers",
+            "conditionsForFlowering": ""
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Gently separate young offsets around main cluster of leaves; place on fresh potting soil; when roots appear, insert into potting soil and start watering a week or two later."
+          }
+        }
+      },
+      {
+        "scientificName": "Ferocactus latispinus",
+        "commonName": "Devil’s Tongue",
+        "profilePageNumbers": "pp.82–83",
+        "vitalStatistics": {
+          "growthDescription": "Flat-globular cactus, compact and slow-growing.",
+          "growthRate": "slow",
+          "sizeDescription": "After five or six years, about 6in (15cm) width and 4in (10cm) height.",
+          "anatomicalFeatures": [
+            "green stem with very prominent ribs",
+            "clusters of thin, radial spines with about five thicker spines, one sharply hooked"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer, when potting soil is nearly dry",
+            "winterRestFrequency": "Don’t water mid-fall to spring in cooler climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny spot, greenhouse with minimum temperature of 41°F (5°C) or south-facing windowsill",
+            "temperature": {
+              "winterNighttime": "minimum 41°F (5°C)",
+              "frostFree": true,
+              "growthPeriodDaytime": "",
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times during growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "Wear gloves when repotting; wrap thick cloth around plant for extra protection",
+            "frequency": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "Needs full sunlight to produce flowers",
+            "conditionsForFlowering": "Full sunlight",
+            "flowerDescription": "purple or sometimes yellow, funnel-shaped blooms from crown"
+          },
+          "propagation": {
+            "methods": [
+              "sowing seed"
+            ],
+            "generalInstructions": "Has just one stem; propagation only by seed."
+          }
+        }
+      },
+      {
+        "scientificName": "Gasteria batesiana",
+        "commonName": "BATES GASTERIA",
+        "profilePageNumbers": "pp.84–85",
+        "vitalStatistics": {
+          "growthDescription": "The leaves of young plants form two opposite rows. With age these grow into a rosette shape.",
+          "growthRate": "slow",
+          "sizeDescription": "Eventually reaching up to 4in (10cm) in height, with a spread of 8in (20cm).",
+          "anatomicalFeatures": [
+            "dark green, fleshy leaves",
+            "triangular or lance-shaped leaves",
+            "raised white spots",
+            "leaves take on a reddish hue in bright light"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in the spring and summer, when my soil is nearly dry",
+            "winterRestFrequency": "Don’t water mid-fall to early spring in cool climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "bright, indirect light; partial shading; southeast- or southwest-facing windowsill or partially shaded greenhouse",
+            "temperature": {
+              "winterNighttime": "minimum temperature of 41°F (5°C)",
+              "frostFree": true,
+              "sensitivity": "leaves may scorch in full sunlight",
+              "growthPeriodDaytime": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in the growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "after two or three years",
+            "bestTime": "early spring",
+            "pottingSoilRecommendation": "dry potting soil",
+            "potSizePreference": "",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "will start to flower each year in late spring or early summer if well taken care of and once several leaves have formed",
+            "conditionsForFlowering": "well taken care of; formed several leaves",
+            "flowerDescription": "dangling, reddish-orange blooms said to resemble tiny stomachs"
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Gently remove any young offsets in early summer. Place on fresh, dry potting soil, and leave for a week before watering."
+          }
+        }
+      },
+      {
+        "scientificName": "Graptopetalum bellum",
+        "commonName": "CHIHUAHUA FLOWER",
+        "profilePageNumbers": "pp.86–87",
+        "vitalStatistics": {
+          "growthDescription": "The leaves form a flat rosette arrangement.",
+          "growthRate": "slow",
+          "sizeDescription": "Each individual rosette no more than about 3in (8cm) across; low cluster of rosettes up to 6in (15cm) across.",
+          "anatomicalFeatures": [
+            "thick, fleshy, triangular leaves",
+            "slate-gray to dark green leaves",
+            "leaves up to 1½in (3.5cm) in length"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in the spring and summer, when potting soil is nearly dry",
+            "winterRestFrequency": "Don’t water in the fall and winter",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "bright, indirect light; east- or west-facing windowsill or greenhouse",
+            "temperature": {
+              "winterNighttime": "minimum temperature of 41°F (5°C)",
+              "frostFree": true,
+              "sensitivity": "leaves may become scorched if exposed to direct sunlight",
+              "growthPeriodDaytime": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times during the growing period (spring and summer)",
+            "fertilizerType": "high-potash feed"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "will produce flowers from late spring to summer if given winter rest",
+            "conditionsForFlowering": "winter rest",
+            "flowerDescription": "deep pink, star-shaped blooms up to 1in (2.5cm) in diameter on short, branching stems"
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Once finished flowering, gently remove young offsets. Place on fresh, dry potting soil and wait until roots appear before watering."
+          }
+        }
+      },
+      {
+        "scientificName": "Gymnocalycium bruchii",
+        "commonName": "GYMNOCALYCIUM",
+        "profilePageNumbers": "pp.88–89",
+        "vitalStatistics": {
+          "growthDescription": "Quickly produces offsets around the main stem, eventually forming a large, low clump.",
+          "sizeDescription": "Grows to 1–1½in (2–3cm) in height and width; flowers open to about the same size in diameter.",
+          "anatomicalFeatures": [
+            "ribbed, blue-green stems",
+            "curved, white, bristly spines"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer, when potting soil is nearly dry",
+            "winterRestFrequency": "Don’t water mid-fall to spring in cool climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny spot, such as on a south-facing windowsill or in a greenhouse kept frost-free",
+            "temperature": {
+              "winterNighttime": "minimum temperature of 41°F (5°C)",
+              "frostFree": true,
+              "growthPeriodDaytime": "",
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in the spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "produces flowers readily from an early age",
+            "conditionsForFlowering": "keep in bright sunlight",
+            "flowerDescription": "pale pink flowers in spring and summer"
+          },
+          "propagation": {
+            "methods": [
+              "stem cuttings"
+            ],
+            "generalInstructions": "In early summer, take cuttings of offsets. Leave to dry for a week, then place on fresh potting soil. When roots appear, insert into soil and start watering."
+          }
+        }
+      },
+      {
+        "scientificName": "Haworthia attenuata var. clariperla",
+        "commonName": "ZEBRA PLANT",
+        "profilePageNumbers": "pp.90–91",
+        "vitalStatistics": {
+          "growthDescription": "Produces a cluster of narrow, striped green and cream leaves.",
+          "sizeDescription": "Grows no more than about 6in (15cm) in height or spread; after about five years produces enough offsets to fill a pot 12in (30cm) in diameter.",
+          "anatomicalFeatures": [
+            "small, white tubercles (nodules) forming stripes on outer leaf surface"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "water in spring and summer, but only when soil is nearly dry",
+            "winterRestFrequency": "",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "some sun but not too much; east- or west-facing windowsill",
+            "temperature": {
+              "sensitivity": "plant will scorch if exposed to too much direct sunlight",
+              "growthPeriodDaytime": "",
+              "winterNighttime": "",
+              "frostFree": null
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in the spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "when roots have spread to fill current pot, usually after two or three years",
+            "bestTime": "only move during winter rest",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "several small, tubular flowers will appear on a thin flower stem with good general care",
+            "conditionsForFlowering": "good general care",
+            "flowerDescription": "small, tubular flowers"
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Gently remove offsets when repotting. Usually have formed their own roots. Pot separately in early spring and wait about a week before watering."
+          }
+        }
+      },
+      {
+        "scientificName": "Kalanchoe tomentosa",
+        "commonName": "PANDA PLANT",
+        "profilePageNumbers": "pp.92–93",
+        "vitalStatistics": {
+          "growthDescription": "Relatively fast-growing, forms a branching, shrubby structure.",
+          "growthRate": "moderate",
+          "sizeDescription": "After a year or two, about 12–16in (30–40cm) tall with side branches; after five or more years may reach 24in (60cm) tall.",
+          "anatomicalFeatures": [
+            "thick, fleshy, gray-green leaves with brown edges",
+            "soft, feltlike covering",
+            "covered in short, silvery hairs"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "water in spring and summer, but not from mid-fall to early spring in cool climates; check soil is nearly dry before watering",
+            "winterRestFrequency": "",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "some sunshine; windowsill or lightly shaded greenhouse",
+            "temperature": {
+              "winterNighttime": "minimum temperature of 39ºF (4ºC)",
+              "growthPeriodDaytime": "",
+              "frostFree": null,
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times during the growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "fresh, dry potting soil with a layer of sand",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "rarely flowers indoors",
+            "flowerDescription": "clusters of several tubular red flowers may appear on a stem in spring",
+            "conditionsForFlowering": ""
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Remove offsetting branches in spring or summer. Place on fresh, dry potting soil with a layer of sand. Support tiny plants with a stick. Water only once roots appear."
+          }
+        }
+      },
+      {
+        "scientificName": "Leuchtenbergia principis",
+        "commonName": "AGAVE CACTUS",
+        "profilePageNumbers": "pp.94–95",
+        "vitalStatistics": {
+          "growthDescription": "Solitary plant; base becomes increasingly woody with age.",
+          "growthRate": "slow",
+          "sizeDescription": "Eventually reaches about 10in (25cm) in height and spread; takes about four years to reach flowering size.",
+          "anatomicalFeatures": [
+            "long, thin, green tubercles resembling a rosette of leaves",
+            "long, papery spines at tips of tubercles"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in the spring and summer, when soil is nearly dry",
+            "winterRestFrequency": "Do not water mid-fall to spring in cooler climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunshine; south-facing windowsill",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in the growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "flowering": {
+            "easeOfFlowering": "needs to be kept healthy to produce bright yellow flowers",
+            "conditionsForFlowering": "formed at least 15 spined tubercles",
+            "flowerDescription": "bright yellow flowers grow from crown"
+          },
+          "propagation": {
+            "generalInstructions": "Rarely produces offsets; will need to be pollinated to seed.",
+            "methods": [
+              
+            ]
+          },
+          "repotting": null
+        }
+      },
+      {
+        "scientificName": "Lithops marmorata ‘Polepsky smaragd’",
+        "commonName": "LIVING STONES",
+        "profilePageNumbers": "pp.96–97",
+        "vitalStatistics": {
+          "growthDescription": "Makes a cluster of small two-leaved stems that spread quite quickly.",
+          "sizeDescription": "Each part grows to no more than about 1in (2.5cm) tall and 1¼in (3cm) wide; slowly covers surface of a wide, shallow pot.",
+          "anatomicalFeatures": [
+            "each stem divided into two swollen leaves or lobes",
+            "white flowers emerge in summer or fall"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "wait until old stem has completely shriveled before starting to water in spring or early summer; continue every two or three weeks but only when soil is dry",
+            "winterRestFrequency": "stop watering again in early winter",
+            "overwateringWarning": "too much water may split the stems, causing scarring",
+            "method": "",
+            "waterTypePreference": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunshine; sunny windowsill or lightly shaded greenhouse",
+            "temperature": {
+              "winterNighttime": "above 39ºF (4ºC)",
+              "growthPeriodDaytime": "",
+              "frostFree": null,
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "just once at the start of the growing period in late spring",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "only repot when reaching sides of pot",
+            "bestTime": "start of growing season in late spring",
+            "potSizePreference": "",
+            "pottingSoilRecommendation": "",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "will flower every year with right care",
+            "conditionsForFlowering": "right care",
+            "flowerDescription": "buds appear in center of stems and open fully from mid-fall to early winter"
+          },
+          "propagation": {
+            "methods": [
+              "sowing seed",
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Grows well from seed. If seeds unavailable, remove offsets with sharp knife below stem when repotting."
+          }
+        }
+      },
+      {
+        "scientificName": "Mammillaria hahniana",
+        "commonName": "OLD LADY CACTUS",
+        "profilePageNumbers": "pp.98–99",
+        "vitalStatistics": {
+          "growthDescription": "Globular; can be solitary or form sizeable clumps.",
+          "sizeDescription": "Each stem can grow about 4in (10cm) tall.",
+          "anatomicalFeatures": [
+            "covered with dense, white bristles and spines",
+            "light green stem underneath"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "about every two weeks in spring and summer, only when potting soil is nearly dry",
+            "winterRestFrequency": "",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "lots of sunshine; windowsill or greenhouse",
+            "temperature": {
+              "winterNighttime": "minimum temperature of 41°F (5°C)",
+              "frostFree": true,
+              "growthPeriodDaytime": "",
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in the growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly larger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "flowers reliably with winter rest, not too much water, and plenty of sunshine",
+            "conditionsForFlowering": "winter rest period, not too much water, plenty of sunshine",
+            "flowerDescription": "ring of pink flowers near top of stem in late spring and summer"
+          },
+          "propagation": {
+            "methods": [
+              "stem cuttings",
+              "sowing seed"
+            ],
+            "generalInstructions": "If forming clusters, take cuttings of surrounding offsets. Can also be raised from seed."
+          }
+        }
+      },
+      {
+        "scientificName": "Matucana madisoniorum",
+        "commonName": "MATUCANA",
+        "profilePageNumbers": "pp.102–103",
+        "vitalStatistics": {
+          "growthDescription": "Starts globular, can become slightly columnar with age.",
+          "growthRate": "moderate",
+          "sizeDescription": "Eventually grows to about 12in (30cm) in height and 6in (15cm) in width.",
+          "anatomicalFeatures": [
+            "smooth, green body",
+            "few spines",
+            "spines grow in clumps, curved and needlelike"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer, when soil is nearly dry",
+            "winterRestFrequency": "Don’t water mid-fall to spring in cooler climates",
+            "overwateringWarning": "prone to rot if overwatered",
+            "method": "",
+            "waterTypePreference": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunshine; sunny windowsill or greenhouse",
+            "temperature": {
+              "winterNighttime": "minimum temperature of 39°F (4°C)",
+              "growthPeriodDaytime": "",
+              "frostFree": null,
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in the growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "be careful not to knock off spines",
+            "frequency": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "needs to be kept healthy to produce bright red flowers in summer",
+            "conditionsForFlowering": "stem has reached about 3–4in (8–10cm)",
+            "flowerDescription": "bright red flowers grow from crown"
+          },
+          "propagation": {
+            "methods": [
+              "sowing seed"
+            ],
+            "generalInstructions": "Rarely produces offsets; new plants must be grown from seed."
+          }
+        }
+      },
+      {
+        "scientificName": "Melocactus matanzanus",
+        "commonName": "DWARF TURK’S CAP",
+        "profilePageNumbers": "pp.104–105",
+        "vitalStatistics": {
+          "growthDescription": "Round body grows first, followed by distinctive cephalium.",
+          "sizeDescription": "Grows to about 4in (10cm) in height before forming cephalium.",
+          "anatomicalFeatures": [
+            "cephalium is colorful structure made of wool and bristles",
+            "cephalium produces flowers and fruit",
+            "fruits are tubular with waxy texture"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "in cooler climates, water only in spring and summer months when soil is nearly dry (every two weeks or so)",
+            "winterRestFrequency": "",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunshine; sunny windowsill",
+            "temperature": {
+              "winterNighttime": "always keep above 50°F (10°C)",
+              "sensitivity": "used to tropical climates",
+              "growthPeriodDaytime": "",
+              "frostFree": null
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times during spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "frequency": "",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "tiny pink flowers grow from woolly cephalium",
+            "conditionsForFlowering": "keep growing healthily with correct feeding and watering",
+            "flowerDescription": "tiny pink flowers from cephalium"
+          },
+          "propagation": {
+            "methods": [
+              "sowing seed"
+            ],
+            "generalInstructions": "Rarely have offsets; often produce fruit. Seeds can be grown from fruit."
+          }
+        }
+      },
+      {
+        "scientificName": "Opuntia microdasys alba",
+        "commonName": "ANGEL’S WINGS",
+        "profilePageNumbers": "pp.106–107",
+        "vitalStatistics": {
+          "growthDescription": "Forms a branching plant of flattened pads as wide as it is tall over a few years.",
+          "sizeDescription": "Slowly branches to reach about 8in (20cm) in height and spread; may be top-heavy indoors.",
+          "anatomicalFeatures": [
+            "oval, mid-green pads covered with soft, white spines",
+            "new pads branch from top of older ones",
+            "younger pads may dry up in winter"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every other week in spring and summer when soil is nearly dry",
+            "winterRestFrequency": "Don’t water from mid-fall to spring in cooler climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunny spot; temperatures above 41ºF (5ºC); windowsill or greenhouse",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in the spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "frequency": "",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "flowers quite readily in summer when a few years old",
+            "conditionsForFlowering": "put in sunny spot",
+            "flowerDescription": ""
+          },
+          "propagation": {
+            "methods": [
+              "stem cuttings"
+            ],
+            "generalInstructions": "Remove some pads by cutting at joint with sharp knife. Allow cut surfaces to dry, then lay flat on fresh potting soil with light sand covering. Water when roots start to emerge."
+          }
+        }
+      },
+      {
+        "scientificName": "Orbea variegata",
+        "commonName": "STARFISH FLOWER",
+        "profilePageNumbers": "pp.110–111",
+        "vitalStatistics": {
+          "growthDescription": "Produces a cluster of stems; fast and prolific grower.",
+          "growthRate": "fast",
+          "sizeDescription": "Rarely grows more than about 6in (15cm) in height and spread; eventually produces enough offsets to fill a pot 12in (30cm) in diameter.",
+          "anatomicalFeatures": [
+            "rows of blunt “teeth” in upper part of each stem",
+            "mottled, star-shaped flowers"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "about every two weeks in spring and summer, only when soil is nearly dry",
+            "winterRestFrequency": "Don’t water from mid-fall onward in cool climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "some sunshine but not too much; southeast- or southwest-facing windowsill",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times during the growing period",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "winter",
+            "pottingSoilRecommendation": "dry potting soil",
+            "frequency": "",
+            "potSizePreference": "",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "flowers readily once a few stems have developed",
+            "conditionsForFlowering": "once a few stems have developed",
+            "flowerDescription": "distinctive mottled, star-shaped flowers"
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Gently remove offsets when repotting. If center of clump has died, break undamaged parts into smaller clumps and transplant."
+          }
+        }
+      },
+      {
+        "scientificName": "Oreocereus leucotrichus",
+        "commonName": "OREOCEREUS",
+        "profilePageNumbers": "pp.112–113",
+        "vitalStatistics": {
+          "growthDescription": "Usually a clustering cactus forming a sturdy clump of columns over time.",
+          "sizeDescription": "Grows to about 2ft (60cm) after ten years; can eventually reach 3ft (1m) in height with stem diameter about 4in (10cm).",
+          "anatomicalFeatures": [
+            "10–15 ribs per stem",
+            "offsets grow at base when plant is 4in (10cm) tall",
+            "showy red flowers emerge through thick wool-like hairs on side of column near growing point"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer when soil is nearly dry",
+            "winterRestFrequency": "Don’t water from mid-fall to spring in cooler climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "full sunlight on windowsill or in greenhouse",
+            "temperature": null,
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in the growing period",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "frequency": "",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "full sunlight helps produce flowers",
+            "conditionsForFlowering": "reached height of 2ft (60cm)",
+            "flowerDescription": "deep red, funnel-shaped flowers grow in summer from top of stem"
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Once offsets are about 6in (15cm) tall, remove in early summer with sharp knife and leave to dry. Prop on fresh, dry potting soil with sand layer. Water when roots appear."
+          }
+        }
+      },
+      {
+        "scientificName": "Pachyphytum oviferum",
+        "commonName": "MOONSTONES",
+        "profilePageNumbers": "pp.114–115",
+        "vitalStatistics": {
+          "growthDescription": "Branches and makes a clump of stems, each with its own cluster of leaves.",
+          "sizeDescription": "Clumps may grow to 8in (20cm) long and sprawl to about 12in (30cm) in diameter over eight to ten years.",
+          "anatomicalFeatures": [
+            "rosettes of fleshy leaves",
+            "leaves 1¼–2in (3–5cm) long and 1¼in (3cm) wide",
+            "leaves often tightly packed",
+            "gaps appear if plant isn’t getting enough light"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks in spring and summer, but only when soil is nearly dry",
+            "winterRestFrequency": "Don’t water mid-fall onward in cool climates",
+            "method": "",
+            "waterTypePreference": "",
+            "overwateringWarning": ""
+          },
+          "positioning": {
+            "lightRequirements": "sunshine; sunny windowsill or greenhouse",
+            "temperature": {
+              "winterNighttime": "minimum temperature of 39ºF (4ºC)",
+              "growthPeriodDaytime": "",
+              "frostFree": null,
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "just once at the start of the growing period in late spring",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "only repot when reaching sides of pot",
+            "bestTime": "start of growing season in late spring",
+            "potSizePreference": "",
+            "pottingSoilRecommendation": "",
+            "handlingInstructions": ""
+          },
+          "flowering": null,
+          "propagation": null
+        }
+      },
+      {
+        "scientificName": "Pachyphytum compactum",
+        "commonName": "Pachyphytum compactum",
+        "profilePageNumbers": "116",
+        "vitalStatistics": {
+          "growthDescription": "It grows in rosettes.",
+          "sizeDescription": "Not explicitly stated for size, but implied compact rosette form.",
+          "anatomicalFeatures": [
+            "cylindrical leaves",
+            "purple tips",
+            "flowers are yellow to pinkish orange"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "Not explicitly stated",
+            "winterRestFrequency": "Not explicitly stated",
+            "method": "Not explicitly stated",
+            "waterTypePreference": "Not explicitly stated",
+            "overwateringWarning": "Not explicitly stated"
+          },
+          "positioning": {
+            "lightRequirements": "Not explicitly stated",
+            "temperature": {
+              "growthPeriodDaytime": "Not explicitly stated",
+              "winterNighttime": "Not explicitly stated",
+              "frostFree": false,
+              "sensitivity": "Not explicitly stated"
+            },
+            "ventilationRequirements": "Not explicitly stated"
+          },
+          "feeding": {
+            "frequency": "two or three times in spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "spring",
+            "potSizePreference": "slightly larger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "Don‘t water me for two weeks afterward."
+          },
+          "flowering": {
+            "easeOfFlowering": "Keep me healthy to encourage my flowers.",
+            "conditionsForFlowering": "Not explicitly stated",
+            "flowerDescription": "flowers are yellow to pinkish orange"
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Remove some of my leaves, keeping the base of each one intact. Lay them on dry, fresh potting soil with a thin layer of sand. They will send out roots and a tiny rosette will form."
+          }
+        }
+      },
+      {
+        "scientificName": "Pachyphytum hookeri",
+        "commonName": "Pachyphytum hookeri",
+        "profilePageNumbers": "116",
+        "vitalStatistics": {
+          "growthDescription": "compact, rosette-forming species",
+          "anatomicalFeatures": [
+            "longer, tapering leaves",
+            "coral-colored flowers"
+          ],
+          "growthRate": null,
+          "sizeDescription": ""
+        },
+        "careInstructions": {
+          "feeding": {
+            "frequency": "two or three times in spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "watering": null,
+          "positioning": null,
+          "repotting": null,
+          "flowering": null,
+          "propagation": null
+        }
+      },
+      {
+        "scientificName": "Parodia chrysacanthion",
+        "commonName": "Golden Powder Puff",
+        "profilePageNumbers": "116-117",
+        "vitalStatistics": {
+          "growthDescription": "An initially globular cactus, this will cluster slowly after a few years.",
+          "growthRate": "slow",
+          "sizeDescription": "grows up to 5in (13cm) in height and 4in (10cm) in width",
+          "anatomicalFeatures": [
+            "spirally arranged ribs",
+            "dense covering of fine, golden spines",
+            "crown covered with very slim, pale yellow spines"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer, when potting soil is nearly dry",
+            "winterRestFrequency": "water occasionally from mid-fall to spring",
+            "method": "Not explicitly stated",
+            "waterTypePreference": "Not explicitly stated",
+            "overwateringWarning": "Not explicitly stated"
+          },
+          "positioning": {
+            "lightRequirements": "bright light, windowsill or lightly shaded greenhouse",
+            "temperature": {
+              "growthPeriodDaytime": "Not explicitly stated",
+              "winterNighttime": "above 41°F (5°C)",
+              "frostFree": true,
+              "sensitivity": "Not explicitly stated"
+            },
+            "ventilationRequirements": "Not explicitly stated"
+          },
+          "feeding": {
+            "frequency": "two or three times during spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every two or three years",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "take extra care when repotting due to delicate spines"
+          },
+          "flowering": {
+            "easeOfFlowering": "From an early age, I produce golden yellow, funnel-shaped blooms at my crown.",
+            "conditionsForFlowering": "A cooling period during the winter helps me to flower the following spring.",
+            "flowerDescription": "golden yellow, funnel-shaped blooms"
+          },
+          "propagation": {
+            "methods": [
+              "sowing seed",
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Take cuttings from the offsets that develop around my stem. Dry them for a week, then place them on fresh potting soil. When roots appear, put them into the soil, and start watering."
+          }
+        }
+      },
+      {
+        "scientificName": "Parodia leninghausii",
+        "commonName": "Yellow Tower",
+        "profilePageNumbers": "118-119",
+        "vitalStatistics": {
+          "growthDescription": "Starts as a young globular plant, becoming columnar then clustering freely from the base.",
+          "sizeDescription": "columnar stem grows to 12in (30cm) tall or more",
+          "anatomicalFeatures": [
+            "about 30 ribs covered with soft, golden spines",
+            "large, bright yellow flowers at apex"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or when potting soil is nearly dry in spring and summer only",
+            "winterRestFrequency": "Not explicitly stated",
+            "method": "Not explicitly stated",
+            "waterTypePreference": "Not explicitly stated",
+            "overwateringWarning": "If roots look brown when repotting, cut them back to white tissue (sign of too much water)"
+          },
+          "positioning": {
+            "lightRequirements": "sunny position such as south-facing windowsill or greenhouse above 41ºF (5ºC)",
+            "temperature": {
+              "growthPeriodDaytime": "Not explicitly stated",
+              "winterNighttime": "above 41ºF (5ºC)",
+              "frostFree": true,
+              "sensitivity": "Not explicitly stated"
+            },
+            "ventilationRequirements": "Not explicitly stated"
+          },
+          "feeding": {
+            "frequency": "two or three times in spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring",
+            "potSizePreference": "slightly larger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "frequency": "",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "I produce several flowers over a period of a week or two in spring and summer.",
+            "conditionsForFlowering": "Expose me to plenty of sunlight.",
+            "flowerDescription": "large, bright yellow flowers"
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Cut away one of my clustering stems in summer when it’s two or three years old. Dry it for a week and put it on fresh potting soil with a thin layer of sand. When roots show, insert it into the soil and start watering."
+          }
+        }
+      },
+      {
+        "scientificName": "Pilosocereus pachycladus",
+        "commonName": "Blue Torch",
+        "profilePageNumbers": "120-121",
+        "vitalStatistics": {
+          "growthDescription": "Slow-growing columnar cactus solitary to 36in (90cm) before clustering from the base.",
+          "growthRate": "slow",
+          "sizeDescription": "Within eight years, should grow to about 24in (60cm) in height.",
+          "anatomicalFeatures": [
+            "blue-silver, almost turquoise stems",
+            "contrasting yellow spines",
+            "five to nineteen ribs"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer when soil is nearly dry",
+            "winterRestFrequency": "Don’t water from mid-fall to spring in cooler climates",
+            "method": "Not explicitly stated",
+            "waterTypePreference": "Not explicitly stated",
+            "overwateringWarning": "Overwatering can cause root rot and loss of plant"
+          },
+          "positioning": {
+            "lightRequirements": "sunshine, sunny windowsill or greenhouse with minimum temperature of 43ºF (6ºC)",
+            "temperature": {
+              "growthPeriodDaytime": "Not explicitly stated",
+              "winterNighttime": "minimum 43ºF (6ºC)",
+              "frostFree": true,
+              "sensitivity": "Not explicitly stated"
+            },
+            "ventilationRequirements": "Not explicitly stated"
+          },
+          "feeding": {
+            "frequency": "two or three times in growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "fresh, dry potting soil",
+            "handlingInstructions": "Wear thick gloves and wrap a cloth around me to prevent damage to spines",
+            "frequency": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "Flowers are rare in cultivation, appear when about 36in (90cm) tall.",
+            "conditionsForFlowering": "Reach about 36in (90cm) tall",
+            "flowerDescription": "white flowers on the side of column, emerge at night"
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Remove offsets when about 8in (20cm) tall. Dry for a week or so, then place on fresh, dry potting soil with a layer of sand. Do not water until roots appear."
+          }
+        }
+      },
+      {
+        "scientificName": "Pygmaeocereus bylesianus",
+        "commonName": "Pygmaeocereus",
+        "profilePageNumbers": "122-123",
+        "vitalStatistics": {
+          "growthDescription": "Short, columnar cactus steadily produces offsets to form a cluster of stems.",
+          "sizeDescription": "Individual columns grow up to 3in (8cm) tall and about 3/4in (2cm) diameter; flower stems about 2 1/2in (6cm) long.",
+          "anatomicalFeatures": [
+            "dark green, columnar stem",
+            "12–17 ribs",
+            "short, pale to dark brown spines",
+            "many offsets branch from base",
+            "white flowers appear on stems, bloom at dusk or in dark"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer when potting soil is nearly dry",
+            "winterRestFrequency": "Don't water mid-fall to early spring in cooler climates",
+            "method": "Not explicitly stated",
+            "waterTypePreference": "Not explicitly stated",
+            "overwateringWarning": "Not explicitly stated"
+          },
+          "positioning": {
+            "lightRequirements": "sunny location on windowsill or greenhouse",
+            "temperature": {
+              "growthPeriodDaytime": "Not explicitly stated",
+              "winterNighttime": "no lower than 41ºF (5ºC)",
+              "frostFree": true,
+              "sensitivity": "Not explicitly stated"
+            },
+            "ventilationRequirements": "Not explicitly stated"
+          },
+          "feeding": {
+            "frequency": "two or three times with water in spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "winter",
+            "potSizePreference": "slightly bigger pot",
+            "handlingInstructions": "Don't water for at least two weeks afterward",
+            "frequency": "",
+            "pottingSoilRecommendation": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "Can produce beautiful, large, white flowers.",
+            "conditionsForFlowering": "Place in sunny spot.",
+            "flowerDescription": "large, white, nocturnal flowers that bloom for a single night"
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Remove a few offsets in early summer when at least 2in (5cm) long. Place on potting soil with thin layer of sand. Start watering when roots appear, then insert cuttings gently into soil."
+          }
+        }
+      },
+      {
+        "scientificName": "Rebutia krainziana",
+        "commonName": "Crown Cactus",
+        "profilePageNumbers": "124-125",
+        "vitalStatistics": {
+          "growthDescription": "Globular and grows quite quickly to make a cluster of stems.",
+          "growthRate": "moderate",
+          "sizeDescription": "Spreads outward but never more than about 2in (5cm) tall.",
+          "anatomicalFeatures": [
+            "dark green stems",
+            "contrasting white spines",
+            "flowers usually red, may be yellow, orange, or white"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer when potting soil is nearly dry",
+            "winterRestFrequency": "Ease off in early fall, do not water in late fall and winter in cool climates",
+            "method": "Not explicitly stated",
+            "waterTypePreference": "Not explicitly stated",
+            "overwateringWarning": "Not explicitly stated"
+          },
+          "positioning": {
+            "lightRequirements": "sunshine, sunny windowsill or greenhouse",
+            "temperature": {
+              "growthPeriodDaytime": "Not explicitly stated",
+              "winterNighttime": "minimum 39°F (4°C)",
+              "frostFree": true,
+              "sensitivity": "Not explicitly stated"
+            },
+            "ventilationRequirements": "Not explicitly stated"
+          },
+          "feeding": {
+            "frequency": "two or three times during growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "every year at first, then every two or three years once mature",
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "Flowers easily in spring and summer.",
+            "conditionsForFlowering": "Keep healthy.",
+            "flowerDescription": "bright red flowers appear from base of stems when about 1 1/4in (3cm) tall"
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Remove offsets when at least 3/4in (2cm) tall. Leave to dry for about a week before placing on fresh potting soil and a layer of sand. Water once roots form."
+          }
+        }
+      },
+      {
+        "scientificName": "Schlumbergera truncata",
+        "commonName": "Christmas Cactus",
+        "profilePageNumbers": "128-129",
+        "vitalStatistics": {
+          "growthDescription": "Trailing plant with flattened stems that droop over sides of pot.",
+          "sizeDescription": "Several stems lengthen to 12in (30cm) or more over a few years.",
+          "anatomicalFeatures": [
+            "fresh, scallop-edged segments",
+            "buds appear at tips of newest segments"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "water in spring and summer, easing off in early fall",
+            "winterRestFrequency": "don’t water after flowering in winter months in cooler climates",
+            "method": "Not explicitly stated",
+            "waterTypePreference": "Not explicitly stated",
+            "overwateringWarning": "Not explicitly stated"
+          },
+          "positioning": {
+            "lightRequirements": "dappled sun, southeast- or southwest-facing windowsill",
+            "temperature": {
+              "growthPeriodDaytime": "Not explicitly stated",
+              "winterNighttime": "Not explicitly stated",
+              "frostFree": false,
+              "sensitivity": "Not explicitly stated"
+            },
+            "ventilationRequirements": "Not explicitly stated"
+          },
+          "feeding": {
+            "frequency": "two or three times in growing period",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "frequency": "when roots have filled the pot",
+            "bestTime": "after flowering",
+            "pottingSoilRecommendation": "dry mix of two parts acid soil (peat or coir) and one part bark chippings",
+            "handlingInstructions": "Don’t water until early spring",
+            "potSizePreference": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "Pink buds followed by flowers appear in fall or early winter on stems that have grown new segments.",
+            "conditionsForFlowering": "Follow care advice.",
+            "flowerDescription": "pink buds and flowers"
+          },
+          "propagation": {
+            "methods": [
+              "stem cuttings"
+            ],
+            "generalInstructions": "Make cuttings at stem joints and let dry for a few days. Place on potting soil, inserting each cutting gently into soil when roots appear."
+          }
+        }
+      },
+      {
+        "scientificName": "Sedum morganianum",
+        "commonName": "Donkey’s Tail",
+        "profilePageNumbers": "130-131",
+        "vitalStatistics": {
+          "growthDescription": "Produces a succession of leaf-covered stems, which start to hang as they grow.",
+          "sizeDescription": "Hanging stems lengthen to 24in (60cm) or more if regularly repotted.",
+          "anatomicalFeatures": [
+            "blue-green leaves tightly packed along trailing stems"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer when soil is dry",
+            "winterRestFrequency": "don’t water from early fall to early spring in cool climates",
+            "method": "Not explicitly stated",
+            "waterTypePreference": "Not explicitly stated",
+            "overwateringWarning": "Not explicitly stated"
+          },
+          "positioning": {
+            "lightRequirements": "partial shade so full sun does not damage leaves",
+            "temperature": {
+              "frostFree": false,
+              "growthPeriodDaytime": "",
+              "winterNighttime": "",
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring",
+            "potSizePreference": "slightly larger hanging pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "Repot very carefully",
+            "frequency": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "Keep healthy to encourage clusters of pinkish-red flowers.",
+            "flowerDescription": "clusters of pinkish-red flowers from ends of hanging stems in early summer",
+            "conditionsForFlowering": ""
+          },
+          "propagation": {
+            "methods": [
+              "stem cuttings"
+            ],
+            "generalInstructions": "Share in spring or summer by cutting off stems about 2 3/4 in (7cm) long. Lay on dry potting soil with thin layer of sand. Water once roots start to appear."
+          }
+        }
+      },
+      {
+        "scientificName": "Senecio rowleyanus",
+        "commonName": "String of Pearls",
+        "profilePageNumbers": "134-135",
+        "vitalStatistics": {
+          "growthDescription": "Stems multiply and lengthen to cascade over sides of pot.",
+          "sizeDescription": "Stems can grow to about 3ft (1m) in length indoors.",
+          "anatomicalFeatures": [
+            "round, green leaves that resemble peas or pearls"
+          ],
+          "growthRate": null
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every couple of weeks in spring and summer",
+            "winterRestFrequency": "don't water from mid-fall to spring in cooler climates",
+            "method": "Not explicitly stated",
+            "waterTypePreference": "Not explicitly stated",
+            "overwateringWarning": "Not explicitly stated"
+          },
+          "positioning": {
+            "lightRequirements": "near a moderately sunny window, not too much direct sun",
+            "temperature": {
+              "frostFree": false,
+              "growthPeriodDaytime": "",
+              "winterNighttime": "",
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring",
+            "potSizePreference": "slightly larger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "Gather stems lightly together when repotting",
+            "frequency": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "With right light, water, and food, produces white tubular flowers in summer.",
+            "conditionsForFlowering": "Right amount of light, water, and food.",
+            "flowerDescription": "white tubular flowers with a pleasant, slightly spicy scent"
+          },
+          "propagation": {
+            "methods": [
+              "stem cuttings"
+            ],
+            "generalInstructions": "Cut off length of stem about 2in (5cm) long in early summer. Lay on fresh potting soil with thin layer of sand. Water only when roots appear."
+          }
+        }
+      },
+      {
+        "scientificName": "Stenocactus crispatus",
+        "commonName": "Brain Cactus",
+        "profilePageNumbers": "136-137",
+        "vitalStatistics": {
+          "growthDescription": "Forms a solitary stem rounded in shape or short column.",
+          "growthRate": "slow",
+          "sizeDescription": "Short column about 5in (12cm) tall and 4in (10cm) wide after ten or more years.",
+          "anatomicalFeatures": [
+            "narrow, wavy, brain-like ribs",
+            "pale, flat spines up to 1/2in (1cm) long"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so in spring and summer when potting soil is nearly dry",
+            "winterRestFrequency": "don’t water from mid-fall to early spring in cool climates",
+            "method": "Not explicitly stated",
+            "waterTypePreference": "Not explicitly stated",
+            "overwateringWarning": "Not explicitly stated"
+          },
+          "positioning": {
+            "lightRequirements": "sunny spot on windowsill or greenhouse",
+            "temperature": {
+              "winterNighttime": "above 41ºF (5ºC)",
+              "frostFree": true,
+              "growthPeriodDaytime": "",
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times during growing period",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "before watering starts in early spring",
+            "potSizePreference": "larger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "Handle with extra care due to strong spines that penetrate gloves",
+            "frequency": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "If plenty of sun, white and purple flowers appear in center of new growth when a few years old.",
+            "conditionsForFlowering": "Plenty of sun.",
+            "flowerDescription": "white and purple flowers"
+          },
+          "propagation": {
+            "methods": [
+              "sowing seed",
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Slow to make clusters; may have to wait until offsets produced to remove."
+          }
+        }
+      },
+      {
+        "scientificName": "Sulcorebutia rauschii",
+        "commonName": "Sulcorebutia",
+        "profilePageNumbers": "138-139",
+        "vitalStatistics": {
+          "growthDescription": "Globular, growing slowly to make a cluster of purple and green stems.",
+          "growthRate": "slow",
+          "sizeDescription": "Clump about 6–8in (15–20cm) across after eight or ten years.",
+          "anatomicalFeatures": [
+            "stems 3/4–1 1/2in (2–4cm) in height",
+            "groups of short, black spines that look like fishbone",
+            "deep pink flowers emerge from base"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks in spring and summer when soil is nearly dry",
+            "winterRestFrequency": "don’t water in late fall and winter in cool climates",
+            "method": "Not explicitly stated",
+            "waterTypePreference": "Not explicitly stated",
+            "overwateringWarning": "Not explicitly stated"
+          },
+          "positioning": {
+            "lightRequirements": "sunny spot on windowsill or greenhouse",
+            "temperature": {
+              "winterNighttime": "minimum 39ºF (4ºC)",
+              "frostFree": true,
+              "growthPeriodDaytime": "",
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in growing period (spring and summer)",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "spring",
+            "potSizePreference": "slightly larger pot",
+            "pottingSoilRecommendation": "dry, fresh potting soil",
+            "handlingInstructions": "Don't water for two weeks",
+            "frequency": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "Need good exposure to sunlight to keep healthy and encourage pink flowers.",
+            "conditionsForFlowering": "Good sunlight exposure.",
+            "flowerDescription": "pink flowers around base in late spring"
+          },
+          "propagation": {
+            "methods": [
+              "dividing clump-forming offsets"
+            ],
+            "generalInstructions": "Remove offsets in early summer when at least 3/4in (2cm) tall. Cut at junction with main stem, dry for a week, then place on fresh, dry potting soil with sand. Water once roots appear."
+          }
+        }
+      },
+      {
+        "scientificName": "Thelocactus bicolor",
+        "commonName": "Glory of Texas",
+        "profilePageNumbers": "140-141",
+        "vitalStatistics": {
+          "growthDescription": "Grows slowly to form a cluster of either globular or short, columnar stems.",
+          "growthRate": "slow",
+          "sizeDescription": "Grows to maximum height of about 5–6in (12–15cm).",
+          "anatomicalFeatures": [
+            "spines vary from dark brown to whitish yellow",
+            "spirally arranged ribs",
+            "large pink flowers from growing point at top of stem"
+          ]
+        },
+        "careInstructions": {
+          "watering": {
+            "growthPeriodFrequency": "every two weeks or so when soil is nearly dry during spring and summer in cooler climates",
+            "winterRestFrequency": "Not explicitly stated",
+            "method": "Not explicitly stated",
+            "waterTypePreference": "Not explicitly stated",
+            "overwateringWarning": "Not explicitly stated"
+          },
+          "positioning": {
+            "lightRequirements": "sunny spot such as south-facing windowsill or greenhouse with sunny aspect",
+            "temperature": {
+              "frostFree": false,
+              "growthPeriodDaytime": "",
+              "winterNighttime": "",
+              "sensitivity": ""
+            },
+            "ventilationRequirements": ""
+          },
+          "feeding": {
+            "frequency": "two or three times in spring and summer",
+            "fertilizerType": "high-potash fertilizer"
+          },
+          "repotting": {
+            "bestTime": "early spring",
+            "potSizePreference": "slightly bigger pot",
+            "pottingSoilRecommendation": "dry potting soil",
+            "handlingInstructions": "Wear thick gloves due to long, sharp spines",
+            "frequency": ""
+          },
+          "flowering": {
+            "easeOfFlowering": "Should flower without special help when a few years old if exposed to enough direct sunlight.",
+            "conditionsForFlowering": "Enough direct sunlight.",
+            "flowerDescription": "large pink flowers"
+          },
+          "propagation": {
+            "generalInstructions": "Best to keep to yourself or grow from seed; cuttings can cause damage.",
+            "methods": [
+              
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "extract_metadata": {
+    "field_metadata": {
+      "document_metadata": {
+        "error": "incorrect type or null value provided at path (plantProfiles.0.careInstructions.positioning.temperature)\nincorrect type or null value provided at path (plantProfiles.1.careInstructions.positioning.temperature)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.2.vitalStatistics.growthRate)\nincorrect type or null value provided at path (plantProfiles.2.careInstructions.positioning.temperature)\nincorrect type or null value provided at path (plantProfiles.2.careInstructions.flowering)\nincorrect type or null value provided at path (plantProfiles.3.careInstructions.positioning.temperature)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.4.vitalStatistics.growthRate)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.6.vitalStatistics.growthRate)\nincorrect type or null value provided at path (plantProfiles.6.careInstructions.positioning.temperature)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.7.vitalStatistics.growthRate)\nincorrect type or null value provided at path (plantProfiles.7.careInstructions.positioning.temperature)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.8.vitalStatistics.growthRate)\nincorrect type or null value provided at path (plantProfiles.8.careInstructions.positioning.temperature)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.9.vitalStatistics.growthRate)\nincorrect type or null value provided at path (plantProfiles.9.careInstructions.positioning.temperature)\nincorrect type or null value provided at path (plantProfiles.10.careInstructions.positioning.temperature)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.11.vitalStatistics.growthRate)\nincorrect type or null value provided at path (plantProfiles.11.careInstructions.positioning.temperature)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.12.vitalStatistics.growthRate)\nincorrect type or null value provided at path (plantProfiles.12.careInstructions.positioning.temperature)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.13.vitalStatistics.growthRate)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.14.vitalStatistics.growthRate)\nInput should be a valid boolean at path (plantProfiles.15.careInstructions.positioning.temperature.frostFree)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.16.vitalStatistics.growthRate)\nincorrect type or null value provided at path (plantProfiles.16.careInstructions.positioning.temperature)\nincorrect type or null value provided at path (plantProfiles.18.careInstructions.positioning.temperature)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.19.vitalStatistics.growthRate)\nInput should be a valid boolean at path (plantProfiles.19.careInstructions.positioning.temperature.frostFree)\nincorrect type or null value provided at path (plantProfiles.19.careInstructions.flowering)\nincorrect type or null value provided at path (plantProfiles.20.careInstructions.positioning.temperature)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.21.vitalStatistics.growthRate)\nincorrect type or null value provided at path (plantProfiles.21.careInstructions.positioning.temperature)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.25.vitalStatistics.growthRate)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.26.vitalStatistics.growthRate)\nInput should be a valid boolean at path (plantProfiles.26.careInstructions.positioning.temperature.frostFree)\nInput should be a valid boolean at path (plantProfiles.27.careInstructions.positioning.temperature.frostFree)\nincorrect type or null value provided at path (plantProfiles.28.careInstructions.positioning.temperature)\nincorrect type or null value provided at path (plantProfiles.28.careInstructions.repotting)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.29.vitalStatistics.growthRate)\nInput should be a valid boolean at path (plantProfiles.29.careInstructions.positioning.temperature.frostFree)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.30.vitalStatistics.growthRate)\nInput should be a valid boolean at path (plantProfiles.31.careInstructions.positioning.temperature.frostFree)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.32.vitalStatistics.growthRate)\nInput should be a valid boolean at path (plantProfiles.32.careInstructions.positioning.temperature.frostFree)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.33.vitalStatistics.growthRate)\nincorrect type or null value provided at path (plantProfiles.33.careInstructions.positioning.temperature)\nincorrect type or null value provided at path (plantProfiles.34.careInstructions.positioning.temperature)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.35.vitalStatistics.growthRate)\nincorrect type or null value provided at path (plantProfiles.35.careInstructions.positioning.temperature)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.36.vitalStatistics.growthRate)\nInput should be a valid boolean at path (plantProfiles.36.careInstructions.positioning.temperature.frostFree)\nincorrect type or null value provided at path (plantProfiles.36.careInstructions.flowering)\nincorrect type or null value provided at path (plantProfiles.36.careInstructions.propagation)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.37.vitalStatistics.growthRate)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.38.vitalStatistics.growthRate)\nincorrect type or null value provided at path (plantProfiles.38.careInstructions.watering)\nincorrect type or null value provided at path (plantProfiles.38.careInstructions.positioning)\nincorrect type or null value provided at path (plantProfiles.38.careInstructions.repotting)\nincorrect type or null value provided at path (plantProfiles.38.careInstructions.flowering)\nincorrect type or null value provided at path (plantProfiles.38.careInstructions.propagation)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.40.vitalStatistics.growthRate)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.42.vitalStatistics.growthRate)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.44.vitalStatistics.growthRate)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.45.vitalStatistics.growthRate)\nInput should be 'slow', 'moderate' or 'fast' at path (plantProfiles.46.vitalStatistics.growthRate)"
+      },
+      "page_metadata": null,
+      "row_metadata": null
+    },
+    "parse_job_id": "pjb-z7zee5xaldm5p4w912k8t3vb2bv8",
+    "parse_tier": "agentic"
+  }
+}

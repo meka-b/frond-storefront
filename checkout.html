@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Checkout &mdash; FROND</title>
+  <meta name="description" content="Secure checkout for your greenhouse botanical order with live root guarantee.">
+  <base href="/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/theme.css?v=900">
+</head>
+<body class="page-checkout">
+  <!-- Minimal Trust Header -->
+  <header class="checkout-header" style="padding:1.4rem 0; border-bottom:1px solid var(--paper-line); background:var(--cream);">
+    <div class="container" style="display:flex; align-items:center; justify-content:space-between;">
+      <a class="logo" href="/" style="font-family:var(--font-display); font-size:1.6rem; letter-spacing:.08em; font-weight:700;">FROND<sup>&reg;</sup></a>
+      <div class="checkout-secure-badge" style="display:flex; align-items:center; gap:.5rem; font-size:.84rem; color:var(--moss); font-weight:500;">
+        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" width="16" height="16"><rect x="3" y="7" width="10" height="7" rx="1.5"/><path d="M5 7V5a3 3 0 0 1 6 0v2"/></svg>
+        <span>256-Bit SSL Encrypted &bull; 7-Day Guarantee</span>
+      </div>
+      <a href="/cart" class="link-back-cart" style="font-size:.88rem; color:var(--ink-60); text-decoration:underline;">&larr; Return to Cart</a>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="section checkout-sec" style="padding-top:2.5rem; padding-bottom:5rem;">
+      <div class="container">
+        <div class="checkout-grid">
+          <!-- Left: Checkout Form Steps -->
+          <div class="checkout-form-col">
+            <form id="checkout-form" class="checkout-form" novalidate>
+              
+              <!-- 1. Contact Information -->
+              <div class="checkout-step-box">
+                <div class="step-head">
+                  <span class="step-num">1</span>
+                  <h3>Contact Information</h3>
+                  <a href="/account" class="step-login-link">Already have an account? Sign in</a>
+                </div>
+                <div class="form-row">
+                  <div class="form-field full">
+                    <label for="chk-email">Email Address</label>
+                    <input type="email" id="chk-email" required placeholder="your@email.com" value="jane.doe@example.com">
+                  </div>
+                </div>
+                <label class="chk-checkbox" style="display:flex; align-items:center; gap:.6rem; margin-top:.8rem; font-size:.85rem; color:var(--ink-60);">
+                  <input type="checkbox" checked id="chk-news">
+                  <span>Email me with botanical care guides and exclusive greenhouse drops</span>
+                </label>
+              </div>
+
+              <!-- 2. Shipping Address -->
+              <div class="checkout-step-box">
+                <div class="step-head">
+                  <span class="step-num">2</span>
+                  <h3>Greenhouse Shipping Destination</h3>
+                </div>
+                <div class="form-row two-col">
+                  <div class="form-field">
+                    <label for="chk-fname">First Name</label>
+                    <input type="text" id="chk-fname" required placeholder="Jane" value="Jane">
+                  </div>
+                  <div class="form-field">
+                    <label for="chk-lname">Last Name</label>
+                    <input type="text" id="chk-lname" required placeholder="Doe" value="Doe">
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-field full">
+                    <label for="chk-address">Street Address</label>
+                    <input type="text" id="chk-address" required placeholder="123 Botanical Way, Apt 4B" value="123 Botanical Way, Apt 4B">
+                  </div>
+                </div>
+                <div class="form-row three-col">
+                  <div class="form-field">
+                    <label for="chk-city">City</label>
+                    <input type="text" id="chk-city" required placeholder="San Francisco" value="San Francisco">
+                  </div>
+                  <div class="form-field">
+                    <label for="chk-state">State / Province</label>
+                    <input type="text" id="chk-state" required placeholder="CA" value="CA">
+                  </div>
+                  <div class="form-field">
+                    <label for="chk-zip">ZIP / Postal</label>
+                    <input type="text" id="chk-zip" required placeholder="94107" value="94107">
+                  </div>
+                </div>
+                <div class="form-row">
+                  <div class="form-field full">
+                    <label for="chk-phone">Phone (for dispatch notifications)</label>
+                    <input type="tel" id="chk-phone" placeholder="+1 (555) 000-0000" value="+1 (555) 019-2834">
+                  </div>
+                </div>
+              </div>
+
+              <!-- 3. Shipping Method -->
+              <div class="checkout-step-box">
+                <div class="step-head">
+                  <span class="step-num">3</span>
+                  <h3>Delivery Method</h3>
+                </div>
+                <div class="delivery-options">
+                  <label class="delivery-opt-card active">
+                    <input type="radio" name="shipping_rate" value="standard" checked>
+                    <div class="opt-body">
+                      <b>Greenhouse Climate-Safe Ground</b>
+                      <span>3-5 business days &bull; Root insulated &amp; guaranteed</span>
+                    </div>
+                    <span class="opt-price" id="rate-standard-price">Free</span>
+                  </label>
+                  <label class="delivery-opt-card">
+                    <input type="radio" name="shipping_rate" value="express">
+                    <div class="opt-body">
+                      <b>Express Priority Dispatch</b>
+                      <span>1-2 business days &bull; Hand-packaged first in climate wrap</span>
+                    </div>
+                    <span class="opt-price">$18.00</span>
+                  </label>
+                </div>
+              </div>
+
+              <!-- 4. Payment Method -->
+              <div class="checkout-step-box">
+                <div class="step-head">
+                  <span class="step-num">4</span>
+                  <h3>Payment</h3>
+                  <span class="step-badge">SSL Encrypted</span>
+                </div>
+                <div class="payment-tabs">
+                  <button type="button" class="pay-tab active" data-tab="card">Credit / Debit Card</button>
+                  <button type="button" class="pay-tab" data-tab="apple">Apple Pay / Google Pay</button>
+                </div>
+                <div class="pay-tab-content active" id="pay-content-card">
+                  <div class="form-row">
+                    <div class="form-field full">
+                      <label for="chk-card-num">Card Number</label>
+                      <input type="text" id="chk-card-num" placeholder="4242 &bull;&bull;&bull;&bull; &bull;&bull;&bull;&bull; 4242" value="4242 &bull;&bull;&bull;&bull; &bull;&bull;&bull;&bull; 4242" maxlength="19">
+                    </div>
+                  </div>
+                  <div class="form-row two-col">
+                    <div class="form-field">
+                      <label for="chk-card-exp">Expiration (MM/YY)</label>
+                      <input type="text" id="chk-card-exp" placeholder="08/28" value="08/28" maxlength="5">
+                    </div>
+                    <div class="form-field">
+                      <label for="chk-card-cvc">Security Code (CVC)</label>
+                      <input type="text" id="chk-card-cvc" placeholder="123" value="789" maxlength="4">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Submit Button -->
+              <button type="submit" class="btn btn--place-order" id="btn-place-order" style="width:100%; padding:1.1rem; font-size:1.05rem; justify-content:center; margin-top:1rem;">
+                Complete Order &bull; <span id="btn-order-total">$0.00</span>
+              </button>
+
+              <div id="checkout-feedback" class="checkout-feedback" style="display:none; margin-top:1.2rem; padding:1.2rem; border-radius:var(--radius); background:var(--paper-accent); text-align:center;"></div>
+            </form>
+          </div>
+
+          <!-- Right: Order Summary Sidebar -->
+          <aside class="checkout-summary-col">
+            <div class="checkout-summary-box">
+              <h3 class="summary-title" style="font-family:var(--font-display); font-size:1.25rem; margin-bottom:1.2rem;">Order Items (<span id="chk-items-count">0</span>)</h3>
+              
+              <div class="chk-items-list" id="chk-items-list">
+                <!-- Rendered dynamically by checkout.js -->
+              </div>
+
+              <div class="summary-divider"></div>
+
+              <div class="summary-row">
+                <span>Subtotal</span>
+                <span class="val" id="chk-subtotal">$0.00</span>
+              </div>
+              <div class="summary-row">
+                <span>Shipping</span>
+                <span class="val" id="chk-shipping">Free</span>
+              </div>
+              <div class="summary-row" id="chk-discount-row" style="display:none; color:var(--moss);">
+                <span>Discount</span>
+                <span class="val" id="chk-discount">-$0.00</span>
+              </div>
+
+              <div class="summary-divider"></div>
+
+              <div class="summary-total-row">
+                <span style="font-weight:600; font-size:1.1rem;">Total Due</span>
+                <span class="total-val" id="chk-total" style="font-family:var(--font-display); font-size:1.45rem; font-weight:600;">$0.00</span>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="/assets/data.js?v=900" defer></script>
+  <script src="/assets/theme.js?v=900" defer></script>
+  <script src="/assets/checkout.js?v=900" defer></script>
+</body>
+</html>
+
+
+

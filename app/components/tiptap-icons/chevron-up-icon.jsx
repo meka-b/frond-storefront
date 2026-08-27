@@ -1,0 +1,21 @@
+import { memo } from "react"
+import { ChevronDownIcon } from "@/components/tiptap-icons/chevron-down-icon"
+
+export const ChevronUpIcon = memo(({
+  className,
+  style,
+  ...props
+}) => {
+  return (
+    <ChevronDownIcon
+      className={className}
+      style={{
+        transform: "rotate(180deg)",
+        transformOrigin: "50% 50%",
+        ...style,
+      }}
+      {...props} />
+  );
+})
+
+ChevronUpIcon.displayName = "ChevronUpIcon"

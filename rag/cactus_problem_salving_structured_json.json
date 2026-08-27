@@ -1,0 +1,730 @@
+{
+  "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+  "filename": "cactus_problem_salving.pdf",
+  "page_count": 8,
+  "document_type": null,
+  "quality_score": null,
+  "total_chunks": 30,
+  "pages": [
+    {
+      "page": 1,
+      "section": null,
+      "content": "{0}------------------------------------------------",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": null,
+        "heading": null,
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## PROBLEM SOLVING",
+      "content": "If your plant isn't thriving the way it should, take a look through these pages to identify a cause and find a solution. More often than not, poor plant health is a result of insufficient or incorrect care. This can lead to a range of care-based problems, and can also increase the risk of attacks by pests and diseases.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "## PROBLEM SOLVING",
+        "heading": "## PROBLEM SOLVING",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## TROUBLESHOOTING",
+      "content": "Once you've identified the most likely cause of your plant's problem, turn to the following pages for the solution: **Care-based problems** are the most common reason for ill-health in cacti and succulents (see pp212-13). **Pests** are often hard to spot; check for signs of them regularly and remove any you find (see pp214-15). **Diseases** can quickly take hold, so learn to identify their symptoms and how to treat them (see pp216-17).",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "## TROUBLESHOOTING",
+        "heading": "## TROUBLESHOOTING",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## WHAT'S WRONG WITH MY PLANT?",
+      "content": "When one of your plants looks off-colour, refer to this simple chart to help you diagnose the problem. Be careful to check the whole plant for symptoms and, once you have identified the cause, take appropriate action. Issues with a plant's care are the most likely source of trouble (see pp212-13), so always attempt to remedy those first before moving on to more drastic measures. | PROBLEM | POSSIBLE CAUSE | SOLUTION | |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|---------------------------------------------------------------------| | <img alt=\"Illustration of a cactus in a pot showing signs of poor growth.\" data-bbox=\"514 352 602 529\" src=\"f4158909ade599ca1ab6a4506be88d13_img.jpg\"/><br>POOR GROWTH | pest damage to roots | check the compost and roots for pest larvae and eggs (see pp214-15) | | | diseased roots | identify the disease (see pp216-17) and treat as suggested | | | pest damage to leaves and stems | inspect the surface of the plant for pests (see pp214-15) | | | over- or underwatering | check if compost is too wet or dry | | | temperature too high or low | check the plant's requirements and move to a cooler or warmer area | | PROBLEM | POSSIBLE CAUSE | SOLUTION | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------| | <img alt=\"Illustration of a leafy plant in a pot showing signs of distorted growth.\" data-bbox=\"499 882 617 987\" src=\"471e43d5ad1748a1a1b8307f2da81ab0_img.jpg\"/><br>DISTORTED GROWTH | insufficient light | move plant into brighter light, turning it every few days to make sure it grows evenly | | | pest damage to new growth | inspect the whole plant for insect pests (see pp214-15) | {1}------------------------------------------------ | PROBLEM | POSSIBLE CAUSE | SOLUTION | |--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----------------------------------------------------------------| | <img alt=\"Illustration of a plant with falling flower buds.\" data-bbox=\"89 138 125 201\" src=\"2f7832303e981a371352298931979d24_img.jpg\"/><br>FLOWER BUDS FALL | sudden change in temperature | avoid moving plants in bud; keep away from draughts and heaters | | | over- or underwatering | check if compost is too wet or dry | | | pest damage | check buds, stems, and leaves for pests (see pp214-15) | | PROBLEM | POSSIBLE CAUSE | SOLUTION | |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------------------------------------------------------------------------------| | <img alt=\"Illustration of a plant with no flowers, marked with an X.\" data-bbox=\"76 503 138 585\" src=\"78c10c6c1104aea28089918a14d33a59_img.jpg\"/><br>NO FLOWERS | insufficient light | move sun-loving plants to a position in bright light | | | winter temperature too high | plants requiring a winter rest need to be kept at lower temperatures for this period | | | underfeeding | feed at the recommended frequency and quantity | | | immature plant | wait for the plant to mature (see p198-99) | | PROBLEM | POSSIBLE CAUSE | SOLUTION | |------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------------------------------------------------| | <img alt=\"Illustration of a yellowed plant leaf.\" data-bbox=\"76 897 138 973\" src=\"4b1944bb771655d1fbbb4b96c6822b89_img.jpg\"/><br>YELLOWED PLANT OR FOLIAGE | insufficient light | move to a brighter position | | | underfeeding | feed at the recommended frequency and quantity | | | over- or underwatering | check if compost is too wet or dry | | PROBLEM | POSSIBLE CAUSE | SOLUTION | |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|---------------------------------------------------------------------------| | <img alt=\"Illustration of a plant leaf with brown spots.\" data-bbox=\"507 189 576 268\" src=\"4b4b4a9b950b0dabad8cae626ade9754_img.jpg\"/><br>BROWN MARKS ON LEAVES OR STEMS | fine",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "## WHAT'S WRONG WITH MY PLANT?",
+        "heading": "## WHAT'S WRONG WITH MY PLANT?",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## WHAT'S WRONG WITH MY PLANT?",
+      "content": "move to a brighter position | | | underfeeding | feed at the recommended frequency and quantity | | | over- or underwatering | check if compost is too wet or dry | | PROBLEM | POSSIBLE CAUSE | SOLUTION | |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|---------------------------------------------------------------------------| | <img alt=\"Illustration of a plant leaf with brown spots.\" data-bbox=\"507 189 576 268\" src=\"4b4b4a9b950b0dabad8cae626ade9754_img.jpg\"/><br>BROWN MARKS ON LEAVES OR STEMS | fine brown mottling/small marks: pest damage | check the whole plant for pests (see pp214-15) | | | raised, pale brown areas: cactus corky scab | refer to pp216-17 and treat as suggested | | | rounded dark spots: fungal leaf spot | refer to pp216-17 and treat as suggested | | | splits in skin: overwatering | check the compost is not saturated and allow to dry out between waterings | | | dents and scratches: physical damage | move plant to a position where it won't be accidentally knocked | | PROBLEM | POSSIBLE CAUSE | SOLUTION | |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------| | <img alt=\"Illustration of a plant with a collapsed stem.\" data-bbox=\"497 742 586 797\" src=\"61fd26ac0aeac00fbb933a10c3f7505e_img.jpg\"/><br>COLLAPSE OF WHOLE PLANT | pest damage to roots | check roots and compost for pest larvae and eggs (see pp214-15) | | | fungal disease | examine roots and stems for soft brown areas of rot (see pp216-17) | | PROBLEM | POSSIBLE CAUSE | SOLUTION | |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------| | <img alt=\"Illustration of a plant with soft, rotten patches on leaves and stems.\" data-bbox=\"497 961 576 1091\" src=\"4b61eb636cf9f303a40ba3f5614e35d8_img.jpg\"/><br>SOFT, ROTTEN PATCHES ON LEAVES AND STEMS | fungal disease encouraged by overwatering and high humidity | refer to pp216-17 and treat as suggested | {2}------------------------------------------------",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "## WHAT'S WRONG WITH MY PLANT?",
+        "heading": "## WHAT'S WRONG WITH MY PLANT?",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## DEALING WITH CARE-BASED PROBLEMS",
+      "content": "The health of cacti and succulents is most likely to suffer as a result of the wrong care or growing conditions. Thankfully, these problems are often easily remedied if identified quickly. Use this guide to diagnose any issues you find and adjust your plant's care conditions accordingly. If there is no improvement after a few days, consult pp216-219 to see if a pest or disease may be responsible.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "## DEALING WITH CARE-BASED PROBLEMS",
+        "heading": "## DEALING WITH CARE-BASED PROBLEMS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### TOO WARM",
+      "content": "**THE PROBLEM** Even in spring and summer, most cacti and succulents will stop growing at temperatures above 30°C (86°F) and all will be vulnerable to scorching (see opposite). High temperatures also cause compost to dry out faster, leading to underwatering (see right). Avoid heat from radiators below windows during the winter dormancy, when cooler conditions are needed. **THE SOLUTION** Keep temperatures down by shading windows in summer with a net curtain or moving plants out of bright sun, and opening windows or doors to provide good ventilation. Move plants away from radiators and other direct heat sources.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### TOO WARM",
+        "heading": "### TOO WARM",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### TOO COLD",
+      "content": "**THE PROBLEM** Low indoor temperatures will slow the growth of your plants, but fluctuations in temperature caused by cold draughts and shutting plants behind curtains at night can cause brown marks on the plant's body or foliage, flower buds to drop, or rotting if the compost is wet. **THE SOLUTION** Protect plants from cold draughts and move them away from windowsills at night during winter. Check the minimum temperature limits for your plant (see Plant Profiles). Keep watering to a minimum or stop altogether in cool conditions, as recommended for your plant. *Scorched leaves are the result of too much strong sunlight*",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### TOO COLD",
+        "heading": "### TOO COLD",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### INSUFFICIENT LIGHT",
+      "content": "**THE PROBLEM** Most cacti and succulents flourish in bright sunlight. Given too much shade, they will stretch towards the light and become \"etiolated\", with elongated, spindly growth that is washed-out or yellow in colour. Where light only comes from one direction, such as on a windowsill, plants can quickly become lopsided. **THE SOLUTION** Ensure that your plant is given the correct light levels (see Plant Profiles). Move drawn-out, etiolated specimens to a brighter spot. Turn pots on windowsills every few days to avoid plants reaching towards the sunlight and becoming lopsided. ![A succulent plant in a red pot showing signs of being etiolated, with elongated, spindly growth and washed-out, yellowish leaves.](ced89c429132a719cb6021326e0bc7a6_img.jpg) A succulent plant in a red pot showing signs of being etiolated, with elongated, spindly growth and washed-out, yellowish leaves. *Too much shade will cause plants to become etiolated, while their foliage will look washed out* ![A succulent plant in a red pot showing signs of being scorched, with brown, papery patches on its leaves.](893055d6397c2123fffe8d17a6f4c23f_img.jpg) A succulent plant in a red pot showing signs of being scorched, with brown, papery patches on its leaves.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### INSUFFICIENT LIGHT",
+        "heading": "### INSUFFICIENT LIGHT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### TOO MUCH LIGHT",
+      "content": "**THE PROBLEM** Although most of these plants need full sun, even cacti and succulents can get sunburn. Their skin can be damaged, or \"scorched\", on hot, sunny late spring and summer days, causing affected areas to develop brown corky raised marks or white papery patches that turn pale brown. Epiphytic cacti require shadier conditions and will be especially damaged by bright sunlight. **THE SOLUTION** Hang a net curtain over sunny windows during summer, but also on sunny days in late spring when new growth on plants is soft and prone to burning after their winter rest. Find epiphytic cacti a position with more diffuse light. Good air ventilation also helps to prevent scorching. {3}------------------------------------------------",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### TOO MUCH LIGHT",
+        "heading": "### TOO MUCH LIGHT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### OVERFEEDING",
+      "content": "**THE PROBLEM** Feed your plants too much and they will grow too fast. Although this doesn't sound like a bad thing, the soft, weak tissue produced by rapid growth is susceptible to rot and fungal diseases and may not flower well. Overfeeding can also cause \"reverse osmosis\", where nutrients are leached out of the plant into the surrounding compost, which could lead to signs of underfeeding (see below). **THE SOLUTION** Feed plants according to their needs (see Plant Profiles). Make sure to use a specialist cactus and succulent fertilizer, which is weaker than standard plant food. Never feed your plant during its dormant period.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### OVERFEEDING",
+        "heading": "### OVERFEEDING",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### UNDERFEEDING",
+      "content": "**THE PROBLEM** Pale or yellowing plants that put on little growth and don't flower are likely to be deficient in nutrients as a result of underfeeding. **THE SOLUTION** Ensure your plants are adequately watered, because roots can't absorb nutrients from dry compost. Feed as recommended (see Plant Profiles), following the instructions carefully to avoid overfeeding (see below). ![A close-up of a cactus in a pot, showing yellowing stems and leaves, which are signs of underfeeding.](451417078c55730b2f3f9ea924407f78_img.jpg) A close-up of a cactus in a pot, showing yellowing stems and leaves, which are signs of underfeeding. *Yellow stems and leaves can be a sign of underfeeding* ![A close-up of a succulent in a pot, showing a large, yellow, and shriveled leaf, which is a sign of underwatering.](4b9457ad2400572dbf0c0c9f7c825643_img.jpg) A close-up of a succulent in a pot, showing a large, yellow, and shriveled leaf, which is a sign of underwatering. *Underwatered cacti and succulents will eventually shrivel and stop growing*",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### UNDERFEEDING",
+        "heading": "### UNDERFEEDING",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### UNDERWATERING",
+      "content": "**THE PROBLEM** Cacti and succulents are supremely adapted to arid environments, but eventually even they will suffer from a lack of water. Shrivelled, yellowing plants will eventually turn brown and die, but underwatering also results in poor or no growth, as well as bud drop in epiphytic cacti. **THE SOLUTION** Check that your plant isn't root-bound (see p194) and repot if it is. Water plants sparingly from the bottom by setting pots in a shallow dish of water and removing it to drain when the top is glistening with water. This method will gradually remoisten very dry compost without waterlogging. Plants should plump up quickly, but lost buds will not be replaced until the following year.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### UNDERWATERING",
+        "heading": "### UNDERWATERING",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### OVERWATERING",
+      "content": "**THE PROBLEM** Roots rot in constantly wet compost, which either causes the rest of the plant to turn yellow and die, or it can lead to the rot spreading and turning the cactus's stem and foliage brown and soft. Too much water can also split the outer skins of cacti, leaving brown scars, or mark it with blisters or brown corky scab. **THE SOLUTION** Check that the pot has drainage holes and is not standing in water. Remove your plant from its pot and leave it to dry on a tray or draining board. Once the roots are dry, cut away any that have rotted and repot the plant in fresh compost in a container with drainage holes; do not water again for a week after repotting. Always allow at least the surface of the compost to dry out between waterings and keep plants dry during winter dormancy. ![Two cactus leaves shown side-by-side. The left leaf is soft, yellow, and has a dark, shriveled tip, indicating it is overwatered and starting to rot. The right leaf is more firm and green.](d11e9701f48e916a887688ead361f4af_img.jpg) Two cactus leaves shown side-by-side. The left leaf is soft, yellow, and has a dark, shriveled tip, indicating it is overwatered and starting to rot. The right leaf is more firm and green. *Overwatered leaves will turn soft and yellow, and may start to rot* {4}------------------------------------------------",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### OVERWATERING",
+        "heading": "### OVERWATERING",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## DEALING WITH PESTS",
+      "content": "Given the opportunity, insect pests will happily make a home among the spines, furrowed stems, and tightly packed leaves of cacti and succulents. Left unchecked, they can quickly run amok, damaging or even killing off whole plants with ease. Pests can enter your home through open doors and windows, as well as via newly bought plants. Vigilance is key: familiarize yourself with the signs of pest infestation (right), thoroughly examine the stems, leaves, and roots of new plants before you allow them near the rest of your collection, and check all of your plants weekly so that if you do discover any unwanted visitors, they can be dealt with as soon as possible.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "## DEALING WITH PESTS",
+        "heading": "## DEALING WITH PESTS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### SCALE INSECTS",
+      "content": "**THE PROBLEM** Small, brown, and limpet-like, scale insects grow to up to 1 cm ( $\\frac{1}{2}$ in) long, and hug tightly to stems and the undersides of leaves. Clusters of their white eggs may also be visible. They suck the plant's sap, causing poor, distorted growth, and can excrete sticky honeydew, which encourages sooty mould (see p216). **THE SOLUTION** Inspect new plants carefully before buying and regularly check your own plants for scale, too. Where possible, remove scales by rubbing them off with your finger, or apply dilute solutions of soap-based products or methylated spirits with a cotton bud or brush (test on a small area first to ensure they will not damage the plant). Heavy infestations can be treated with a systemic pesticide. ![Illustration of a green cactus in a brown pot, heavily infested with numerous small, brown, scale-like insects clustered on its spines and surface.](764bb8d7c93b090e205d908e1a8cade4_img.jpg) Illustration of a green cactus in a brown pot, heavily infested with numerous small, brown, scale-like insects clustered on its spines and surface. ![Close-up photograph of a small, round, green cactus covered in a thick, tangled mass of white, fuzzy spider mite webs and small, pale mites.](bc2361eef342a10050f6f31a54ff3b92_img.jpg) Close-up photograph of a small, round, green cactus covered in a thick, tangled mass of white, fuzzy spider mite webs and small, pale mites.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### SCALE INSECTS",
+        "heading": "### SCALE INSECTS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### SPIDER MITES",
+      "content": "**THE PROBLEM** These minute red, sap-sucking mites are barely visible, but can rapidly cause serious damage to plants or even kill them. They favour tender new growth, which quickly distorts and turns brown as they suck the sap, causing permanent scarring. Look out for tell-tale silky webs on plants. **THE SOLUTION** Hot, dry conditions encourage spider mites: deter them by providing good ventilation and opening windows in warm weather. Remove and destroy infected parts of the plant or treat with a suitable pesticide. Infested plants are often best thrown away.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### SPIDER MITES",
+        "heading": "### SPIDER MITES",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### THRIPS",
+      "content": "**THE PROBLEM** Almost invisible, these tiny insects, also known as thunder flies, are just 2mm ( $\\frac{1}{50}$ in) long and suck the sap of plants. They are most easily spotted on flowers or flying around, but their wingless nymphs (juveniles) are even smaller. When feeding, they cause fine brown mottling on the plant surface, especially on young growth, and loss of colour or damage to flowers. **THE SOLUTION** Use blue sticky traps around plants to trap the adult flying insects. Pesticides for use against thrips are also available. ![Illustration of a green cactus in a brown pot, showing fine brown mottling on its surface and several long, thin, pinkish-red thrips emerging from the top.](0491522414cef757458109840bbf8021_img.jpg) Illustration of a green cactus in a brown pot, showing fine brown mottling on its surface and several long, thin, pinkish-red thrips emerging from the top. {5}------------------------------------------------ *“Open doors and windows are an easy way for pests to enter your home, but they can also arrive on newly bought plants.”* ![A close-up photograph of a cactus heavily infested with small, white, cottony mealybugs covering its surface.](8e592c58b5074d79831ff650c2c636df_img.jpg) A close-up photograph of a cactus heavily infested with small, white, cottony mealybugs covering its surface.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### THRIPS",
+        "heading": "### THRIPS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### MEALYBUGS",
+      "content": "**THE PROBLEM** A waxy, white, cotton wool-like secretion conceals these pests, which look like tiny, light grey woodlice. They suck the sap of plants, affecting their growth and causing distortion. Their habit of lurking in the smallest gaps and crevices makes them difficult to remove. They also secrete sticky honeydew, which can collect on plant surfaces and lead to sooty mould (see p216). **THE SOLUTION** Check plants carefully before purchase, because these insects multiply rapidly and spread easily to other plants. To treat mealybugs, contact insecticides that contain fatty acids or pyrethroids can be effective but they may need to be reapplied at suitable intervals (check the product label). Alternatively, prune out infected parts of the plant, or try pheromone lures to trap the adult males and disrupt breeding. Dispose of badly infested plants.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### MEALYBUGS",
+        "heading": "### MEALYBUGS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### ROOT MEALYBUGS",
+      "content": "**THE PROBLEM** If your plant stops growing and looks pale and sickly, knock it out of its pot and check carefully around the roots for woolly white clumps of small, woodlouse-like, sap-sucking insects similar to mealybugs. **THE SOLUTION** Prevent root mealybugs becoming a problem by inspecting new plants before buying and checking the roots of plants regularly when you get them home. Remove the insects by washing as much soil as possible off the roots. Repot using fresh compost and a clean pot. Heavy infestations may be impossible to treat as no effective pesticides are available. ![A photograph of a cactus in its pot, showing the soil surface and the base of the plant where root mealybugs might be found.](130ce5fbe21d11939cd4419d3e7ff044_img.jpg) A photograph of a cactus in its pot, showing the soil surface and the base of the plant where root mealybugs might be found. ![A detailed illustration of a fungus gnat, showing its long legs, wings, and antennae.](e384b831b3fb26071365a8ad1add04f1_img.jpg) A detailed illustration of a fungus gnat, showing its long legs, wings, and antennae.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### ROOT MEALYBUGS",
+        "heading": "### ROOT MEALYBUGS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### FUNGUS GNATS",
+      "content": "**THE PROBLEM** Also known as sciarid flies, these small insects flit around the compost in pots and seed trays, feeding on rotting plant material and laying their eggs. Adult flies are merely a nuisance, but once their larvae hatch out, young gnats eat plant roots and can quickly kill seedlings and young plants. Damage to the roots of mature plants can also allow roots to set in. **THE SOLUTION** Put up sticky yellow traps close to affected plants will catch adult flies. ![An illustration showing a vine weevil beetle on a leaf, with a separate inset showing its characteristic C-shaped, cream-colored grubs.](f0200666838a543ef56e6baba94f5e95_img.jpg) An illustration showing a vine weevil beetle on a leaf, with a separate inset showing its characteristic C-shaped, cream-colored grubs.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### FUNGUS GNATS",
+        "heading": "### FUNGUS GNATS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### VINE WEEVILS",
+      "content": "**THE PROBLEM** Resembling dull black beetles, adult vine weevils are about 1cm ( $\\frac{1}{2}$ in) long and can be spotted crawling among foliage. They are largely harmless to cacti and succulents, but their cream, c-shaped, brown-headed grubs feed voraciously on fleshy roots and can quickly kill succulents such as echeveria. **THE SOLUTION** Adult vine weevils move slowly, so catch and remove any that you see before they lay eggs in spring and summer. Check among roots for grubs when repotting or if plants look sickly and suddenly collapse. If grubs are found, use a hose to clean the roots and repot into fresh compost – do not water for a week after repotting. The nematode *Steinernema kraussei* is an effective biological control when applied in autumn. {6}------------------------------------------------",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### VINE WEEVILS",
+        "heading": "### VINE WEEVILS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## DEALING WITH DISEASES",
+      "content": "When it comes to plant diseases, prevention is always far better than cure. Poor care, such as lack of drainage or inadequate ventilation, can provide the ideal conditions for fungal spores to thrive, leading to many common diseases. Healthy plants are better equipped to fight off disease, though no plant can be made fully immune. If a cactus or succulent does show signs of sickness, move it away from other plants immediately to prevent any infection spreading, repot it with fresh compost in a disinfected pot, and treat it as needed (see right). If spraying plants with fungicide, make sure to use a well-ventilated room, or go outside if it is not too cold. *Overwatering may lead to grey mould, which can quickly cause infected plants to collapse* ![A close-up photograph of a succulent plant, possibly a Sedum, showing signs of grey mould. The base of the plant is covered in a thick, white, fuzzy growth, and the lower leaves are wilting and discolored. A line from the text above points to this area.](67b83c4adaaa4de02d367168308deb2a_img.jpg) A close-up photograph of a succulent plant, possibly a Sedum, showing signs of grey mould. The base of the plant is covered in a thick, white, fuzzy growth, and the lower leaves are wilting and discolored. A line from the text above points to this area. ![A diagram of a green leaf with several dark, irregular patches. A line points from the text below to one of these patches.](1408b3d336e1d80c7a1abd0682f4f687_img.jpg) A diagram of a green leaf with several dark, irregular patches. A line points from the text below to one of these patches. *Patches of sooty mould can indicate pest infestation*",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "## DEALING WITH DISEASES",
+        "heading": "## DEALING WITH DISEASES",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### SOOTY MOULD",
+      "content": "**THE PROBLEM** A layer of black or dark brown fungal growth appears on the surface of leaves and stems. This occurs where sticky honeydew has been excreted onto the plant by sap-sucking insects, such as mealybugs (see p215), and it is a good indicator that a pest is also present. **THE SOLUTION** Deal with the pest first, if possible, then wipe away sooty mould and honeydew using a soft cloth or cotton bud and warm water. There is no chemical control.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### SOOTY MOULD",
+        "heading": "### SOOTY MOULD",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### FUNGAL LEAF SPOT",
+      "content": "**THE PROBLEM** Rounded brown or black spots appear on leaves or the plant's stem, spreading over its surface and causing scarring. They are the result of fungal infection, which occurs in humid conditions and where water has been splashed onto the plant. **THE SOLUTION** Remove affected areas of the plant. To prevent reinfection, throw away any dead plant material in the pot, improve ventilation, and water from below (see p191) to avoid splashing the plant. Badly marked plants are best thrown away. ![A diagram of a green leaf with several dark brown, circular spots. A line points from the text below to one of these spots.](e40ba44ba095240702ed2099e01d23ce_img.jpg) A diagram of a green leaf with several dark brown, circular spots. A line points from the text below to one of these spots. *Dark fungal leaf spots can appear on foliage that has been splashed with water*",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### FUNGAL LEAF SPOT",
+        "heading": "### FUNGAL LEAF SPOT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### GREY MOULD",
+      "content": "**THE PROBLEM** Caused by the fungus *Botrytis cinerea*, this disease produces dark, water-soaked spots, particularly on fleshy succulents, which soon cover the whole plant, causing it to collapse. In moist conditions, infected areas become covered in dusty, grey mould. This fungal disease spreads in humid conditions and when water droplets splash onto plants. **THE SOLUTION** Plants with some healthy growth may be saved by removing all diseased material and surrounding dead leaves and flowers that may harbour infection. Reduce humidity and water plants from below (see p191) to avoid spreading fungal spores. Badly affected plants should be thrown away. No chemical controls are available. {7}------------------------------------------------",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### GREY MOULD",
+        "heading": "### GREY MOULD",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### BASAL STEM ROT",
+      "content": "**THE PROBLEM** Brown patches with a wet appearance and sometimes a bad smell develop at the base of the plant, close to the surface of the compost, and spread rapidly. The affected tissue becomes soft and the plant wilts, eventually collapsing completely. These rots can be caused by bacteria or fungi and occur when compost is wet, due to poor drainage or overwatering. **THE SOLUTION** Due to the location of these rots at the base of the plant they are usually fatal, because the infected area can't be removed without destroying the plant. There are no chemical controls. Throw away infected plants and keep new plants in drier conditions.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### BASAL STEM ROT",
+        "heading": "### BASAL STEM ROT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### ROOT ROT",
+      "content": "**THE PROBLEM** Roots turn soft and brown or black, and once this fungal disease takes hold, the plant's stems and leaves receive no water from the roots and will shrivel and collapse. Poor drainage or prolonged overwatering will cause root rot to set in. **THE SOLUTION** If caught early, try to save the plant by removing the dark, rotten roots and repotting the plant with fresh compost in a pot with drainage holes. Do not water for a week after repotting. If all roots are affected, the plant should be thrown away and care taken not to overwater any replacements. ![A close-up photograph of a plant with bright yellow flowers in a green pot. The base of the plant and its roots are severely damaged by root rot, appearing dark brown and mushy. A line points from the text 'Root rot can cause a whole plant to collapse' to the damaged base of the plant.](f01b22e5bb303653828200595aece414_img.jpg) A close-up photograph of a plant with bright yellow flowers in a green pot. The base of the plant and its roots are severely damaged by root rot, appearing dark brown and mushy. A line points from the text 'Root rot can cause a whole plant to collapse' to the damaged base of the plant. ![A photograph of a plant in a white pot with dark soil. The plant's leaves are wilted and discolored, showing signs of basal stem rot. A line points from the text 'Basal stem rot can rapidly cause plants to wilt and die' to the base of the plant where it meets the soil.](4dbddc2a60ea4ad6037f1f360ae0fea3_img.jpg) A photograph of a plant in a white pot with dark soil. The plant's leaves are wilted and discolored, showing signs of basal stem rot. A line points from the text 'Basal stem rot can rapidly cause plants to wilt and die' to the base of the plant where it meets the soil.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### ROOT ROT",
+        "heading": "### ROOT ROT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### DAMPING-OFF DISEASE",
+      "content": "**THE PROBLEM** Seedlings (see pp209-10) rapidly develop brown rotten areas at their base, collapse, and die; this whole process may happen within a day or two. A white webbing of fungal growth then appears on the compost. This fungus often affects seedlings that have been sown too densely and where air circulation is poor. **THE SOLUTION** This fungal infection is fatal, but can be prevented by sowing seed thinly in well-drained compost, and removing any lid or covering as soon as seedlings germinate, to maximize ventilation. There is no chemical control.",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### DAMPING-OFF DISEASE",
+        "heading": "### DAMPING-OFF DISEASE",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### CORKY SCAB",
+      "content": "**THE PROBLEM** Light brown patches appear on the surface of cacti, which gradually become raised to form scabs. While they will not damage the plant further, they are unsightly. Humidity, poor ventilation, over-watering, and possibly over-fertilizing contribute to the problem. **THE SOLUTION** Increase air circulation around affected plants to reduce humidity, reduce watering and feeding, and grow in the recommended amount of light for your plant. While not fatal, corky scab patches can look unsightly ![A diagram of a green, oval-shaped cactus segment covered in small orange dots representing corky scab patches. Two larger, irregular brown patches are also shown on the surface. A line points from the text 'While not fatal, corky scab patches can look unsightly' to one of the brown patches.](abc9fdcc4ee1a6fda447bf9e6bb75fb4_img.jpg) A diagram of a green, oval-shaped cactus segment covered in small orange dots representing corky scab patches. Two larger, irregular brown patches are also shown on the surface. A line points from the text 'While not fatal, corky scab patches can look unsightly' to one of the brown patches. Root rot can cause a whole plant to collapse",
+      "images": [
+        {
+          "id": "53a726b6-cfaa-46a9-9b32-b4db72be02f6",
+          "document_id": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "/api/images/3a26e323-6a8a-45e6-96b6-dd328b6f3c72/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "3a26e323-6a8a-45e6-96b6-dd328b6f3c72",
+        "page": 1,
+        "section": "### CORKY SCAB",
+        "heading": "### CORKY SCAB",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+<!DOCTYPE html><html lang="tr" class="h-full"><head><meta charSet="utf-8"/><title>FROND — Control Center &amp; Admin Panel</title><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="/assets/root-2f8eqkyT.css"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&amp;family=Roboto:wght@300;400;500;700&amp;display=swap"/></head><body class="h-full bg-[#FAFAF8] text-[#1D2A1C] antialiased"><div class="h-screen w-full flex items-center justify-center bg-[#FAFAF8] text-[#1D2A1C]"><div class="flex items-center gap-3"><div class="w-5 h-5 border-2 border-[#1D2A1C] border-t-transparent rounded-full animate-spin"></div><span class="text-xs font-mono tracking-wider uppercase text-[#7A8377]">Yetkilendirme Kontrol Ediliyor...</span></div></div><script>((STORAGE_KEY, restoreKey) => {
+    if (!window.history.state || !window.history.state.key) {
+      let key = Math.random().toString(32).slice(2);
+      window.history.replaceState({
+        key
+      }, "");
+    }
+    try {
+      let positions = JSON.parse(sessionStorage.getItem(STORAGE_KEY) || "{}");
+      let storedY = positions[restoreKey || window.history.state.key];
+      if (typeof storedY === "number") {
+        window.scrollTo(0, storedY);
+      }
+    } catch (error) {
+      console.error(error);
+      sessionStorage.removeItem(STORAGE_KEY);
+    }
+  })("positions", null)</script><link rel="modulepreload" href="/assets/entry.client-dyrGTlYA.js"/><link rel="modulepreload" href="/assets/index-CjZm0lSj.js"/><link rel="modulepreload" href="/assets/components-U_cqbwW8.js"/><link rel="modulepreload" href="/assets/root-DhwIXwjB.js"/><link rel="modulepreload" href="/assets/createLucideIcon-juPYG97v.js"/><link rel="modulepreload" href="/assets/x-Bdd4TKZY.js"/><link rel="modulepreload" href="/assets/package-9aACboIC.js"/><link rel="modulepreload" href="/assets/shopping-bag-zUvx_sLL.js"/><link rel="modulepreload" href="/assets/layers-CuD7wFAT.js"/><link rel="modulepreload" href="/assets/video-DosNozXI.js"/><link rel="modulepreload" href="/assets/sparkles-CT2laIpA.js"/><link rel="modulepreload" href="/assets/tag-BQ183aty.js"/><link rel="modulepreload" href="/assets/book-open-CUqHRSBX.js"/><link rel="modulepreload" href="/assets/bot-D3DFyonc.js"/><link rel="modulepreload" href="/assets/circle-help-DMJj8ZQa.js"/><link rel="modulepreload" href="/assets/mail-CZrIpIO0.js"/><link rel="modulepreload" href="/assets/external-link-BpSnkWH9.js"/><link rel="modulepreload" href="/assets/plus-CcaxTgDS.js"/><link rel="modulepreload" href="/assets/admin-CwfGzB2S.js"/><link rel="modulepreload" href="/assets/trash-2-DyZGxiBu.js"/><link rel="modulepreload" href="/assets/admin.newsletter-BYo-67nQ.js"/><script>window.__remixContext = {"basename":"/","future":{"v3_fetcherPersist":true,"v3_relativeSplatPath":true,"v3_throwAbortReason":true,"v3_routeConfig":false,"v3_singleFetch":false,"v3_lazyRouteDiscovery":true,"unstable_optimizeDeps":false},"isSpaMode":false,"state":{"loaderData":{"routes/admin.newsletter":{"subscribers":[{"id":"sub-1787672980140","email":"plantparent@live.com","status":"active","created_at":"2026-08-25 15:49:40"}]},"root":null,"routes/admin":null},"actionData":null,"errors":null}};</script><script type="module" async="">;
+import * as route0 from "/assets/root-DhwIXwjB.js";
+import * as route1 from "/assets/admin-CwfGzB2S.js";
+import * as route2 from "/assets/admin.newsletter-BYo-67nQ.js";
+window.__remixManifest = {
+  "entry": {
+    "module": "/assets/entry.client-dyrGTlYA.js",
+    "imports": [
+      "/assets/index-CjZm0lSj.js",
+      "/assets/components-U_cqbwW8.js"
+    ],
+    "css": []
+  },
+  "routes": {
+    "root": {
+      "id": "root",
+      "path": "",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasClientAction": false,
+      "hasClientLoader": false,
+      "hasErrorBoundary": false,
+      "module": "/assets/root-DhwIXwjB.js",
+      "imports": [
+        "/assets/index-CjZm0lSj.js",
+        "/assets/components-U_cqbwW8.js"
+      ],
+      "css": [
+        "/assets/root-2f8eqkyT.css"
+      ]
+    },
+    "routes/admin": {
+      "id": "routes/admin",
+      "parentId": "root",
+      "path": "admin",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasClientAction": false,
+      "hasClientLoader": false,
+      "hasErrorBoundary": false,
+      "module": "/assets/admin-CwfGzB2S.js",
+      "imports": [
+        "/assets/index-CjZm0lSj.js",
+        "/assets/createLucideIcon-juPYG97v.js",
+        "/assets/components-U_cqbwW8.js",
+        "/assets/x-Bdd4TKZY.js",
+        "/assets/package-9aACboIC.js",
+        "/assets/shopping-bag-zUvx_sLL.js",
+        "/assets/layers-CuD7wFAT.js",
+        "/assets/video-DosNozXI.js",
+        "/assets/sparkles-CT2laIpA.js",
+        "/assets/tag-BQ183aty.js",
+        "/assets/book-open-CUqHRSBX.js",
+        "/assets/bot-D3DFyonc.js",
+        "/assets/circle-help-DMJj8ZQa.js",
+        "/assets/mail-CZrIpIO0.js",
+        "/assets/external-link-BpSnkWH9.js",
+        "/assets/plus-CcaxTgDS.js"
+      ],
+      "css": []
+    },
+    "routes/admin.newsletter": {
+      "id": "routes/admin.newsletter",
+      "parentId": "routes/admin",
+      "path": "newsletter",
+      "hasAction": true,
+      "hasLoader": true,
+      "hasClientAction": false,
+      "hasClientLoader": false,
+      "hasErrorBoundary": false,
+      "module": "/assets/admin.newsletter-BYo-67nQ.js",
+      "imports": [
+        "/assets/index-CjZm0lSj.js",
+        "/assets/components-U_cqbwW8.js",
+        "/assets/createLucideIcon-juPYG97v.js",
+        "/assets/trash-2-DyZGxiBu.js"
+      ],
+      "css": []
+    },
+    "routes/_index": {
+      "id": "routes/_index",
+      "parentId": "root",
+      "index": true,
+      "hasAction": false,
+      "hasLoader": true,
+      "hasClientAction": false,
+      "hasClientLoader": false,
+      "hasErrorBoundary": false,
+      "module": "/assets/_index-C6d-v1ok.js",
+      "imports": [],
+      "css": []
+    },
+    "routes/admin._index": {
+      "id": "routes/admin._index",
+      "parentId": "routes/admin",
+      "index": true,
+      "hasAction": false,
+      "hasLoader": true,
+      "hasClientAction": false,
+      "hasClientLoader": false,
+      "hasErrorBoundary": false,
+      "module": "/assets/admin._index-TS2WROXu.js",
+      "imports": [
+        "/assets/index-CjZm0lSj.js",
+        "/assets/components-U_cqbwW8.js",
+        "/assets/plus-CcaxTgDS.js",
+        "/assets/createLucideIcon-juPYG97v.js",
+        "/assets/shopping-bag-zUvx_sLL.js",
+        "/assets/package-9aACboIC.js",
+        "/assets/mail-CZrIpIO0.js",
+        "/assets/triangle-alert-C1CceStw.js",
+        "/assets/sparkles-CT2laIpA.js"
+      ],
+      "css": []
+    }
+  },
+  "url": "/assets/manifest-8169e904.js",
+  "version": "8169e904"
+};
+window.__remixRouteModules = {"root":route0,"routes/admin":route1,"routes/admin.newsletter":route2};
+
+import("/assets/entry.client-dyrGTlYA.js");</script></body></html>

@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FROND &mdash; Bring Your Home Alive</title>
+  <meta name="description" content="Editorial plant &amp; object shop. A static clone of the Frond theme aesthetic: kinetic type, drawers, marquees, predictive search.">
+
+  <base href="/">
+
+  <!-- Fonts (degrade gracefully offline) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+
+  <!-- LCP optimization -->
+  <link rel="preload" as="image" href="/assets/img/hero.jpg" fetchpriority="high">
+  <link rel="stylesheet" href="/assets/theme.css?v=800">
+</head>
+<body>
+
+  <!-- ══════════ Announcement marquee ══════════ -->
+  <div class="announce">
+    <marquee-band speed="36s" aria-label="Announcements">
+      <span class="mq-item">Free shipping on orders over $75 <i>&#10022;</i></span>
+      <span class="mq-item">New in &mdash; The Dune Collection <i>&#10022;</i></span>
+      <span class="mq-item">Every plant ships with a 7-day root guarantee <i>&#10022;</i></span>
+    </marquee-band>
+  </div>
+
+  <!-- ══════════ Header ══════════ -->
+  <header class="site-header">
+    <button class="icon-btn burger" data-menu-toggle aria-label="Open menu" aria-expanded="false">
+      <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M2 5h16M2 10h16M2 15h16"/></svg>
+    </button>
+
+    <nav class="nav" aria-label="Primary">
+      <a href="/#shop">Shop</a>
+      <a href="/collections">Collections</a>
+      <a href="/blogs">Journal</a>
+      <a href="/#community">Community</a>
+    </nav>
+
+    <a class="logo" href="/">FROND<sup>&reg;</sup></a>
+
+    <div class="header-actions">
+      <predictive-search>
+        <!-- panel rendered by component -->
+      </predictive-search>
+      <button class="icon-btn" data-search-toggle aria-label="Search" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg>
+      </button>
+      <button class="icon-btn" aria-label="Account">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 5-5.5 8-5.5s6.5 1.5 8 5.5"/></svg>
+      </button>
+      <button class="icon-btn" data-cart-toggle aria-label="Open cart">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M5 8h14l-1.2 12.2a1.5 1.5 0 0 1-1.5 1.3H7.7a1.5 1.5 0 0 1-1.5-1.3L5 8Z"/><path d="M8.5 10V6.5a3.5 3.5 0 0 1 7 0V10"/></svg>
+        <span class="cart-count" aria-live="polite">0</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main">
+
+    <!-- ══════════ Hero ══════════ -->
+    <section class="hero">
+      <div class="container">
+        <div class="hero-grid">
+          <div class="hero-text">
+            <p class="eyebrow" data-reveal>New season  The Dune Edit</p>
+            <h1 class="hero-title" style="margin-top:1.2rem">
+              <reveal-text>Botanical</reveal-text>
+              <reveal-text class="ib accent">beauty</reveal-text>
+              <reveal-text>from our greenhouse</reveal-text>
+              <reveal-text>to your home.</reveal-text>
+            </h1>
+            <p class="hero-copy" data-reveal style="--d:400ms">
+              Slow-grown plants and quietly sculptural objects, shipped from our
+              greenhouse to your doorstep  roots happy, floors clean.
+            </p>
+            <div class="hero-ctas" data-reveal style="--d:550ms">
+              <a class="btn" href="#shop">Shop bestsellers <span class="btn-arrow">→</span></a>
+              <a class="btn btn--ghost" href="#story">Our story</a>
+            </div>
+            <div class="hero-meta" data-reveal style="--d:700ms">
+              <div><b data-count>50K+</b>Plants rehomed</div>
+              <div><b>98%</b>Arrive happy</div>
+              <div><b>7 days</b>Root guarantee</div>
+            </div>
+          </div>
+
+          <div class="hero-figure" data-reveal style="--d:250ms">
+            <div class="hc-carousel-wrap">
+              <div class="hc-fade-left"></div>
+              <div class="hc-embla-vp" id="hero-embla-vp">
+                <div class="hc-embla-container" aria-label="Featured products">
+                  <div class="hc-slide">
+                    <figure class="hc-cell hc-card" style="--r:-1.1deg">
+                      <product-card product="monstera" cta-label="Sepete Ekle"></product-card>
+                    </figure>
+                  </div>
+                  <div class="hc-slide">
+                    <figure class="hc-cell hc-card" style="--r:1deg">
+                      <product-card product="planter" cta-label="Sepete Ekle"></product-card>
+                    </figure>
+                  </div>
+                  <div class="hc-slide">
+                    <figure class="hc-cell hc-card" style="--r:-.9deg">
+                      <product-card product="fig" cta-label="Sepete Ekle"></product-card>
+                      <svg class="hc-flower" viewBox="0 0 64 64" aria-hidden="true">
+                        <g fill="#F3C6CF"><ellipse cx="32" cy="15" rx="7" ry="12"/><ellipse cx="32" cy="49" rx="7" ry="12"/><ellipse cx="15" cy="32" rx="12" ry="7"/><ellipse cx="49" cy="32" rx="12" ry="7"/><ellipse cx="20" cy="20" rx="8" ry="8"/><ellipse cx="44" cy="20" rx="8" ry="8"/><ellipse cx="20" cy="44" rx="8" ry="8"/><ellipse cx="44" cy="44" rx="8" ry="8"/></g>
+                        <circle cx="32" cy="32" r="7.5" fill="#E9B44C"/>
+                        <circle cx="32" cy="32" r="3" fill="#C9871F"/>
+                      </svg>
+                    </figure>
+                  </div>
+                  <div class="hc-slide">
+                    <figure class="hc-cell hc-card" style="--r:.8deg">
+                      <product-card product="pothos" cta-label="Sepete Ekle"></product-card>
+                    </figure>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════ Marquee band ══════════ -->
+    <marquee-band class="band" speed="30s" aria-hidden="true">
+      <span class="mq-item">New arrivals <i>&#10022;</i></span>
+      <span class="mq-item">The Dune Edit <i>&#10022;</i></span>
+      <span class="mq-item">Grown slow, shipped fast <i>&#10022;</i></span>
+    </marquee-band>
+
+    <!-- ══════════ Bestsellers ══════════ -->
+    <section class="section" id="shop">
+      <div class="container">
+        <div class="section-head">
+          <h2><reveal-text>Best <em>sellers</em></reveal-text></h2>
+          <a class="link-line" href="#" onclick="return false">View all plants</a>
+        </div>
+        <div class="product-grid">
+          <product-card product="monstera" data-reveal></product-card>
+          <product-card product="fig"      data-reveal style="--d:100ms"></product-card>
+          <product-card product="planter"  data-reveal style="--d:200ms"></product-card>
+          <product-card product="pothos"   data-reveal style="--d:300ms"></product-card>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════ Collection highlight ══════════ -->
+    <section class="section" id="collection-highlight">
+      <div class="container ch-grid">
+        <!-- featured cards -->
+        <div class="ch-cards">
+          <a class="ch-card" href="/collections/foliage-plants" data-reveal>
+            <img src="assets/img/ch-big-1.jpg" alt="Foliage plants collection" loading="lazy" decoding="async">
+            <figcaption>Foliage Plants<sup>31</sup></figcaption>
+          </a>
+          <a class="ch-card" href="/collections/pots-objects" data-reveal style="--d:120ms">
+            <img src="assets/img/ch-big-2.jpg" alt="Pots and objects collection" loading="lazy" decoding="async">
+            <figcaption>Pots &amp; Objects<sup>12</sup></figcaption>
+          </a>
+        </div>
+
+        <!-- interactive list -->
+        <div class="ch-right" data-reveal style="--d:200ms">
+          <p class="ch-kicker">Explore Collections</p>
+          <h2 class="ch-title">
+            <reveal-text>Made for Your</reveal-text>
+            <span class="ch-mark">Home<svg viewBox="0 0 100 12" preserveAspectRatio="none" aria-hidden="true"><path d="M2 9 C 30 3, 70 3, 98 7"/></svg></span>
+          </h2>
+          <div class="ch-list">
+            <a class="ch-row" href="/collections/starter-sets">
+              <span class="ch-name">Starter Sets<sup>20</sup></span>
+              <span class="ch-preview"><img src="assets/img/ch-sq-1.jpg" alt="" loading="lazy"></span>
+              <span class="ch-btn"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 2l6 6-6 6"/></svg></span>
+            </a>
+            <a class="ch-row" href="/collections/cacti-succulents">
+              <span class="ch-name">Cacti &amp; Succulents<sup>10</sup></span>
+              <span class="ch-preview"><img src="assets/img/ch-sq-2.jpg" alt="" loading="lazy"></span>
+              <span class="ch-btn"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 2l6 6-6 6"/></svg></span>
+            </a>
+            <a class="ch-row" href="/collections/trailing-hanging">
+              <span class="ch-name">Trailing &amp; Hanging<sup>8</sup></span>
+              <span class="ch-preview"><img src="assets/img/ch-sq-3.jpg" alt="" loading="lazy"></span>
+              <span class="ch-btn"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 2l6 6-6 6"/></svg></span>
+            </a>
+            <a class="ch-row" href="/collections/rare-finds">
+              <span class="ch-name">Rare Finds<sup>5</sup></span>
+              <span class="ch-preview"><img src="assets/img/ch-sq-4.jpg" alt="" loading="lazy"></span>
+              <span class="ch-btn"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 2l6 6-6 6"/></svg></span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════ Editorial sticky spotlight ══════════ -->
+    <section class="section editorial" id="story">
+      <div class="container ed-grid">
+        <div class="ed-sticky" data-reveal>
+          <figure class="ed-media">
+            <span class="ed-tag">Plant of the season</span>
+            <img src="assets/img/p-olive-1.jpg" alt="The Olive tree in a stone pot" loading="lazy" decoding="async" width="800" height="1000" data-parallax="42">
+          </figure>
+        </div>
+
+        <div class="ed-flow">
+          <p class="eyebrow" data-reveal>Our roots</p>
+          <h2 data-reveal>A home isn't finished until <em>something in it is growing.</em></h2>
+          <p class="lead" data-reveal>
+            We started FROND in a one-bedroom apartment with forty plants and one belief:
+            greenery isn't decoration  it's company.
+          </p>
+          <p data-reveal>
+            Every plant is grown slowly in our family greenhouse, acclimated to real indoor
+            light, and potted by hand the day it ships. No cold storage, no plastic sleeves,
+            no mystery soil. Just a living thing, packed like we care about it  because we do.
+          </p>
+
+          <div class="ed-stats" data-reveal>
+            <div><b>2019</b><span>Founded</span></div>
+            <div><b>140+</b><span>Varieties grown</span></div>
+            <div><b>0</b><span>Plastic in packaging</span></div>
+          </div>
+
+          <!-- shoppable editorial module -->
+          <div class="spotlight" data-reveal>
+            <div class="spotlight-head">
+              <h3 class="serif">The Olive Tree</h3>
+              <p class="spotlight-head price">$89.00</p>
+            </div>
+            <p style="color:var(--ink-60)">
+              Silvery leaves, impossible calm. Our olives are pruned for compact indoor
+              life and laugh in the face of a sunny windowsill.
+            </p>
+            <p class="avail">In stock  ships in 48h</p>
+            <variant-radios product="olive"></variant-radios>
+            <button class="btn" data-spot-add>Add to cart <span class="btn-arrow">→</span></button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════ Cinematic banner (video stand-in) ══════════ -->
+    <section class="cinema" aria-label="Brand film">
+      <div class="cinema-media">
+        <img src="assets/img/p-fig-2.jpg" alt="" aria-hidden="true">
+      </div>
+      <div class="cinema-inner">
+        <p class="eyebrow" data-reveal>The greenhouse tapes  01</p>
+        <h2><reveal-text class="accent-l">Grown slow.</reveal-text>
+        <reveal-text>Shipped fast.</reveal-text></h2>
+        <button class="play-btn" aria-label="Play or pause the ambient motion">
+          <svg viewBox="0 0 20 20" fill="currentColor"><rect x="4" y="4" width="4" height="12" rx="1"/><rect x="12" y="4" width="4" height="12" rx="1"/></svg>
+        </button>
+      </div>
+    </section>
+
+    <!-- ══════════ Collections ══════════ -->
+    <section class="section" id="collections">
+      <div class="container">
+        <div class="section-head">
+          <h2><reveal-text>Shop by <em>mood</em></reveal-text></h2>
+        </div>
+        <div class="tiles">
+          <a class="tile" href="#" onclick="return false" data-reveal>
+            <img src="assets/img/p-monstera-2.jpg" alt="Statement plants collection" loading="lazy">
+            <span class="tile-label"><h3>Statement plants</h3><span class="tile-go"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M2 8h12M9 3l5 5-5 5"/></svg></span></span>
+          </a>
+          <a class="tile" href="#" onclick="return false" data-reveal style="--d:120ms">
+            <img src="assets/img/p-pothos-2.jpg" alt="Easy care collection" loading="lazy">
+            <span class="tile-label"><h3>Easy care</h3><span class="tile-go"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M2 8h12M9 3l5 5-5 5"/></svg></span></span>
+          </a>
+          <a class="tile" href="#" onclick="return false" data-reveal style="--d:240ms">
+            <img src="assets/img/p-planter-2.jpg" alt="Pots and objects collection" loading="lazy">
+            <span class="tile-label"><h3>Pots &amp; objects</h3><span class="tile-go"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M2 8h12M9 3l5 5-5 5"/></svg></span></span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════ Shade finder (tabbed products) ══════════ -->
+    <section class="section" id="shades">
+      <div class="container">
+        <h2 class="ch-title sf-title">
+          <reveal-text>Choose Your</reveal-text>
+          <span class="ch-mark">Light<svg viewBox="0 0 100 12" preserveAspectRatio="none" aria-hidden="true"><path d="M2 9 C 30 3, 70 3, 98 7"/></svg></span>
+        </h2>
+        <shade-finder data-reveal>
+          <div class="sf-caps" role="tablist" aria-label="Light levels">
+            <button class="sf-tab on" role="tab" aria-selected="true">
+              <span class="sf-pill"><img src="assets/img/p-pothos-2.jpg" alt="" loading="lazy"></span>
+              <span class="sf-label">Low Light</span>
+            </button>
+            <button class="sf-tab" role="tab" aria-selected="false">
+              <span class="sf-pill"><img src="assets/img/ch-big-1.jpg" alt="" loading="lazy"></span>
+              <span class="sf-label">Medium Light</span>
+            </button>
+            <button class="sf-tab" role="tab" aria-selected="false">
+              <span class="sf-pill"><img src="assets/img/p-fig-2.jpg" alt="" loading="lazy"></span>
+              <span class="sf-label">Bright Indirect</span>
+            </button>
+            <button class="sf-tab" role="tab" aria-selected="false">
+              <span class="sf-pill"><img src="assets/img/hero.jpg" alt="" loading="lazy"></span>
+              <span class="sf-label">Direct Sun</span>
+            </button>
+          </div>
+          <div class="sf-track" aria-hidden="true"><i class="sf-line"></i><i class="sf-dot"></i></div>
+          <div class="product-grid" data-grid>
+            <product-card product="pothos"       data-reveal></product-card>
+            <product-card product="marble-queen" data-reveal style="--d:100ms"></product-card>
+            <product-card product="fern-pot"     data-reveal style="--d:200ms"></product-card>
+            <product-card product="monkey"       data-reveal style="--d:300ms"></product-card>
+          </div>
+        </shade-finder>
+      </div>
+    </section>
+    <section class="ugc" id="community">
+      <div class="container">
+        <h2 class="ugc-title"><reveal-text>COMMUNITY STORIES</reveal-text></h2>
+      </div>
+      <ugc-carousel data-reveal>
+        <div class="ugc-viewport">
+          <ul class="ugc-track" role="list">
+            <li class="ugc-card">
+              <div class="ugc-media">
+                <img class="ugc-poster" src="https://frond-theme.myshopify.com/cdn/shop/files/preview_images/c6d98e558714492b83bd9ea72ad3362a.thumbnail.0000000000_1100x.jpg?v=1785490093" alt="Adansonii Swiss Cheese Vine  community video" loading="lazy" decoding="async">
+                <video class="ugc-video" muted loop playsinline preload="none" src="https://frond-theme.myshopify.com/cdn/shop/videos/c/vp/c6d98e558714492b83bd9ea72ad3362a/c6d98e558714492b83bd9ea72ad3362a.HD-720p-3.0Mbps-90424809.mp4?v=0"></video>
+              </div>
+              <a class="ugc-chip" href="product.html?handle=adansonii" aria-label="Shop Adansonii Swiss Cheese Vine">
+                <span class="ugc-thumb"><img src="https://frond-theme.myshopify.com/cdn/shop/files/69819600273777_produ.png?v=1785490000&width=200" alt="" loading="lazy"></span>
+                <span class="ugc-info"><b>Adansonii Swiss Cheese Vine</b><span>$423.00</span></span>
+              </a>
+            </li>
+            <li class="ugc-card">
+              <div class="ugc-media">
+                <img class="ugc-poster" src="https://frond-theme.myshopify.com/cdn/shop/files/preview_images/6a92357b7a964f8db4ccc913f7c876dd.thumbnail.0000000000_1100x.jpg?v=1785490178" alt="Mini Lemon Button Fern Pot  community video" loading="lazy" decoding="async">
+                <video class="ugc-video" muted loop playsinline preload="none" src="https://frond-theme.myshopify.com/cdn/shop/videos/c/vp/6a92357b7a964f8db4ccc913f7c876dd/6a92357b7a964f8db4ccc913f7c876dd.HD-720p-3.0Mbps-90424811.mp4?v=0"></video>
+              </div>
+              <a class="ugc-chip" href="product.html?handle=fern-pot" aria-label="Shop Mini Lemon Button Fern Pot">
+                <span class="ugc-thumb"><img src="https://frond-theme.myshopify.com/cdn/shop/files/69818757513585_produ.png?v=1785489975&width=200" alt="" loading="lazy"></span>
+                <span class="ugc-info"><b>Mini Lemon Button Fern Pot</b><span>$299.00</span></span>
+              </a>
+            </li>
+            <li class="ugc-card">
+              <div class="ugc-media">
+                <img class="ugc-poster" src="https://frond-theme.myshopify.com/cdn/shop/files/preview_images/cc70edb421ad4ee7894998e3ce6af227.thumbnail.0000000000_1100x.jpg?v=1785490136" alt="Marble Queen Pothos Plant  community video" loading="lazy" decoding="async">
+                <video class="ugc-video" muted loop playsinline preload="none" src="https://frond-theme.myshopify.com/cdn/shop/videos/c/vp/cc70edb421ad4ee7894998e3ce6af227/cc70edb421ad4ee7894998e3ce6af227.HD-1080p-3.3Mbps-90424791.mp4?v=0"></video>
+              </div>
+              <a class="ugc-chip" href="product.html?handle=marble-queen" aria-label="Shop Marble Queen Pothos Plant">
+                <span class="ugc-thumb"><img src="https://frond-theme.myshopify.com/cdn/shop/files/69818845626737_produ.png?v=1785489982&width=200" alt="" loading="lazy"></span>
+                <span class="ugc-info"><b>Marble Queen Pothos Plant</b><span>$199.00</span></span>
+              </a>
+            </li>
+            <li class="ugc-card">
+              <div class="ugc-media">
+                <img class="ugc-poster" src="https://frond-theme.myshopify.com/cdn/shop/files/preview_images/7a5a664a42da4c95887162369f8cd7dd.thumbnail.0000000000_1100x.jpg?v=1785490097" alt="Philodendron Melanochrysum  community video" loading="lazy" decoding="async">
+                <video class="ugc-video" muted loop playsinline preload="none" src="https://frond-theme.myshopify.com/cdn/shop/videos/c/vp/7a5a664a42da4c95887162369f8cd7dd/7a5a664a42da4c95887162369f8cd7dd.HD-720p-3.0Mbps-90424813.mp4?v=0"></video>
+              </div>
+              <a class="ugc-chip" href="product.html?handle=melano" aria-label="Shop Philodendron Melanochrysum">
+                <span class="ugc-thumb"><img src="https://frond-theme.myshopify.com/cdn/shop/files/69819635171697_produ.png?v=1785490003&width=200" alt="" loading="lazy"></span>
+                <span class="ugc-info"><b>Philodendron Melanochrysum</b><span>$355.00</span></span>
+              </a>
+            </li>
+            <li class="ugc-card">
+              <div class="ugc-media">
+                <img class="ugc-poster" src="https://frond-theme.myshopify.com/cdn/shop/files/preview_images/b0d12f617ef2486793923f73acb402fa.thumbnail.0000000000_1100x.jpg?v=1785490094" alt="Monstera Adansonii Monkey  community video" loading="lazy" decoding="async">
+                <video class="ugc-video" muted loop playsinline preload="none" src="https://frond-theme.myshopify.com/cdn/shop/videos/c/vp/b0d12f617ef2486793923f73acb402fa/b0d12f617ef2486793923f73acb402fa.HD-720p-3.0Mbps-90424808.mp4?v=0"></video>
+              </div>
+              <a class="ugc-chip" href="product.html?handle=monkey" aria-label="Shop Monstera Adansonii Monkey">
+                <span class="ugc-thumb"><img src="https://frond-theme.myshopify.com/cdn/shop/files/69819583660401_img-4.png?v=1785489998&width=200" alt="" loading="lazy"></span>
+                <span class="ugc-info"><b>Monstera Adansonii Monkey</b><span>$266.00</span></span>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <button class="ugc-arrow prev" data-prev aria-label="Previous">
+          <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M10 2 4 8l6 6"/></svg>
+        </button>
+        <button class="ugc-arrow next" data-next aria-label="Next">
+          <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 2l6 6-6 6"/></svg>
+        </button>
+      </ugc-carousel>
+    </section>
+
+    <!-- ══════════ As Seen In  shoppable videos ══════════ [GEÇİCİ GİZLENDİ]
+    <section class="section as-seen" id="seen-in" data-fresh="v16">
+      <div class="container">
+        <p class="seen-kicker" data-reveal>As Seen In</p>
+        <h2 class="seen-title" data-reveal>
+          <em><reveal-text>Real ResultsReal You</reveal-text></em>
+        </h2>
+        <seen-carousel data-reveal>
+          <div class="seen-viewport">
+            <ul class="seen-track">
+              <li class="seen-card">
+                <button class="seen-media" type="button" data-seen="adansonii" aria-haspopup="dialog" aria-label="Watch and shop Adansonii Swiss Cheese Vine">
+                  <img class="seen-poster" src="https://frond-theme.myshopify.com/cdn/shop/files/preview_images/c6d98e558714492b83bd9ea72ad3362a.thumbnail.0000000000_1100x.jpg?v=1785490093" alt="Adansonii Swiss Cheese Vine  shoppable video" loading="lazy" decoding="async">
+                  <video class="seen-video" muted loop playsinline preload="none" src="https://frond-theme.myshopify.com/cdn/shop/videos/c/vp/c6d98e558714492b83bd9ea72ad3362a/c6d98e558714492b83bd9ea72ad3362a.HD-720p-3.0Mbps-90424809.mp4?v=0"></video>
+                </button>
+                <a class="seen-chip" href="product.html?handle=adansonii" aria-label="Shop Adansonii Swiss Cheese Vine">
+                  <span class="seen-thumb"><img src="https://frond-theme.myshopify.com/cdn/shop/files/69819600273777_produ.png?v=1785490000&width=200" alt="" loading="lazy"></span>
+                  <span class="seen-chip-info"><b>Adansonii Swiss Cheese Vine</b><span>From $423.00</span></span>
+                </a>
+              </li>
+              <li class="seen-card">
+                <button class="seen-media" type="button" data-seen="fern-pot" aria-haspopup="dialog" aria-label="Watch and shop Mini Lemon Button Fern Pot">
+                  <img class="seen-poster" src="https://frond-theme.myshopify.com/cdn/shop/files/preview_images/6a92357b7a964f8db4ccc913f7c876dd.thumbnail.0000000000_1100x.jpg?v=1785490178" alt="Mini Lemon Button Fern Pot  shoppable video" loading="lazy" decoding="async">
+                  <video class="seen-video" muted loop playsinline preload="none" src="https://frond-theme.myshopify.com/cdn/shop/videos/c/vp/6a92357b7a964f8db4ccc913f7c876dd/6a92357b7a964f8db4ccc913f7c876dd.HD-720p-3.0Mbps-90424811.mp4?v=0"></video>
+                </button>
+                <a class="seen-chip" href="product.html?handle=fern-pot" aria-label="Shop Mini Lemon Button Fern Pot">
+                  <span class="seen-thumb"><img src="https://frond-theme.myshopify.com/cdn/shop/files/69818757513585_produ.png?v=1785489975&width=200" alt="" loading="lazy"></span>
+                  <span class="seen-chip-info"><b>Mini Lemon Button Fern Pot</b><span>From $299.00</span></span>
+                </a>
+              </li>
+              <li class="seen-card">
+                <button class="seen-media" type="button" data-seen="marble-queen" aria-haspopup="dialog" aria-label="Watch and shop Marble Queen Pothos Plant">
+                  <img class="seen-poster" src="https://frond-theme.myshopify.com/cdn/shop/files/preview_images/cc70edb421ad4ee7894998e3ce6af227.thumbnail.0000000000_1100x.jpg?v=1785490136" alt="Marble Queen Pothos Plant  shoppable video" loading="lazy" decoding="async">
+                  <video class="seen-video" muted loop playsinline preload="none" src="https://frond-theme.myshopify.com/cdn/shop/videos/c/vp/cc70edb421ad4ee7894998e3ce6af227/cc70edb421ad4ee7894998e3ce6af227.HD-1080p-3.3Mbps-90424791.mp4?v=0"></video>
+                </button>
+                <a class="seen-chip" href="product.html?handle=marble-queen" aria-label="Shop Marble Queen Pothos Plant">
+                  <span class="seen-thumb"><img src="https://frond-theme.myshopify.com/cdn/shop/files/69818845626737_produ.png?v=1785489982&width=200" alt="" loading="lazy"></span>
+                  <span class="seen-chip-info"><b>Marble Queen Pothos Plant</b><span>$199.00 <s>$249.00</s></span></span>
+                </a>
+              </li>
+              <li class="seen-card">
+                <button class="seen-media" type="button" data-seen="melano" aria-haspopup="dialog" aria-label="Watch and shop Philodendron Melanochrysum">
+                  <img class="seen-poster" src="https://frond-theme.myshopify.com/cdn/shop/files/preview_images/7a5a664a42da4c95887162369f8cd7dd.thumbnail.0000000000_1100x.jpg?v=1785490097" alt="Philodendron Melanochrysum  shoppable video" loading="lazy" decoding="async">
+                  <video class="seen-video" muted loop playsinline preload="none" src="https://frond-theme.myshopify.com/cdn/shop/videos/c/vp/7a5a664a42da4c95887162369f8cd7dd/7a5a664a42da4c95887162369f8cd7dd.HD-720p-3.0Mbps-90424813.mp4?v=0"></video>
+                </button>
+                <a class="seen-chip" href="product.html?handle=melano" aria-label="Shop Philodendron Melanochrysum">
+                  <span class="seen-thumb"><img src="https://frond-theme.myshopify.com/cdn/shop/files/69819635171697_produ.png?v=1785490003&width=200" alt="" loading="lazy"></span>
+                  <span class="seen-chip-info"><b>Philodendron Melanochrysum</b><span>From $355.00</span></span>
+                </a>
+              </li>
+              <li class="seen-card">
+                <button class="seen-media" type="button" data-seen="monkey" aria-haspopup="dialog" aria-label="Watch and shop Monstera Adansonii Monkey">
+                  <img class="seen-poster" src="https://frond-theme.myshopify.com/cdn/shop/files/preview_images/b0d12f617ef2486793923f73acb402fa.thumbnail.0000000000_1100x.jpg?v=1785490094" alt="Monstera Adansonii Monkey  shoppable video" loading="lazy" decoding="async">
+                  <video class="seen-video" muted loop playsinline preload="none" src="https://frond-theme.myshopify.com/cdn/shop/videos/c/vp/b0d12f617ef2486793923f73acb402fa/b0d12f617ef2486793923f73acb402fa.HD-720p-3.0Mbps-90424808.mp4?v=0"></video>
+                </button>
+                <a class="seen-chip" href="product.html?handle=monkey" aria-label="Shop Monstera Adansonii Monkey">
+                  <span class="seen-thumb"><img src="https://frond-theme.myshopify.com/cdn/shop/files/69819583660401_img-4.png?v=1785489998&width=200" alt="" loading="lazy"></span>
+                  <span class="seen-chip-info"><b>Monstera Adansonii Monkey</b><span>From $266.00</span></span>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <button class="seen-arrow prev" data-prev aria-label="Previous">
+            <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M10 2 4 8l6 6"/></svg>
+          </button>
+          <button class="seen-arrow next" data-next aria-label="Next">
+            <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 2l6 6-6 6"/></svg>
+          </button>
+        </seen-carousel>
+      </div>
+    </section>
+    [GEÇİCİ GİZLENDİ] ══════════ -->
+
+    <!-- ══════════ Newsletter ══════════ -->
+    <section class="section newsletter">
+      <div class="container">
+        <p class="eyebrow" data-reveal style="justify-content:center;display:flex">Plant mail</p>
+        <h2 style="margin-top:1rem"><reveal-text>Sunday <em>cuttings.</em></reveal-text></h2>
+        <p data-reveal>One short letter a week. Care rituals, new arrivals, occasional drama from the greenhouse.</p>
+        <form class="nl-form" data-reveal novalidate>
+          <input type="email" required placeholder="your@email.com" aria-label="Email address">
+          <button type="submit">Subscribe <span class="btn-arrow">→</span></button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <!-- ══════════ Footer ══════════ -->
+  <footer class="site-footer">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <a class="logo" href="#" style="color:var(--cream)">FROND<sup>&reg;</sup></a>
+        <p>Slow-grown plants &amp; quietly sculptural objects. Greenhouse-direct since 2019.</p>
+      </div>
+      <div>
+        <h4>Shop</h4>
+        <ul>
+          <li><a href="/#shop">Bestsellers</a></li>
+          <li><a href="/collections">Statement plants</a></li>
+          <li><a href="/collections">Easy care</a></li>
+          <li><a href="/collections">Pots &amp; objects</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Help</h4>
+        <ul>
+          <li><a href="#">Shipping &amp; returns</a></li>
+          <li><a href="#">Root guarantee</a></li>
+          <li><a href="#">Care guides</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Social</h4>
+        <ul>
+          <li><a href="#">Instagram</a></li>
+          <li><a href="#">Pinterest</a></li>
+          <li><a href="#">TikTok</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-mark" aria-hidden="true">FROND</div>
+    <div class="foot-bar">
+      <span>© 2026 Frond  demo clone</span>
+      <span>Built with vanilla Web Components</span>
+    </div>
+  </footer>
+
+  <!-- ══════════ Drawers ══════════ -->
+  <shop-modal></shop-modal>
+  <cart-drawer></cart-drawer>
+  <menu-drawer left></menu-drawer>
+
+  <script src="/assets/data.js?v=800" defer></script>
+  <script src="/assets/vendor/lenis.min.js" defer></script>
+  <script src="/assets/vendor/embla-carousel.umd.js" defer></script>
+  <script src="/assets/theme.js?v=800" defer></script>
+</body>
+</html>
+

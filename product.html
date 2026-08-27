@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product  FROND</title>
+  <meta name="description" content="FROND product detail  sticky gallery, variant picker, embla carousel.">
+  <base href="/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/theme.css?v=43">
+</head>
+<body>
+
+  <!-- ══════════ Announcement marquee ══════════ -->
+  <div class="announce">
+    <marquee-band speed="36s" aria-label="Announcements">
+      <span class="mq-item">Free shipping on orders over $75 <i>&#10022;</i></span>
+      <span class="mq-item">New in &mdash; The Dune Collection <i>&#10022;</i></span>
+      <span class="mq-item">Every plant ships with a 7-day root guarantee <i>&#10022;</i></span>
+    </marquee-band>
+  </div>
+
+  <!-- ══════════ Header (site chrome) ══════════ -->
+  <header class="site-header">
+    <button class="icon-btn burger" data-menu-toggle aria-label="Open menu" aria-expanded="false">
+      <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M2 5h16M2 10h16M2 15h16"/></svg>
+    </button>
+
+    <nav class="nav" aria-label="Primary">
+      <a href="/#shop">Shop</a>
+      <a href="/collections">Collections</a>
+      <a href="/blogs">Journal</a>
+      <a href="/#community">Community</a>
+    </nav>
+
+    <a class="logo" href="/">FROND<sup>&reg;</sup></a>
+
+    <div class="header-actions">
+      <predictive-search></predictive-search>
+      <button class="icon-btn" data-search-toggle aria-label="Search" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg>
+      </button>
+      <button class="icon-btn" aria-label="Account">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 5-5.5 8-5.5s6.5 1.5 8 5.5"/></svg>
+      </button>
+      <button class="icon-btn" data-cart-toggle aria-label="Open cart">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M5 8h14l-1.2 12.2a1.5 1.5 0 0 1-1.5 1.3H7.7a1.5 1.5 0 0 1-1.5-1.3L5 8Z"/><path d="M8.5 10V6.5a3.5 3.5 0 0 1 7 0V10"/></svg>
+        <span class="cart-count" aria-live="polite">0</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- PDP rendered by assets/product.js according to ?handle= -->
+    <div id="pdp-root"></div>
+
+    <!-- ══════════ Campaign & coupons ══════════ -->
+    <section class="section campaign">
+      <div class="container">
+        <div class="section-head">
+          <h2><reveal-text>Offers <em>in bloom</em></reveal-text></h2>
+          <span class="link-line">Auto-applied at checkout</span>
+        </div>
+        <div class="camp-grid">
+          <div class="camp-card camp-ticket" data-reveal>
+            <p class="camp-kicker">First-order treat  flash deal</p>
+            <h3>15% off your first FROND</h3>
+            <div class="coupon-row">
+              <span class="coupon-code">PLANTLOVE15</span>
+              <button class="coupon-copy" data-copy="PLANTLOVE15">Copy</button>
+            </div>
+            <p class="camp-timer">Deal refreshes in <b data-flash-timer>::</b></p>
+          </div>
+          <div class="camp-card camp-green" data-reveal style="--d:120ms">
+            <p class="camp-kicker">Bundle magic</p>
+            <h3>Buy 2 plants, the care kit is on us</h3>
+            <p>Mist sprayer, neem oil &amp; a moss pole  auto-added to your box.</p>
+            <a class="camp-cta" href="index.html#shop">Build your bundle <span class="btn-arrow">→</span></a>
+          </div>
+          <div class="camp-card camp-clay" data-reveal style="--d:240ms">
+            <p class="camp-kicker">Plant + pot</p>
+            <h3>10% off when it ships potted</h3>
+            <p>Choose any decorative pot  we pot your plant before it travels.</p>
+            <a class="camp-cta" href="index.html#collections">Shop pots <span class="btn-arrow">→</span></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════ Marquee band ══════════ -->
+    <marquee-band class="band" speed="30s" aria-hidden="true">
+      <span class="mq-item">Grown slow, shipped fast <i>&#10022;</i></span>
+      <span class="mq-item">7-day root guarantee <i>&#10022;</i></span>
+      <span class="mq-item">Plastic-free packaging <i>&#10022;</i></span>
+    </marquee-band>
+
+    <!-- ══════════ Related products ══════════ -->
+    <section class="section related">
+      <div class="container">
+        <div class="section-head">
+          <h2><reveal-text>Pairs well <em>with</em></reveal-text></h2>
+          <a class="link-line" href="index.html#shop">Back to shop</a>
+        </div>
+        <div class="product-grid" id="related-grid"></div>
+      </div>
+    </section>
+
+    <!-- ══════════ Journal (blog) carousel ══════════ -->
+    <section class="section journal">
+      <div class="container">
+        <div class="section-head">
+          <h2><reveal-text>From the <em>journal</em></reveal-text></h2>
+          <a class="link-line" href="#" onclick="return false">All stories</a>
+        </div>
+      </div>
+      <snap-carousel data-reveal>
+        <div class="snap-viewport">
+          <div class="snap-track">
+            <article class="j-card">
+              <a class="j-media" href="#" onclick="return false">
+                <img src="assets/img/blog-1.jpg" alt="Cuttings rooting in water on a windowsill" loading="lazy">
+                <span class="j-tag">Care Lab</span>
+              </a>
+              <div class="j-body">
+                <h3><a href="#" onclick="return false">How to propagate (almost) anything in water</a></h3>
+                <p class="j-meta">6 min read · Maya from the greenhouse</p>
+              </div>
+            </article>
+            <article class="j-card">
+              <a class="j-media" href="#" onclick="return false">
+                <img src="assets/img/blog-2.jpg" alt="Hands repotting a plant into terracotta" loading="lazy">
+                <span class="j-tag">Guides</span>
+              </a>
+              <div class="j-body">
+                <h3><a href="#" onclick="return false">Repotting without the drama: a 5-step ritual</a></h3>
+                <p class="j-meta">4 min read · Field notes</p>
+              </div>
+            </article>
+            <article class="j-card">
+              <a class="j-media" href="#" onclick="return false">
+                <img src="assets/img/blog-3.jpg" alt="Sunlight through a window on a monstera leaf" loading="lazy">
+                <span class="j-tag">Guides</span>
+              </a>
+              <div class="j-body">
+                <h3><a href="#" onclick="return false">Reading your light like a plant does</a></h3>
+                <p class="j-meta">8 min read · Deep dive</p>
+              </div>
+            </article>
+            <article class="j-card">
+              <a class="j-media" href="#" onclick="return false">
+                <img src="assets/img/p-pothos-2.jpg" alt="Pothos trailing from a shelf" loading="lazy">
+                <span class="j-tag">Plant School</span>
+              </a>
+              <div class="j-body">
+                <h3><a href="#" onclick="return false">5 plants that forgive absolute beginners</a></h3>
+                <p class="j-meta">5 min read · Starter pack</p>
+              </div>
+            </article>
+          </div>
+        </div>
+        <button class="ugc-arrow prev" data-prev aria-label="Previous">
+          <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M10 2 4 8l6 6"/></svg>
+        </button>
+        <button class="ugc-arrow next" data-next aria-label="Next">
+          <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M6 2l6 6-6 6"/></svg>
+        </button>
+      </snap-carousel>
+    </section>
+
+    <!-- ══════════ FAQ ══════════ -->
+    <section class="section faq">
+      <div class="container faq-grid">
+        <div class="faq-left" data-reveal>
+          <p class="eyebrow">Good to know</p>
+          <h2><reveal-text>Questions, answered.</reveal-text></h2>
+          <p>Still curious? <a class="link-line" href="#" onclick="return false">Write to us</a>  a human (usually with soil under their nails) replies within a day.</p>
+        </div>
+        <div class="pdp-acc" data-reveal>
+          <details open>
+            <summary>How does my plant survive shipping? <i>+</i></summary>
+            <div class="acc-body"><p>Each plant is potted, watered and secured in a soil-lock insert the day it ships. Boxes are plastic-free with breathing holes, for 1–3 days in transit.</p></div>
+          </details>
+          <details>
+            <summary>What is the 7-day root guarantee? <i>+</i></summary>
+            <div class="acc-body"><p>If your plant arrives damaged or declines within 7 days, send us a photo  a replacement ships free, no return required.</p></div>
+          </details>
+          <details>
+            <summary>Does the decorative pot come potted? <i>+</i></summary>
+            <div class="acc-body"><p>Plants ship in their nursery pots; decorative pots ship alongside. Pick "ships potted" at checkout and we pot it for you (10% bundle discount applies).</p></div>
+          </details>
+          <details>
+            <summary>Can I add a gift note? <i>+</i></summary>
+            <div class="acc-body"><p>Yes  free handwritten cards, and we never include prices in the box. Add your note in the cart before checkout.</p></div>
+          </details>
+          <details>
+            <summary>I'm a serial plant-killer. Where do I start? <i>+</i></summary>
+            <div class="acc-body"><p>Start with our Easy Care collection, and read the care card in the box  each one is written for the exact plant you received, not a generic species page.</p></div>
+          </details>
+          <details>
+            <summary>Do you ship internationally? <i>+</i></summary>
+            <div class="acc-body"><p>Currently EU-wide; soil regulations keep us from shipping live plants overseas. Pots &amp; objects travel worldwide.</p></div>
+          </details>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ══════════ Footer ══════════ -->
+  <footer class="site-footer">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <a class="logo" href="/" style="color:var(--cream)">FROND<sup>&reg;</sup></a>
+        <p>Slow-grown plants &amp; quietly sculptural objects. Greenhouse-direct since 2019.</p>
+      </div>
+      <div>
+        <h4>Shop</h4>
+        <ul>
+          <li><a href="/#shop">Bestsellers</a></li>
+          <li><a href="/collections">Statement plants</a></li>
+          <li><a href="/collections">Easy care</a></li>
+          <li><a href="/collections">Pots &amp; objects</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Help</h4>
+        <ul>
+          <li><a href="#">Shipping &amp; returns</a></li>
+          <li><a href="#">Root guarantee</a></li>
+          <li><a href="#">Care guides</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Social</h4>
+        <ul>
+          <li><a href="#">Instagram</a></li>
+          <li><a href="#">Pinterest</a></li>
+          <li><a href="#">TikTok</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-mark" aria-hidden="true">FROND</div>
+    <div class="foot-bar">
+      <span>© 2026 Frond  demo clone</span>
+      <span>Built with vanilla Web Components</span>
+    </div>
+  </footer>
+
+  <!-- ══════════ Drawers ══════════ -->
+  <cart-drawer></cart-drawer>
+  <menu-drawer left></menu-drawer>
+
+  <script src="/assets/data.js?v=43" defer></script>
+  <script src="/assets/vendor/lenis.min.js" defer></script>
+  <script src="/assets/vendor/embla-carousel.umd.js" defer></script>
+  <script src="/assets/theme.js?v=43" defer></script>
+  <script src="/assets/product.js?v=43" defer></script>
+</body>
+</html>
+

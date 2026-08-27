@@ -1,0 +1,1426 @@
+{
+  "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+  "filename": "cactus_propagate.pdf",
+  "page_count": 18,
+  "document_type": null,
+  "quality_score": null,
+  "total_chunks": 59,
+  "pages": [
+    {
+      "page": 1,
+      "section": null,
+      "content": "{0}------------------------------------------------",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": null,
+        "heading": null,
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "# HOW TO PROPAGATE AND GRAFT",
+      "content": "Many cacti and succulents will grow new roots from leaves or stems taken from a healthy plant, which can then be potted on to produce new plants. Most of the propagation methods outlined on the next few pages are quick and easy, and ideal for beginners to try as they require no special tools or equipment. Grafting plants is a little more technical, but can be hugely rewarding.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "# HOW TO PROPAGATE AND GRAFT",
+        "heading": "# HOW TO PROPAGATE AND GRAFT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## WHICH PROPAGATION METHOD SHOULD I USE?",
+      "content": "**The leaf method** is ideal for fleshy-leaved succulents, such as *Crassula*, *Echeveria*, *Kalanchoe*, and *Sedum* (see below). **The offset method** suits a range of cacti and succulents including such as *Echinocactus*, *Gymnocalycium*, *Matucana*, *Mammillaria*, *Rebutia*, and *Aloe* (see p202) **The stem cutting method** can be used for both woody-stemmed succulents, such as *Aeonium*, *Crassula*, *Sedum*, and *Kalanchoe* (see p203), and cacti with tall or trailing cacti like *Cleistocactus*, *Ferocactus*, *Opuntia*, and *Schlumbergera* (see pp204-05). **The seed method** works for variety of cacti and some succulents (see pp206-07).",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "## WHICH PROPAGATION METHOD SHOULD I USE?",
+        "heading": "## WHICH PROPAGATION METHOD SHOULD I USE?",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### PROPAGATE FROM SUCCULENT LEAVES",
+      "content": "One of the simplest propagation methods, this can produce rooted baby plants in as little as a few weeks. Always select plump, fully grown leaves that show no signs of disease or damage. The best time to take leaf cuttings is in spring when temperatures are on the rise, as cool conditions will slow down the process.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### PROPAGATE FROM SUCCULENT LEAVES",
+        "heading": "### PROPAGATE FROM SUCCULENT LEAVES",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "#### PLANT",
+      "content": "- Succulent plant with fleshy leaves, such as an *Echeveria* (shown here), *Sedum*, *Crassula*, or *Kalanchoe*",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "#### PLANT",
+        "heading": "#### PLANT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "#### OTHER MATERIALS",
+      "content": "- Small plastic pots with drainage holes in the base - Cactus compost, or a 50:50 mix of loam-based compost (John Innes No. 2) and 4mm grit",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "#### OTHER MATERIALS",
+        "heading": "#### OTHER MATERIALS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### TOOLS",
+      "content": "- Kitchen towel or plate - Plastic container - Cocktail sticks (optional) - Watering can fitted with a rose attachment {1}------------------------------------------------ ![A close-up of a hand plucking a large, plump, reddish-purple leaf from the base of a succulent plant in an orange pot. The plant has many similar leaves stacked on top of each other.](c803f6f6e2c49429d2951832bd0f208d_img.jpg) A close-up of a hand plucking a large, plump, reddish-purple leaf from the base of a succulent plant in an orange pot. The plant has many similar leaves stacked on top of each other. **1** Choose a plump, mature leaf from near the bottom of the plant's stem. Firmly tug the leaf to one side to detach it, ensuring the whole leaf comes away cleanly from the stem. Repeat until you have as many leaves as you would like to propagate. ![Four detached reddish-purple succulent leaves are laid out on a light blue surface. Each leaf is teardrop-shaped with a pointed tip and a small notch at the base.](317e0525ef1b2458976c246876f4a948_img.jpg) Four detached reddish-purple succulent leaves are laid out on a light blue surface. Each leaf is teardrop-shaped with a pointed tip and a small notch at the base. **2** Place the leaves on a tray or piece of kitchen towel and set them in a warm, dry area out of full sun for a few weeks to allow the base of each leaf to callus over. Do not water or mist them during this time. Roots and shoots may soon start to develop from the base of the leaves. ![A single reddish-purple succulent leaf is planted upright in a small orange pot filled with dark soil. A small, new plantlet is visible sprouting from the base of the leaf in the soil.](b0d31e6842af4e5cee75a79f4eac72ff_img.jpg) A single reddish-purple succulent leaf is planted upright in a small orange pot filled with dark soil. A small, new plantlet is visible sprouting from the base of the leaf in the soil. **3** After a few weeks, pot up your leaves, even if they have not yet sprouted. Fill your pots with cactus compost. Carefully push the base of each leaf into the compost, gently burying any roots if they have sprouted. Prop up the leaves with cocktail sticks if necessary to stop them falling over. ![A succulent leaf in a pot is being watered with a green watering can. The pot sits in a clear plastic tray that is catching the excess water. The plantlet at the base of the leaf is more developed than in the previous image.](8c378a184b5ae4d1605cb74d7b7a7e3f_img.jpg) A succulent leaf in a pot is being watered with a green watering can. The pot sits in a clear plastic tray that is catching the excess water. The plantlet at the base of the leaf is more developed than in the previous image. **4** Water often, keeping the compost moist but not wet. As the new plant develops, the original leaf will start to die off, at which point it can be removed. Once the new plant is established, repot it in a pot one size larger and follow its specific care advice (see",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### TOOLS",
+        "heading": "### TOOLS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### TOOLS",
+      "content": "the base of the leaf is more developed than in the previous image. **4** Water often, keeping the compost moist but not wet. As the new plant develops, the original leaf will start to die off, at which point it can be removed. Once the new plant is established, repot it in a pot one size larger and follow its specific care advice (see Plant Profiles, pp76-181). {2}------------------------------------------------",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### TOOLS",
+        "heading": "### TOOLS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### PROPAGATE FROM OFFSETS",
+      "content": "Many mature cactus and succulent species develop offsets: little “babies” produced by a mature “mother” plant. Offsets can be removed and potted up easily to make new plants, offering a great way for beginners to increase a cactus or succulent collection without too much effort. Offsets should be taken in early spring for the best results. ![A hand carefully removing a small, green cactus offset from a larger, mature cactus plant in a red pot.](48f188337e3ba41df38fab9ac0afb1bd_img.jpg) A hand carefully removing a small, green cactus offset from a larger, mature cactus plant in a red pot. **1** Gently remove an offset from the mother plant. Small offsets can be pulled off easily with your hands (wearing gloves if necessary) or a pair of tweezers, while larger offsets may need to be cut away with a sharp knife. ![A close-up of a small, white, fuzzy cactus offset with a pinkish-red base, resting on a light blue surface.](373e2ccc5c19a052a1b8cb6de3eebc94_img.jpg) A close-up of a small, white, fuzzy cactus offset with a pinkish-red base, resting on a light blue surface. **2** Place the offsets in a warm, dry, shady area for about two weeks, or until the ends have callused over. Small roots may begin to appear but are not necessary at this stage for successful propagation.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### PROPAGATE FROM OFFSETS",
+        "heading": "### PROPAGATE FROM OFFSETS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "#### PLANT",
+      "content": "- Offset-producing cactus or succulent plant, such as *Mammillaria* (shown here), *Echinocactus*, *Gymnocylacium*, *Matucana*, *Rebutia*, and *Aloe*",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "#### PLANT",
+        "heading": "#### PLANT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "#### OTHER MATERIALS",
+      "content": "- Small plastic pots with drainage holes in the base - Cactus compost, or a 50:50 mix of loam-based compost (John Innes No. 2) and 4mm grit",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "#### OTHER MATERIALS",
+        "heading": "#### OTHER MATERIALS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### TOOLS",
+      "content": "- Cactus gloves (optional) - Tweezers or a sharp, clean knife (optional) - Watering can fitted with a rose attachment ![Three red plastic pots containing cactus compost, each with a small cactus offset planted in it. Water is being poured from a watering can onto the offsets.](4c7edbe6e90384d6698dcc59ef3aa0cd_img.jpg) Three red plastic pots containing cactus compost, each with a small cactus offset planted in it. Water is being poured from a watering can onto the offsets. **3** Fill the pots with cactus compost. Place one offset in each pot, so the base is in contact with the compost. Gently water them from above. Leave the offsets in a lightly shaded area to grow on, watering them only when the top 1cm (½in) of compost is dry. As the offsets mature, move them to a sunnier position and follow the relevant care instructions (see Plant Profiles, pp176-81). {3}------------------------------------------------",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### TOOLS",
+        "heading": "### TOOLS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### PROPAGATE FROM SUCCULENT STEMS",
+      "content": "Succulents with woody stems, such as aeoniums and some crassulas, are ideal for taking cuttings, while the fleshier stems of sedums and kalanchoes can also be propagated in this way. Stem cuttings are generally quick to root, producing new plants in no time. This propagation technique also helps to prune the “parent” plant, which will benefit from the process (see pp196-97) by developing more stems where those have been cut off and further down the stems. Take cuttings in spring. ![A close-up photograph showing a pair of silver pruning shears cutting a woody stem of a dark-leaved succulent. The plant has several dark, fleshy leaves at the top of the stem.](16d86083b7ebdc40c0647a1d3d46ace7_img.jpg) A close-up photograph showing a pair of silver pruning shears cutting a woody stem of a dark-leaved succulent. The plant has several dark, fleshy leaves at the top of the stem. **1** Remove a leafy side stem at least 7-10cm (3-4in) from the “parent” plant. Strip away any lower leaves so that the bottom 2-3cm (1-1½in) of stem is clear. Repeat with several more cuttings. ![A close-up photograph of a hand placing a small, dark-leaved succulent cutting into an orange plastic pot filled with dark brown compost. The cutting is being pushed into the soil.](af8b95b7fc833cebe89ba6c8ed839984_img.jpg) A close-up photograph of a hand placing a small, dark-leaved succulent cutting into an orange plastic pot filled with dark brown compost. The cutting is being pushed into the soil. **2** Set the stems in a warm, dry area out of direct sunlight for a few weeks, until the ends callus over. Fill the pots with compost and gently insert one stem into each, so the leaves are just above the surface.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### PROPAGATE FROM SUCCULENT STEMS",
+        "heading": "### PROPAGATE FROM SUCCULENT STEMS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "#### PLANT",
+      "content": "- Succulent with stems, such as *Aeonium* (shown here), *Crassula*, *Kalanchoe*, and *Sedum*",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "#### PLANT",
+        "heading": "#### PLANT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "#### OTHER MATERIALS",
+      "content": "- Plastic pots with drainage holes in the base - Cactus compost, or a 50:50 mix of loam-based compost (John Innes No. 2) and 4mm grit",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "#### OTHER MATERIALS",
+        "heading": "#### OTHER MATERIALS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "#### TOOLS",
+      "content": "- Sharp, clean secateurs or scissors - Watering can fitted with a rose attachment ![A photograph of an orange plastic pot containing a succulent cutting. A green watering can with a white rose attachment is spraying water onto the plant. The pot sits on a white plastic tray.](0bd48c1eecb2ba5149750173c9cb1138_img.jpg) A photograph of an orange plastic pot containing a succulent cutting. A green watering can with a white rose attachment is spraying water onto the plant. The pot sits on a white plastic tray. **3** Place the cuttings in a plastic tray, water them, and allow to drain. Leave in a warm area out of direct sunlight, watering the cuttings when the top of the compost is just dry. ![A photograph of a mature, dark-leaved succulent plant growing in an orange plastic pot. The plant has many thick, dark, rounded leaves arranged in a rosette pattern.](4a00fa6a0859c67e717c83baab9dd87f_img.jpg) A photograph of a mature, dark-leaved succulent plant growing in an orange plastic pot. The plant has many thick, dark, rounded leaves arranged in a rosette pattern. **4** Once the plants take root and new growth develops above the surface, follow the relevant care instructions (see Plant Profiles, pp176-81). {4}------------------------------------------------",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "#### TOOLS",
+        "heading": "#### TOOLS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### PROPAGATE FROM CACTUS STEMS",
+      "content": "This is a very simple method for propagating cacti, and can also help to save stems that have been damaged or are suffering from disease. The stem is removed and the healthy section repotted, allowing it to survive, while the damaged area is discarded. Of course, you can just take a healthy stem and use this for propagation too. Columnar cacti can be cut at any point along the stem, while segmented cacti stems, such as those of *Schlumbergera* and *Opuntias*, should be cut where two segments meet. Take cuttings in early spring for the best chances of success.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### PROPAGATE FROM CACTUS STEMS",
+        "heading": "### PROPAGATE FROM CACTUS STEMS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "#### PLANT",
+      "content": "- Cactus with tall or trailing stems, such as *Cleistocactus* (shown here), *Ferocactus*, *Opuntia*, and *Schlumbergera*",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "#### PLANT",
+        "heading": "#### PLANT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "#### OTHER MATERIALS",
+      "content": "- Plastic pots with drainage holes in the base - Cactus compost, or a 50:50 mix of loam-based compost (John Innes No. 2) and 4mm grit",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "#### OTHER MATERIALS",
+        "heading": "#### OTHER MATERIALS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "#### TOOLS",
+      "content": "- Bubble wrap or cactus gloves (optional) - Clean, sharp secateurs - Dibber - Wooden sticks - Watering can with a narrow spout ![A person using red-handled secateurs to cut a tall, columnar cactus stem. A hand holds a piece of bubble wrap to protect the healthy section of the stem. A label 'Damaged stem' points to the area being cut.](c77403039b2f646be3509139acc05f6f_img.jpg) A photograph showing a person's hands using red-handled secateurs to cut a tall, columnar cactus stem. The cactus is in an orange pot filled with gravel. One hand holds a piece of clear bubble wrap against the upper part of the stem, while the other hand uses the secateurs to cut below a damaged area. A label 'Damaged stem' points to a small, brown, shriveled section on the stem. The background is a plain, light-colored wall. A person using red-handled secateurs to cut a tall, columnar cactus stem. A hand holds a piece of bubble wrap to protect the healthy section of the stem. A label 'Damaged stem' points to the area being cut. **1** Using bubble plastic or gloves if necessary, grip the chosen cactus stem and cut it from the plant with secateurs, ensuring the healthy cutting is at least 10cm (4in) long. If the stem is partially damaged or diseased, make the cut at least 4cm (2in) below the affected area. {5}------------------------------------------------ ![A person using red-handled pliers to cut a small, green, cylindrical cactus segment from a larger plant in an orange pot. The cut segment lies on a light blue wooden surface next to a clear plastic bag.](afe5eb459b7c9cfe880b067777d876d8_img.jpg) A person using red-handled pliers to cut a small, green, cylindrical cactus segment from a larger plant in an orange pot. The cut segment lies on a light blue wooden surface next to a clear plastic bag. **2** Remove and dispose of the damaged area (if necessary). Place the cutting in a warm, dry, shady spot where the spines will not cause any damage. Leave it for around two weeks, or until the cut end calluses over. ![A person's hand uses a wooden dibber to create a hole in the dark, moist compost of a red pot. A cactus cutting is visible in a plastic bag in the background.](0e62b4ac2303ba5f3ff10123a7c0f273_img.jpg) A person's hand uses a wooden dibber to create a hole in the dark, moist compost of a red pot. A cactus cutting is visible in a plastic bag in the background. **3** Once the cutting has fully callused over, fill a pot with cactus compost. Use a dibber to make a hole in the compost large enough to fit the base of the cutting. ![A person's hand places a cactus cutting into the hole made in the compost. A wooden dibber is used to gently firm the compost around the base of the cutting.](38b977dc8ba47e36367f97933421e3ae_img.jpg) A person's hand places a cactus cutting into the hole made in the compost. A wooden dibber is used to gently firm the compost around the base of the cutting. **4** Insert the cutting into the hole in the compost so that 2½–5cm (1–2in) is",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "#### TOOLS",
+        "heading": "#### TOOLS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "#### TOOLS",
+      "content": "in the compost. A wooden dibber is used to gently firm the compost around the base of the cutting.](38b977dc8ba47e36367f97933421e3ae_img.jpg) A person's hand places a cactus cutting into the hole made in the compost. A wooden dibber is used to gently firm the compost around the base of the cutting. **4** Insert the cutting into the hole in the compost so that 2½–5cm (1–2in) is beneath the surface, depending on the length of the cutting. Use the dibber to gently firm the compost around the cutting until it is secure. ![A tall, green, cylindrical cactus cutting stands upright in a red pot filled with dark compost. Two thin wooden sticks are placed vertically in the compost to support the cutting. A green watering can is pouring water into the pot.](5549f7bbf28f047575f40f7da371a217_img.jpg) A tall, green, cylindrical cactus cutting stands upright in a red pot filled with dark compost. Two thin wooden sticks are placed vertically in the compost to support the cutting. A green watering can is pouring water into the pot. **5** If necessary, push a couple of wooden sticks into the soil to support the cutting and prevent it from toppling over. Water the compost then leave to drain. Place in a warm, dry, lightly shaded area indoors, watering only when the top 1cm (½in) of compost is dry. Once roots form and the cactus begins to grow, follow its specific care instructions (see Plant Profiles, pp76–181). {6}------------------------------------------------",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "#### TOOLS",
+        "heading": "#### TOOLS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### PROPAGATE FROM SEED",
+      "content": "Cacti and some succulents are surprisingly easy to raise from seed, offering you a great way to increase your plant collection for very little outlay. Seeds can be sourced online or by visiting specialist nurseries. Depending on the variety, some seeds will germinate within a few weeks, while others can take up to a year, so patience may be required. Late winter or early spring is the best time to sow seed, if you have a heated propagator to keep them warm.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### PROPAGATE FROM SEED",
+        "heading": "### PROPAGATE FROM SEED",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "#### PLANT",
+      "content": "- Cacti or succulent seeds",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "#### PLANT",
+        "heading": "#### PLANT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "#### OTHER MATERIALS",
+      "content": "- Small plastic pots with drainage holes in the base - Cactus compost, or a 50:50 mix of loam-based compost (John Innes No. 2) and 4mm grit",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "#### OTHER MATERIALS",
+        "heading": "#### OTHER MATERIALS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "#### TOOLS",
+      "content": "- Tray, for watering - Plant labels - Watering can - Propagator tray or clear plastic bag and rubber band - Mister - Spoon or small trowel ![A hand pouring small black seeds from a brown paper bag into a red plastic pot filled with dark soil and perlite.](dc5460bda0c59ba9317dd5ba9b416b0b_img.jpg) A hand pouring small black seeds from a brown paper bag into a red plastic pot filled with dark soil and perlite. **1** Fill the pots with cactus compost and firm gently. Sprinkle the seeds evenly over the surface; larger seeds may need covering with compost (check seed packs for sowing depths). ![A red plastic pot filled with dark soil and perlite, sitting inside a clear plastic propagator tray.](e40ba44ba095240702ed2099e01d23ce_img.jpg) A red plastic pot filled with dark soil and perlite, sitting inside a clear plastic propagator tray. **2** Place the pots in a large tray and part-fill the tray with water. Leave for 1 hour or until the surface of the compost darkens, showing it is damp, then remove the pots. ![A red plastic pot with a white label inserted into the soil, sitting in a clear plastic propagator tray with other pots.](a612b25163221507295cc3d2fb679c10_img.jpg) A red plastic pot with a white label inserted into the soil, sitting in a clear plastic propagator tray with other pots. **3** Label the pots with the name of the plant and the date the seed was sown. Transfer the seed pots to a propagator tray and cover with the clear plastic lid. If you do not have a propagator, cover the pots with a plastic bag secured with a rubber band. Place the pots or propagator in a shaded area indoors. {7}------------------------------------------------ ![A red plastic pot filled with a dense layer of small, green, spiny cactus seedlings growing in a dark, moist substrate.](892f25e3d71d8e315a2a51092a8a8da7_img.jpg) A red plastic pot filled with a dense layer of small, green, spiny cactus seedlings growing in a dark, moist substrate. **4** Leave the seeds to germinate. Remove the propagator lid or plastic bag daily for a brief period, wiping away any excess condensation. Mist the surface of the compost if it becomes dry. As soon as seedlings appear, remove the lid or bag. Leave the seedlings to grow on, continuing to mist the surface every few days to keep the compost damp but not wet. ![A pair of hands gently lifting a small cactus seedling from a dark, moist substrate, showing its roots and stem.](efca2dce0095c9dc2a68e9af6b2bfd40_img.jpg) A pair of hands gently lifting a small cactus seedling from a dark, moist substrate, showing its roots and stem. **5** After a few months, the seedlings should be large enough to handle. Remove them from the pot and gently tease them apart, one seedling at a time, taking care not to tear the stem from the roots. ![A pair of hands holding a small red plastic pot, tilting it to place a small cactus seedling into a larger pot filled with dark, moist substrate.](af54a0b30d50f3f8620b331cdc59ae3a_img.jpg) A pair of hands holding a small red plastic pot, tilting it to place a small cactus seedling into a larger pot filled with dark,",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "#### TOOLS",
+        "heading": "#### TOOLS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "#### TOOLS",
+      "content": "a time, taking care not to tear the stem from the roots. ![A pair of hands holding a small red plastic pot, tilting it to place a small cactus seedling into a larger pot filled with dark, moist substrate.](af54a0b30d50f3f8620b331cdc59ae3a_img.jpg) A pair of hands holding a small red plastic pot, tilting it to place a small cactus seedling into a larger pot filled with dark, moist substrate. **6** For each seedling, part-fill a clean pot with fresh cactus compost. Holding the pot on its side, lie the seedling down on the compost so that its roots reach into the pot. Carefully backfill with compost until the roots are covered and the seedling is secure but not buried. ![A red plastic pot containing a single small cactus seedling planted in dark, moist substrate, with some perlite visible on the surface.](f01b22e5bb303653828200595aece414_img.jpg) A red plastic pot containing a single small cactus seedling planted in dark, moist substrate, with some perlite visible on the surface. **7** Repeat steps 4-6 for the remaining pots of seedlings. Continue to mist them every few days, allowing the compost to dry out between waterings. Once the seedlings mature, follow the relevant care advice for your plant (see Plant Profiles, pp76-181). {8}------------------------------------------------",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "#### TOOLS",
+        "heading": "#### TOOLS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## HOW TO GRAFT CACTI",
+      "content": "Not for the faint-hearted, grafting cacti is a little like plant surgery: the base (\"rootstock\") of one cactus is combined with a cutting (\"scion\") of another. The result is a unique living creation that, if successfully grafted, could thrive and even flower over many years. Grafting is a great way to accelerate the growth of a cactus that matures slowly by securing it onto one that grows quickly. Flat grafting (shown here) is the easiest method, and can be performed on columnar and round cacti with similar-diameter stems. For slim-stemmed cacti, try side grafting (see opposite). In all cases, for best results, choose two healthy cacti of roughly the same width ![A close-up photograph of a golden cholla cactus stem being cut horizontally with a sharp knife. The cactus is in a pot of dark soil.](aaec7c7044d764c324cdb35c0201da6f_img.jpg) A close-up photograph of a golden cholla cactus stem being cut horizontally with a sharp knife. The cactus is in a pot of dark soil. **1** Make a horizontal cut through the rootstock at least 2.5cm (1in) below the growing point at the top. ![A close-up photograph of the same golden cholla cactus stem after the top has been removed. The cut surface is flat and light green.](f5aaecb6473222e3d65f65164fab048e_img.jpg) A close-up photograph of the same golden cholla cactus stem after the top has been removed. The cut surface is flat and light green. **2** Bevel the edges of the cut by slicing off 5mm (1/4in) of skin at an angle around the stem's circumference. This prevents the inner flesh shrinking when it dries to a level below the hard skin, which will mean the rootstock will not fit snugly on the scion.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "## HOW TO GRAFT CACTI",
+        "heading": "## HOW TO GRAFT CACTI",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### PLANTS",
+      "content": "- Columnar cactus to be used as rootstock - Round cactus to be used as scion",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### PLANTS",
+        "heading": "### PLANTS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### TOOLS",
+      "content": "- Cactus gloves - Sharp, clean knife - Elastic bands - Watering can with a narrow spout ![A photograph of a green cholla cactus stem with white spines being cut horizontally with a sharp knife. The cactus is in a pot of dark soil.](16628f60631ea2ab2facd3fd34c02a96_img.jpg) A photograph of a green cholla cactus stem with white spines being cut horizontally with a sharp knife. The cactus is in a pot of dark soil. **3** Cut horizontally through the scion at the base. As with the rootstock, bevel off 5mm (1/4in) of skin around the edge to help the plants fuse together well. {9}------------------------------------------------ ![A cross-section of a cactus stem showing the internal ring structure.](625e10f48104ba2b06b2220a9b224712_img.jpg) A close-up photograph of a cactus stem cut into a circular cross-section. The interior reveals a central ring of lighter green tissue, which is the vascular ring. The outer part of the stem is a darker green. The cut surface is slightly irregular and shows some moisture. A cross-section of a cactus stem showing the internal ring structure. **4** Both the scion and rootstock will have a ring made up of tubes in the centre. These tubes transport water and nutrients, and the rings of both scion and rootstock must line up when they are brought together. If the rings are not aligned, the grafted plant will die. ![A cactus in a pot with a scion being secured with elastic bands.](07f537f57749b75157f742525e6a8dbc_img.jpg) A photograph of a cactus in a light-colored, textured pot. A new scion, which is a smaller, rounder cactus segment, is being attached to the main stem. Several white elastic bands are wrapped around the junction to hold the scion in place. The main stem is covered in long, golden-brown spines. A cactus in a pot with a scion being secured with elastic bands. **5** Align the cut surfaces and rotate the scion to disperse air pockets. Secure in place with elastic bands, making sure it is not too tight. Place in a warm, humid area out of full sun - the humidity ensures the flesh does not shrink back. Remove the bands at the first sign of active growth (around 4 weeks).",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### TOOLS",
+        "heading": "### TOOLS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## SIDE GRAFTING",
+      "content": "This variation of the basic technique is ideal for grafting slim-stemmed cacti, which often have narrow central rings. Cutting both plants at a shallow angle exposes a larger area of the ring, making it easier to line them up when uniting the rootstock and scion. - 1** Using a clean knife cut the rootstock at an oblique angle, about 2.5cm (1in) below the growing point, or until the ring is clearly exposed. Cut away 5mm ( $\\frac{1}{4}$ in) of skin all around the cut to bevel the edge (see Step 2, opposite). - 2** Cut through the scion near the base at a corresponding angle and bevel the cut edge. - 3** Press the cut surfaces together, aligning both rings and removing air pockets. Secure in place with elastic bands (see below), making sure you do not damage either scion or rootstock in the process. - 4** Support the grafted plants with a thin cane and twine if necessary. Remove the bands when the scion has started to show signs of active growth, usually after 4 weeks or so. ![A close-up of a cactus stem with a scion secured by elastic bands.](dc22d132f81aafd8d8e2ebae77bdbedd_img.jpg) A vertical close-up of a cactus stem. A scion is being grafted onto the side of the main stem. The scion is a small, green, cylindrical segment. It is held in place by several white elastic bands wrapped around the junction. The main stem has small, white spines. A close-up of a cactus stem with a scion secured by elastic bands. {10}------------------------------------------------",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "## SIDE GRAFTING",
+        "heading": "## SIDE GRAFTING",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## PROBLEM SOLVING",
+      "content": "If your plant isn't thriving the way it should, take a look through these pages to identify a cause and find a solution. More often than not, poor plant health is a result of insufficient or incorrect care. This can lead to a range of care-based problems, and can also increase the risk of attacks by pests and diseases.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "## PROBLEM SOLVING",
+        "heading": "## PROBLEM SOLVING",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### TROUBLESHOOTING",
+      "content": "Once you've identified the most likely cause of your plant's problem, turn to the following pages for the solution: **Care-based problems** are the most common reason for ill-health in cacti and succulents (see pp212-13). **Pests** are often hard to spot; check for signs of them regularly and remove any you find (see pp214-15). **Diseases** can quickly take hold, so learn to identify their symptoms and how to treat them (see pp216-17).",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### TROUBLESHOOTING",
+        "heading": "### TROUBLESHOOTING",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## WHAT'S WRONG WITH MY PLANT?",
+      "content": "When one of your plants looks off-colour, refer to this simple chart to help you diagnose the problem. Be careful to check the whole plant for symptoms and, once you have identified the cause, take appropriate action. Issues with a plant's care are the most likely source of trouble (see pp212-13), so always attempt to remedy those first before moving on to more drastic measures. | PROBLEM | POSSIBLE CAUSE | SOLUTION | |------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|---------------------------------------------------------------------| | <img alt=\"Illustration of a cactus in a pot\" data-bbox=\"514 393 602 535\" src=\"516c50d51ec0a02aefc87741209649b0_img.jpg\"/><br>POOR GROWTH | pest damage to roots | check the compost and roots for pest larvae and eggs (see pp214-15) | | | diseased roots | identify the disease (see pp216-17) and treat as suggested | | | pest damage to leaves and stems | inspect the surface of the plant for pests (see pp214-15) | | | over- or underwatering | check if compost is too wet or dry | | | temperature too high or low | check the plant's requirements and move to a cooler or warmer area | | PROBLEM | POSSIBLE CAUSE | SOLUTION | |----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------| | <img alt=\"Illustration of a leafy plant in a pot\" data-bbox=\"499 882 622 987\" src=\"86678f15f789a4389eb6dab5611c9d5a_img.jpg\"/><br>DISTORTED GROWTH | insufficient light | move plant into brighter light, turning it every few days to make sure it grows evenly | | | pest damage to new growth | inspect the whole plant for insect pests (see pp214-15) | {11}------------------------------------------------ | PROBLEM | POSSIBLE CAUSE | SOLUTION | |--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----------------------------------------------------------------| | <img alt=\"Illustration of a plant with falling flower buds.\" data-bbox=\"89 138 125 201\" src=\"3bf6c7156dade08bb5fada72ae6df619_img.jpg\"/><br>FLOWER BUDS FALL | sudden change in temperature | avoid moving plants in bud; keep away from draughts and heaters | | | over- or underwatering | check if compost is too wet or dry | | | pest damage | check buds, stems, and leaves for pests (see pp214-15) | | PROBLEM | POSSIBLE CAUSE | SOLUTION | |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------------------------------------------------------------------------------| | <img alt=\"Illustration of a plant with no flowers, marked with an X.\" data-bbox=\"76 503 138 585\" src=\"e944e294f6748dd93bd9a0ed7c5b0eec_img.jpg\"/><br>NO FLOWERS | insufficient light | move sun-loving plants to a position in bright light | | | winter temperature too high | plants requiring a winter rest need to be kept at lower temperatures for this period | | | underfeeding | feed at the recommended frequency and quantity | | | immature plant | wait for the plant to mature (see p198-99) | | PROBLEM | POSSIBLE CAUSE | SOLUTION | |------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------------------------------------------------| | <img alt=\"Illustration of a yellowed plant leaf.\" data-bbox=\"76 897 138 973\" src=\"cd3eda8aa6ed827f9f1dfd9c906fbd98_img.jpg\"/><br>YELLOWED PLANT OR FOLIAGE | insufficient light | move to a brighter position | | | underfeeding | feed at the recommended frequency and quantity | | | over- or underwatering | check if compost is too wet or dry | | PROBLEM | POSSIBLE CAUSE | SOLUTION | |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|---------------------------------------------------------------------------| | <img alt=\"Illustration of a plant leaf with brown spots.\" data-bbox=\"507 189 576 268\" src=\"357ec174dc056116f06d175d2019776d_img.jpg\"/><br>BROWN MARKS ON LEAVES OR STEMS | fine brown mottling/small marks: pest damage | check the whole plant",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "## WHAT'S WRONG WITH MY PLANT?",
+        "heading": "## WHAT'S WRONG WITH MY PLANT?",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## WHAT'S WRONG WITH MY PLANT?",
+      "content": "feed at the recommended frequency and quantity | | | over- or underwatering | check if compost is too wet or dry | | PROBLEM | POSSIBLE CAUSE | SOLUTION | |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|---------------------------------------------------------------------------| | <img alt=\"Illustration of a plant leaf with brown spots.\" data-bbox=\"507 189 576 268\" src=\"357ec174dc056116f06d175d2019776d_img.jpg\"/><br>BROWN MARKS ON LEAVES OR STEMS | fine brown mottling/small marks: pest damage | check the whole plant for pests (see pp214-15) | | | raised, pale brown areas: cactus corky scab | refer to pp216-17 and treat as suggested | | | rounded dark spots: fungal leaf spot | refer to pp216-17 and treat as suggested | | | splits in skin: overwatering | check the compost is not saturated and allow to dry out between waterings | | | dents and scratches: physical damage | move plant to a position where it won't be accidentally knocked | | PROBLEM | POSSIBLE CAUSE | SOLUTION | |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|--------------------------------------------------------------------| | <img alt=\"Illustration of a plant with a collapsed stem.\" data-bbox=\"497 742 586 797\" src=\"9924aebd491e97970f0e2ff704d73408_img.jpg\"/><br>COLLAPSE OF WHOLE PLANT | pest damage to roots | check roots and compost for pest larvae and eggs (see pp214-15) | | | fungal disease | examine roots and stems for soft brown areas of rot (see pp216-17) | | PROBLEM | POSSIBLE CAUSE | SOLUTION | |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|------------------------------------------| | <img alt=\"Illustration of a plant with soft, rotten patches on leaves and stems.\" data-bbox=\"497 961 576 1091\" src=\"a5ed02d4bbad1677ec64e1527ad58119_img.jpg\"/><br>SOFT, ROTTEN PATCHES ON LEAVES AND STEMS | fungal disease encouraged by overwatering and high humidity | refer to pp216-17 and treat as suggested | {12}------------------------------------------------",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "## WHAT'S WRONG WITH MY PLANT?",
+        "heading": "## WHAT'S WRONG WITH MY PLANT?",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## DEALING WITH CARE-BASED PROBLEMS",
+      "content": "The health of cacti and succulents is most likely to suffer as a result of the wrong care or growing conditions. Thankfully, these problems are often easily remedied if identified quickly. Use this guide to diagnose any issues you find and adjust your plant's care conditions accordingly. If there is no improvement after a few days, consult pp216-219 to see if a pest or disease may be responsible.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "## DEALING WITH CARE-BASED PROBLEMS",
+        "heading": "## DEALING WITH CARE-BASED PROBLEMS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### TOO WARM",
+      "content": "**THE PROBLEM** Even in spring and summer, most cacti and succulents will stop growing at temperatures above 30°C (86°F) and all will be vulnerable to scorching (see opposite). High temperatures also cause compost to dry out faster, leading to underwatering (see right). Avoid heat from radiators below windows during the winter dormancy, when cooler conditions are needed. **THE SOLUTION** Keep temperatures down by shading windows in summer with a net curtain or moving plants out of bright sun, and opening windows or doors to provide good ventilation. Move plants away from radiators and other direct heat sources.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### TOO WARM",
+        "heading": "### TOO WARM",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### TOO COLD",
+      "content": "**THE PROBLEM** Low indoor temperatures will slow the growth of your plants, but fluctuations in temperature caused by cold draughts and shutting plants behind curtains at night can cause brown marks on the plant's body or foliage, flower buds to drop, or rotting if the compost is wet. **THE SOLUTION** Protect plants from cold draughts and move them away from windowsills at night during winter. Check the minimum temperature limits for your plant (see Plant Profiles). Keep watering to a minimum or stop altogether in cool conditions, as recommended for your plant. *Scorched leaves are the result of too much strong sunlight*",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### TOO COLD",
+        "heading": "### TOO COLD",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### INSUFFICIENT LIGHT",
+      "content": "**THE PROBLEM** Most cacti and succulents flourish in bright sunlight. Given too much shade, they will stretch towards the light and become \"etiolated\", with elongated, spindly growth that is washed-out or yellow in colour. Where light only comes from one direction, such as on a windowsill, plants can quickly become lopsided. **THE SOLUTION** Ensure that your plant is given the correct light levels (see Plant Profiles). Move drawn-out, etiolated specimens to a brighter spot. Turn pots on windowsills every few days to avoid plants reaching towards the sunlight and becoming lopsided. ![A close-up photograph of a succulent plant, possibly a Haworthia, in a terracotta pot. The plant shows significant signs of being scorched, with large areas of its green, ribbed leaves turned a pale, yellowish-white. A line points from the text 'Scorched leaves are the result of too much strong sunlight' to these damaged areas.](148e42a70f7b9fcc3db671c0a2a021a1_img.jpg) A close-up photograph of a succulent plant, possibly a Haworthia, in a terracotta pot. The plant shows significant signs of being scorched, with large areas of its green, ribbed leaves turned a pale, yellowish-white. A line points from the text 'Scorched leaves are the result of too much strong sunlight' to these damaged areas.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### INSUFFICIENT LIGHT",
+        "heading": "### INSUFFICIENT LIGHT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### TOO MUCH LIGHT",
+      "content": "**THE PROBLEM** Although most of these plants need full sun, even cacti and succulents can get sunburn. Their skin can be damaged, or \"scorched\", on hot, sunny late spring and summer days, causing affected areas to develop brown corky raised marks or white papery patches that turn pale brown. Epiphytic cacti require shadier conditions and will be especially damaged by bright sunlight. **THE SOLUTION** Hang a net curtain over sunny windows during summer, but also on sunny days in late spring when new growth on plants is soft and prone to burning after their winter rest. Find epiphytic cacti a position with more diffuse light. Good air ventilation also helps to prevent scorching. ![A photograph of a succulent plant with thick, rounded, pinkish-red leaves, growing in a red plastic pot. The plant appears healthy but is slightly lopsided, leaning towards the right. A line points from the text 'Too much shade will cause plants to become etiolated, while their foliage will look washed out' to the plant.](49f42b648dc3846b88802589cffb4608_img.jpg) A photograph of a succulent plant with thick, rounded, pinkish-red leaves, growing in a red plastic pot. The plant appears healthy but is slightly lopsided, leaning towards the right. A line points from the text 'Too much shade will cause plants to become etiolated, while their foliage will look washed out' to the plant. *Too much shade will cause plants to become etiolated, while their foliage will look washed out* {13}------------------------------------------------",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### TOO MUCH LIGHT",
+        "heading": "### TOO MUCH LIGHT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### OVERFEEDING",
+      "content": "**THE PROBLEM** Feed your plants too much and they will grow too fast. Although this doesn't sound like a bad thing, the soft, weak tissue produced by rapid growth is susceptible to rot and fungal diseases and may not flower well. Overfeeding can also cause \"reverse osmosis\", where nutrients are leached out of the plant into the surrounding compost, which could lead to signs of underfeeding (see below). **THE SOLUTION** Feed plants according to their needs (see Plant Profiles). Make sure to use a specialist cactus and succulent fertilizer, which is weaker than standard plant food. Never feed your plant during its dormant period.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### OVERFEEDING",
+        "heading": "### OVERFEEDING",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### UNDERFEEDING",
+      "content": "**THE PROBLEM** Pale or yellowing plants that put on little growth and don't flower are likely to be deficient in nutrients as a result of underfeeding. **THE SOLUTION** Ensure your plants are adequately watered, because roots can't absorb nutrients from dry compost. Feed as recommended (see Plant Profiles), following the instructions carefully to avoid overfeeding (see below). ![A close-up of a cactus in a pot, showing yellow stems and leaves, indicating underfeeding.](159f15d60777adb6b16c91d84b32c32f_img.jpg) A close-up of a cactus in a pot, showing yellow stems and leaves, indicating underfeeding. *Yellow stems and leaves can be a sign of underfeeding* ![A close-up of a succulent in a pot, showing a large, yellow, and shriveled leaf, indicating underwatering.](b77cd8b2f763af8d453537177ac5942f_img.jpg) A close-up of a succulent in a pot, showing a large, yellow, and shriveled leaf, indicating underwatering. *Underwatered cacti and succulents will eventually shrivel and stop growing*",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### UNDERFEEDING",
+        "heading": "### UNDERFEEDING",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### UNDERWATERING",
+      "content": "**THE PROBLEM** Cacti and succulents are supremely adapted to arid environments, but eventually even they will suffer from a lack of water. Shrivelled, yellowing plants will eventually turn brown and die, but underwatering also results in poor or no growth, as well as bud drop in epiphytic cacti. **THE SOLUTION** Check that your plant isn't root-bound (see p194) and repot if it is. Water plants sparingly from the bottom by setting pots in a shallow dish of water and removing it to drain when the top is glistening with water. This method will gradually remoisten very dry compost without waterlogging. Plants should plump up quickly, but lost buds will not be replaced until the following year.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### UNDERWATERING",
+        "heading": "### UNDERWATERING",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### OVERWATERING",
+      "content": "**THE PROBLEM** Roots rot in constantly wet compost, which either causes the rest of the plant to turn yellow and die, or it can lead to the rot spreading and turning the cactus's stem and foliage brown and soft. Too much water can also split the outer skins of cacti, leaving brown scars, or mark it with blisters or brown corky scab. **THE SOLUTION** Check that the pot has drainage holes and is not standing in water. Remove your plant from its pot and leave it to dry on a tray or draining board. Once the roots are dry, cut away any that have rotted and repot the plant in fresh compost in a container with drainage holes; do not water again for a week after repotting. Always allow at least the surface of the compost to dry out between waterings and keep plants dry during winter dormancy. ![Two cactus leaves shown side-by-side. The left leaf is soft, yellow, and has a dark, shriveled tip, indicating overwatering. The right leaf is more firm and green.](53f6dc014a3af97181f9c885e2bb47ee_img.jpg) Two cactus leaves shown side-by-side. The left leaf is soft, yellow, and has a dark, shriveled tip, indicating overwatering. The right leaf is more firm and green. *Overwatered leaves will turn soft and yellow, and may start to rot* {14}------------------------------------------------",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### OVERWATERING",
+        "heading": "### OVERWATERING",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## DEALING WITH PESTS",
+      "content": "Given the opportunity, insect pests will happily make a home among the spines, furrowed stems, and tightly packed leaves of cacti and succulents. Left unchecked, they can quickly run amok, damaging or even killing off whole plants with ease. Pests can enter your home through open doors and windows, as well as via newly bought plants. Vigilance is key: familiarize yourself with the signs of pest infestation (right), thoroughly examine the stems, leaves, and roots of new plants before you allow them near the rest of your collection, and check all of your plants weekly so that if you do discover any unwanted visitors, they can be dealt with as soon as possible.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "## DEALING WITH PESTS",
+        "heading": "## DEALING WITH PESTS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### SCALE INSECTS",
+      "content": "**THE PROBLEM** Small, brown, and limpet-like, scale insects grow to up to 1 cm ( $\\frac{1}{2}$ in) long, and hug tightly to stems and the undersides of leaves. Clusters of their white eggs may also be visible. They suck the plant's sap, causing poor, distorted growth, and can excrete sticky honeydew, which encourages sooty mould (see p216). **THE SOLUTION** Inspect new plants carefully before buying and regularly check your own plants for scale, too. Where possible, remove scales by rubbing them off with your finger, or apply dilute solutions of soap-based products or methylated spirits with a cotton bud or brush (test on a small area first to ensure they will not damage the plant). Heavy infestations can be treated with a systemic pesticide. ![Illustration of a green cactus in a brown pot, heavily infested with numerous small, brown, scale-like insects clustered on its spines and surface.](0a5acc4b370bb711096e04f25b8b3feb_img.jpg) Illustration of a green cactus in a brown pot, heavily infested with numerous small, brown, scale-like insects clustered on its spines and surface. ![Close-up photograph of a small, round, green cactus covered in a dense, tangled mass of white, fuzzy spider mite webs and tiny red mites.](15ee1fd7e4011d0d5dcb11b291fb91d7_img.jpg) Close-up photograph of a small, round, green cactus covered in a dense, tangled mass of white, fuzzy spider mite webs and tiny red mites.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### SCALE INSECTS",
+        "heading": "### SCALE INSECTS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### SPIDER MITES",
+      "content": "**THE PROBLEM** These minute red, sap-sucking mites are barely visible, but can rapidly cause serious damage to plants or even kill them. They favour tender new growth, which quickly distorts and turns brown as they suck the sap, causing permanent scarring. Look out for tell-tale silky webs on plants. **THE SOLUTION** Hot, dry conditions encourage spider mites: deter them by providing good ventilation and opening windows in warm weather. Remove and destroy infected parts of the plant or treat with a suitable pesticide. Infested plants are often best thrown away.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### SPIDER MITES",
+        "heading": "### SPIDER MITES",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### THRIPS",
+      "content": "**THE PROBLEM** Almost invisible, these tiny insects, also known as thunder flies, are just 2mm ( $\\frac{1}{50}$ in) long and suck the sap of plants. They are most easily spotted on flowers or flying around, but their wingless nymphs (juveniles) are even smaller. When feeding, they cause fine brown mottling on the plant surface, especially on young growth, and loss of colour or damage to flowers. **THE SOLUTION** Use blue sticky traps around plants to trap the adult flying insects. Pesticides for use against thrips are also available. ![Illustration of a green cactus in a brown pot, showing fine brown mottling on its surface and several long, thin, pinkish-red thrips emerging from the top.](90120cdfd5dc10df8e675ecd61f26db5_img.jpg) Illustration of a green cactus in a brown pot, showing fine brown mottling on its surface and several long, thin, pinkish-red thrips emerging from the top. {15}------------------------------------------------ “Open doors and windows are an easy way for pests to enter your home, but they can also arrive on newly bought plants.” ![A close-up photograph of a cactus heavily infested with small, white, cottony mealybugs covering its surface and spines.](83926108dd52e3998fda7a99a91cdf3b_img.jpg) A close-up photograph of a cactus heavily infested with small, white, cottony mealybugs covering its surface and spines.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### THRIPS",
+        "heading": "### THRIPS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### MEALYBUGS",
+      "content": "**THE PROBLEM** A waxy, white, cotton wool-like secretion conceals these pests, which look like tiny, light grey woodlice. They suck the sap of plants, affecting their growth and causing distortion. Their habit of lurking in the smallest gaps and crevices makes them difficult to remove. They also secrete sticky honeydew, which can collect on plant surfaces and lead to sooty mould (see p216). **THE SOLUTION** Check plants carefully before purchase, because these insects multiply rapidly and spread easily to other plants. To treat mealybugs, contact insecticides that contain fatty acids or pyrethroids can be effective but they may need to be reapplied at suitable intervals (check the product label). Alternatively, prune out infected parts of the plant, or try pheromone lures to trap the adult males and disrupt breeding. Dispose of badly infested plants.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### MEALYBUGS",
+        "heading": "### MEALYBUGS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### ROOT MEALYBUGS",
+      "content": "**THE PROBLEM** If your plant stops growing and looks pale and sickly, knock it out of its pot and check carefully around the roots for woolly white clumps of small, woodlouse-like, sap-sucking insects similar to mealybugs. **THE SOLUTION** Prevent root mealybugs becoming a problem by inspecting new plants before buying and checking the roots of plants regularly when you get them home. Remove the insects by washing as much soil as possible off the roots. Repot using fresh compost and a clean pot. Heavy infestations may be impossible to treat as no effective pesticides are available. ![A photograph of a cactus in its pot, showing the soil surface and the base of the plant where root mealybugs might be found.](63a5a7879cf64a0e3ce5643c8ba1648f_img.jpg) A photograph of a cactus in its pot, showing the soil surface and the base of the plant where root mealybugs might be found. ![A detailed illustration of a fungus gnat, showing its long legs, wings, and segmented body.](4a104be5f84f688417d8c222ec4ce4fa_img.jpg) A detailed illustration of a fungus gnat, showing its long legs, wings, and segmented body.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### ROOT MEALYBUGS",
+        "heading": "### ROOT MEALYBUGS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### FUNGUS GNATS",
+      "content": "**THE PROBLEM** Also known as sciarid flies, these small insects flit around the compost in pots and seed trays, feeding on rotting plant material and laying their eggs. Adult flies are merely a nuisance, but once their larvae hatch out, young gnats eat plant roots and can quickly kill seedlings and young plants. Damage to the roots of mature plants can also allow roots to set in. **THE SOLUTION** Put up sticky yellow traps close to affected plants will catch adult flies. ![An illustration showing a dark adult vine weevil beetle and several of its C-shaped, cream-colored grubs (larvae) on a dark background.](871d3b3fddcb9cf28158d7465c9ba652_img.jpg) An illustration showing a dark adult vine weevil beetle and several of its C-shaped, cream-colored grubs (larvae) on a dark background.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### FUNGUS GNATS",
+        "heading": "### FUNGUS GNATS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### VINE WEEVILS",
+      "content": "**THE PROBLEM** Resembling dull black beetles, adult vine weevils are about 1cm ( $\\frac{1}{2}$ in) long and can be spotted crawling among foliage. They are largely harmless to cacti and succulents, but their cream, C-shaped, brown-headed grubs feed voraciously on fleshy roots and can quickly kill succulents such as echeveria. **THE SOLUTION** Adult vine weevils move slowly, so catch and remove any that you see before they lay eggs in spring and summer. Check among roots for grubs when repotting or if plants look sickly and suddenly collapse. If grubs are found, use a hose to clean the roots and repot into fresh compost – do not water for a week after repotting. The nematode *Steinernema kraussei* is an effective biological control when applied in autumn. {16}------------------------------------------------",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### VINE WEEVILS",
+        "heading": "### VINE WEEVILS",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "## DEALING WITH DISEASES",
+      "content": "When it comes to plant diseases, prevention is always far better than cure. Poor care, such as lack of drainage or inadequate ventilation, can provide the ideal conditions for fungal spores to thrive, leading to many common diseases. Healthy plants are better equipped to fight off disease, though no plant can be made fully immune. If a cactus or succulent does show signs of sickness, move it away from other plants immediately to prevent any infection spreading, repot it with fresh compost in a disinfected pot, and treat it as needed (see right). If spraying plants with fungicide, make sure to use a well-ventilated room, or go outside if it is not too cold. *Overwatering may lead to grey mould, which can quickly cause infected plants to collapse* ![A close-up photograph of a succulent plant, possibly a Sedum, showing signs of grey mould. The base of the plant is covered in a thick, grey, fuzzy growth, and the lower leaves are wilting and discolored. A line from the text above points to this area.](53cb558495f8cc93c4202314ef492966_img.jpg) A close-up photograph of a succulent plant, possibly a Sedum, showing signs of grey mould. The base of the plant is covered in a thick, grey, fuzzy growth, and the lower leaves are wilting and discolored. A line from the text above points to this area. ![A diagram of a green leaf with several dark, irregular patches. A line points from the text below to one of these patches.](c3ee41c6d46565ab4198d0a9c69108c5_img.jpg) A diagram of a green leaf with several dark, irregular patches. A line points from the text below to one of these patches. *Patches of sooty mould can indicate pest infestation*",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "## DEALING WITH DISEASES",
+        "heading": "## DEALING WITH DISEASES",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### SOOTY MOULD",
+      "content": "**THE PROBLEM** A layer of black or dark brown fungal growth appears on the surface of leaves and stems. This occurs where sticky honeydew has been excreted onto the plant by sap-sucking insects, such as mealybugs (see p215), and it is a good indicator that a pest is also present. **THE SOLUTION** Deal with the pest first, if possible, then wipe away sooty mould and honeydew using a soft cloth or cotton bud and warm water. There is no chemical control.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### SOOTY MOULD",
+        "heading": "### SOOTY MOULD",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### FUNGAL LEAF SPOT",
+      "content": "**THE PROBLEM** Rounded brown or black spots appear on leaves or the plant's stem, spreading over its surface and causing scarring. They are the result of fungal infection, which occurs in humid conditions and where water has been splashed onto the plant. **THE SOLUTION** Remove affected areas of the plant. To prevent reinfection, throw away any dead plant material in the pot, improve ventilation, and water from below (see p191) to avoid splashing the plant. Badly marked plants are best thrown away. ![A diagram of a green leaf with several dark brown, circular spots. A line points from the text below to one of these spots.](3057ab3281cedf0b145d9b5f8e147e99_img.jpg) A diagram of a green leaf with several dark brown, circular spots. A line points from the text below to one of these spots. *Dark fungal leaf spots can appear on foliage that has been splashed with water*",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### FUNGAL LEAF SPOT",
+        "heading": "### FUNGAL LEAF SPOT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### GREY MOULD",
+      "content": "**THE PROBLEM** Caused by the fungus *Botrytis cinerea*, this disease produces dark, water-soaked spots, particularly on fleshy succulents, which soon cover the whole plant, causing it to collapse. In moist conditions, infected areas become covered in dusty, grey mould. This fungal disease spreads in humid conditions and when water droplets splash onto plants. **THE SOLUTION** Plants with some healthy growth may be saved by removing all diseased material and surrounding dead leaves and flowers that may harbour infection. Reduce humidity and water plants from below (see p191) to avoid spreading fungal spores. Badly affected plants should be thrown away. No chemical controls are available. {17}------------------------------------------------",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### GREY MOULD",
+        "heading": "### GREY MOULD",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### BASAL STEM ROT",
+      "content": "**THE PROBLEM** Brown patches with a wet appearance and sometimes a bad smell develop at the base of the plant, close to the surface of the compost, and spread rapidly. The affected tissue becomes soft and the plant wilts, eventually collapsing completely. These rots can be caused by bacteria or fungi and occur when compost is wet, due to poor drainage or overwatering. **THE SOLUTION** Due to the location of these rots at the base of the plant they are usually fatal, because the infected area can't be removed without destroying the plant. There are no chemical controls. Throw away infected plants and keep new plants in drier conditions.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### BASAL STEM ROT",
+        "heading": "### BASAL STEM ROT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### ROOT ROT",
+      "content": "**THE PROBLEM** Roots turn soft and brown or black, and once this fungal disease takes hold, the plant's stems and leaves receive no water from the roots and will shrivel and collapse. Poor drainage or prolonged overwatering will cause root rot to set in. **THE SOLUTION** If caught early, try to save the plant by removing the dark, rotten roots and repotting the plant with fresh compost in a pot with drainage holes. Do not water for a week after repotting. If all roots are affected, the plant should be thrown away and care taken not to overwater any replacements. ![A close-up photograph of a plant with bright yellow flowers and green leaves. The base of the plant, where it meets the soil in a green pot, shows significant wilting and collapse, indicating root rot.](7d066b8cdb123b3cba3584e8bb66f557_img.jpg) A close-up photograph of a plant with bright yellow flowers and green leaves. The base of the plant, where it meets the soil in a green pot, shows significant wilting and collapse, indicating root rot. ![A photograph of a plant in a white pot with dark soil. The base of the plant is severely damaged, with large, translucent, brownish-green sections of the stem and leaves that have collapsed. A line points from the caption to the damaged area.](af841c24c27b4dca9d1e533629f107be_img.jpg) A photograph of a plant in a white pot with dark soil. The base of the plant is severely damaged, with large, translucent, brownish-green sections of the stem and leaves that have collapsed. A line points from the caption to the damaged area. *Basal stem rot can rapidly cause plants to wilt and die*",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### ROOT ROT",
+        "heading": "### ROOT ROT",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### DAMPING-OFF DISEASE",
+      "content": "**THE PROBLEM** Seedlings (see pp209-10) rapidly develop brown rotten areas at their base, collapse, and die; this whole process may happen within a day or two. A white webbing of fungal growth then appears on the compost. This fungus often affects seedlings that have been sown too densely and where air circulation is poor. **THE SOLUTION** This fungal infection is fatal, but can be prevented by sowing seed thinly in well-drained compost, and removing any lid or covering as soon as seedlings germinate, to maximize ventilation. There is no chemical control.",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### DAMPING-OFF DISEASE",
+        "heading": "### DAMPING-OFF DISEASE",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    },
+    {
+      "page": 1,
+      "section": "### CORKY SCAB",
+      "content": "**THE PROBLEM** Light brown patches appear on the surface of cacti, which gradually become raised to form scabs. While they will not damage the plant further, they are unsightly. Humidity, poor ventilation, over-watering, and possibly over-fertilizing contribute to the problem. **THE SOLUTION** Increase air circulation around affected plants to reduce humidity, reduce watering and feeding, and grow in the recommended amount of light for your plant. *While not fatal, corky scab patches can look unsightly* ![A diagram of a green, oval-shaped cactus segment. It is covered with numerous small orange dots representing corky scab patches. Two larger, irregular brown patches are also shown, representing more advanced scabbing.](4d5001611aedf107b5b53a581e4ed81f_img.jpg) A diagram of a green, oval-shaped cactus segment. It is covered with numerous small orange dots representing corky scab patches. Two larger, irregular brown patches are also shown, representing more advanced scabbing. *Root rot can cause a whole plant to collapse*",
+      "images": [
+        {
+          "id": "e8adb84d-77d4-460b-ac0d-c74fc2ee6d54",
+          "document_id": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+          "page": 1,
+          "image_index": 0,
+          "image_url": "http://localhost:8000/api/images/181aeae5-6307-4a08-a0d2-77d27ade76a2/page_1_img_0.jpeg",
+          "caption": "",
+          "confidence": 0.0
+        }
+      ],
+      "metadata": {
+        "source": "181aeae5-6307-4a08-a0d2-77d27ade76a2",
+        "page": 1,
+        "section": "### CORKY SCAB",
+        "heading": "### CORKY SCAB",
+        "image_refs": [],
+        "extraction_confidence": 0.9
+      }
+    }
+  ]
+}

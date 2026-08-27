@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Collections ? FROND</title>
+  <meta name="description" content="Slow-grown plants and quietly sculptural objects, shipped from our greenhouse to your doorstep.">
+
+  <base href="/">
+
+  <!-- Fonts (degrade gracefully offline) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/assets/theme.css?v=280">
+</head>
+<body class="page-collections">
+
+  <!-- ========== Announcement marquee ========== -->
+  <div class="announce">
+    <marquee-band speed="36s" aria-label="Announcements">
+      <span class="mq-item">Free shipping on orders over $75 <i>&#10022;</i></span>
+      <span class="mq-item">New in &mdash; The Dune Collection <i>&#10022;</i></span>
+      <span class="mq-item">Every plant ships with a 7-day root guarantee <i>&#10022;</i></span>
+    </marquee-band>
+  </div>
+
+  <!-- ========== Header (Standard Theme Header) ========== -->
+  <header class="site-header">
+    <button class="icon-btn burger" data-menu-toggle aria-label="Open menu" aria-expanded="false">
+      <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M2 5h16M2 10h16M2 15h16"/></svg>
+    </button>
+
+    <nav class="nav" aria-label="Primary">
+      <a href="/#shop">Shop</a>
+      <a href="/collections" class="active">Collections</a>
+      <a href="/blogs">Journal</a>
+      <a href="/#community">Community</a>
+    </nav>
+
+    <a class="logo" href="/">FROND<sup>&reg;</sup></a>
+
+    <div class="header-actions">
+      <predictive-search></predictive-search>
+      <button class="icon-btn" data-search-toggle aria-label="Search" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg>
+      </button>
+      <button class="icon-btn" aria-label="Account">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 5-5.5 8-5.5s6.5 1.5 8 5.5"/></svg>
+      </button>
+      <button class="icon-btn" data-cart-toggle aria-label="Open cart">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M5 8h14l-1.2 12.2a1.5 1.5 0 0 1-1.5 1.3H7.7a1.5 1.5 0 0 1-1.5-1.3L5 8Z"/><path d="M8.5 10V6.5a3.5 3.5 0 0 1 7 0V10"/></svg>
+        <span class="cart-count" aria-live="polite">0</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- ========== Collections Editorial Header (Side-by-Side Hero Layout with Gradient Shadow) ========== -->
+    <section class="section col-highlight-sec">
+      <div class="container" style="overflow:visible;">
+        <div class="col-hero-side-grid">
+          <!-- Left Column: Title & Intro -->
+          <div class="col-head-text">
+            <p class="eyebrow" data-reveal>Greenhouse Direct ? Catalog</p>
+            <h1 id="col-title" class="col-side-title">
+              <reveal-text>The Botanical</reveal-text>
+              <span class="ch-mark">Catalog<svg viewBox="0 0 100 12" preserveAspectRatio="none" aria-hidden="true"><path d="M2 9 C 30 3, 70 3, 98 7"/></svg></span>
+            </h1>
+            <p id="col-desc" class="col-side-desc" data-reveal>
+              Slow-grown varieties nurtured in greenhouse soil. Shipped with roots happy and a 7-day guarantee.
+            </p>
+          </div>
+
+          <!-- Right Column: Horizontal Carousel Bleed with Left White Shadow Overlay -->
+          <div class="col-side-carousel-wrap">
+            <div class="col-side-fade-left" aria-hidden="true"></div>
+
+            <div class="col-embla-carousel" id="col-embla-viewport">
+              <div class="col-embla-container" id="col-embla-track">
+                <!-- Dynamic Category Cards rendered by collections.js -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== Multi-Select Toggle Switch Toolbar ========== -->
+    <section class="col-toolbar-sec">
+      <div class="container">
+        <div class="col-toolbar-card">
+          <!-- Left: Multi-Select Toggle Switch Group -->
+          <div class="col-filter-lead">
+            <div class="col-filter-icon" aria-hidden="true">
+              <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 5h14M6 10h8M8 15h4"/></svg>
+              <span>Filters:</span>
+            </div>
+
+            <!-- Single-row Drag Embla Viewport for Switches -->
+            <div class="col-filter-embla" id="filter-embla-vp">
+              <div class="col-filter-switches embla-track" id="col-filter-switches">
+                <!-- In Stock Switch -->
+                <label class="filter-switch-pill embla-slide" for="sw-instock">
+                  <input type="checkbox" id="sw-instock" data-filter="stock:in">
+                  <span class="sw-track"><span class="sw-thumb"></span></span>
+                  <span class="sw-text">
+                    <span class="sw-dot-green"></span> In Stock
+                  </span>
+                </label>
+
+                <!-- Bright Light Switch -->
+                <label class="filter-switch-pill embla-slide" for="sw-bright">
+                  <input type="checkbox" id="sw-bright" data-filter="light:bright">
+                  <span class="sw-track"><span class="sw-thumb"></span></span>
+                  <span class="sw-text">Bright Light</span>
+                </label>
+
+                <!-- Low / Medium Light Switch -->
+                <label class="filter-switch-pill embla-slide" for="sw-low">
+                  <input type="checkbox" id="sw-low" data-filter="light:low">
+                  <span class="sw-track"><span class="sw-thumb"></span></span>
+                  <span class="sw-text">Low / Medium Light</span>
+                </label>
+
+                <!-- Pet Friendly Switch -->
+                <label class="filter-switch-pill embla-slide" for="sw-pet">
+                  <input type="checkbox" id="sw-pet" data-filter="pet:friendly">
+                  <span class="sw-track"><span class="sw-thumb"></span></span>
+                  <span class="sw-text">Pet Friendly</span>
+                </label>
+
+                <!-- Easy Care Switch -->
+                <label class="filter-switch-pill embla-slide" for="sw-easy">
+                  <input type="checkbox" id="sw-easy" data-filter="tag:easy">
+                  <span class="sw-track"><span class="sw-thumb"></span></span>
+                  <span class="sw-text">Easy Care</span>
+                </label>
+
+                <!-- Bestsellers Switch -->
+                <label class="filter-switch-pill embla-slide" for="sw-bestseller">
+                  <input type="checkbox" id="sw-bestseller" data-filter="bestseller">
+                  <span class="sw-track"><span class="sw-thumb"></span></span>
+                  <span class="sw-text">Bestsellers</span>
+                </label>
+
+                <!-- Clear Active Filters Pill Button -->
+                <button type="button" class="btn-clear-switches embla-slide" id="btn-clear-all" style="display:none;">
+                  Clear all ?
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!-- Right: Live Result Pill & Custom Floating Dropdown Sort -->
+          <div class="col-toolbar-controls">
+            <div class="col-count-badge" id="col-results-count">
+              <span class="count-num">0</span> plants
+            </div>
+
+            <!-- Custom Interactive Dropdown for Sort -->
+            <div class="custom-sort-dropdown" id="custom-sort-dd">
+              <button type="button" class="sort-trigger-btn" id="sort-trigger-btn" aria-haspopup="listbox" aria-expanded="false">
+                <span class="sort-prefix">Sort:</span>
+                <span class="sort-selected-val" id="sort-selected-label">Featured</span>
+                <svg class="sort-icon-arr" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><path d="m4 6 4 4 4-4"/></svg>
+              </button>
+              <ul class="sort-dropdown-menu" id="sort-dropdown-menu" role="listbox" tabindex="-1">
+                <li class="sort-opt active" role="option" data-value="featured" aria-selected="true">
+                  <span>Featured / Curated</span>
+                  <svg class="opt-check" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="m3 8 3.5 3.5L13 5"/></svg>
+                </li>
+                <li class="sort-opt" role="option" data-value="price-asc" aria-selected="false">
+                  <span>Price: Low to High</span>
+                  <svg class="opt-check" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="m3 8 3.5 3.5L13 5"/></svg>
+                </li>
+                <li class="sort-opt" role="option" data-value="price-desc" aria-selected="false">
+                  <span>Price: High to Low</span>
+                  <svg class="opt-check" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="m3 8 3.5 3.5L13 5"/></svg>
+                </li>
+                <li class="sort-opt" role="option" data-value="title-asc" aria-selected="false">
+                  <span>Alphabetical: A&ndash;Z</span>
+                  <svg class="opt-check" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="m3 8 3.5 3.5L13 5"/></svg>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== Product Grid Section (Standard Theme Grid) ========== -->
+    <section class="section" style="padding-block:clamp(2.5rem, 5vw, 4.5rem);">
+      <div class="container">
+        <div id="col-product-grid" class="product-grid">
+          <!-- Standard <product-card product="..."> elements rendered by collections.js -->
+        </div>
+
+        <!-- Empty state -->
+        <div id="col-empty" class="col-empty-box" style="display:none;">
+          <p class="serif" style="font-size:1.6rem; color:var(--ink);">No plants match these combined filters.</p>
+          <p style="color:var(--ink-60); margin-top:.5rem;">Try turning off some toggle switches or browsing other collections.</p>
+          <button type="button" class="btn btn--ghost" id="btn-reset-filters" style="margin-top:1.5rem;">Reset all filters</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== Mood Tiles / Curated Highlight Section ========== -->
+    <section class="section" id="mood-sec" style="display:none; padding-top:0;">
+      <div class="container">
+        <div class="section-head">
+          <h2><reveal-text>Curated <em>atmospheres</em></reveal-text></h2>
+        </div>
+        <div class="tiles" id="mood-tiles-grid">
+          <!-- Populated from DB mood_tiles -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== Marquee band ========== -->
+    <marquee-band class="band" speed="30s" aria-hidden="true">
+      <span class="mq-item">Grown slow, shipped fast <i>&#10022;</i></span>
+      <span class="mq-item">7-day root guarantee <i>&#10022;</i></span>
+      <span class="mq-item">Plastic-free packaging <i>&#10022;</i></span>
+    </marquee-band>
+  </main>
+
+  <!-- ========== Footer (Standard Theme Footer) ========== -->
+  <footer class="site-footer">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <a class="logo" href="/" style="color:var(--cream)">FROND<sup>&reg;</sup></a>
+        <p>Slow-grown plants &amp; quietly sculptural objects. Greenhouse-direct since 2019.</p>
+      </div>
+      <div>
+        <h4>Shop</h4>
+        <ul>
+          <li><a href="/#shop">Bestsellers</a></li>
+          <li><a href="/collections">Statement plants</a></li>
+          <li><a href="/collections">Easy care</a></li>
+          <li><a href="/collections">Pots &amp; objects</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Help</h4>
+        <ul>
+          <li><a href="#">Shipping &amp; returns</a></li>
+          <li><a href="#">Root guarantee</a></li>
+          <li><a href="#">Care guides</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Social</h4>
+        <ul>
+          <li><a href="#">Instagram</a></li>
+          <li><a href="#">Pinterest</a></li>
+          <li><a href="#">TikTok</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-mark" aria-hidden="true">FROND</div>
+    <div class="foot-bar">
+      <span>? 2026 Frond ? demo clone</span>
+      <span>Built with vanilla Web Components</span>
+    </div>
+  </footer>
+
+  <!-- ========== Drawers ========== -->
+  <shop-modal></shop-modal>
+  <cart-drawer></cart-drawer>
+  <menu-drawer left></menu-drawer>
+
+  <script src="/assets/data.js?v=280" defer></script>
+  <script src="/assets/vendor/lenis.min.js" defer></script>
+  <script src="/assets/vendor/embla-carousel.umd.js" defer></script>
+  <script src="/assets/theme.js?v=280" defer></script>
+  <script src="/assets/collections.js?v=280" defer></script>
+</body>
+</html>
+
+
+

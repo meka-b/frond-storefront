@@ -1,0 +1,58 @@
+
+@import './styles/_variables.scss';
+@import './styles/_keyframe-animations.scss';
+
+@plugin "@egoist/tailwindcss-icons";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #FAFAF8;
+    --foreground: #1D2A1C;
+    --border: #E8E6DF;
+    --card: #FFFFFF;
+    --card-foreground: #1D2A1C;
+    --sidebar: #F4F3EE;
+    --sidebar-foreground: #2A3628;
+    --sidebar-border: #E5E3DC;
+    --accent-orange: #D87A4F;
+    --accent-green: #3F5E3D;
+  }
+
+  .dark {
+    --background: #141714;
+    --foreground: #EDEDE8;
+    --border: #282C27;
+    --card: #1C201B;
+    --card-foreground: #EDEDE8;
+    --sidebar: #181B17;
+    --sidebar-foreground: #D5D9D4;
+    --sidebar-border: #262B25;
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+/* Notion-style subtle scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #D8D6CF;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #B6B4AC;
+}

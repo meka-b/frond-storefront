@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Journal & Field Notes ? FROND</title>
+  <meta name="description" content="Botanical rituals, propagation experiments, care guides, and slow living notes from our greenhouse team.">
+
+  <base href="/">
+
+  <!-- Fonts (degrade gracefully offline) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/assets/theme.css?v=450">
+</head>
+<body class="page-blogs">
+
+  <!-- ========== Announcement marquee ========== -->
+  <div class="announce">
+    <marquee-band speed="36s" aria-label="Announcements">
+      <span class="mq-item">Free shipping on orders over $75 <i>&#10022;</i></span>
+      <span class="mq-item">New in &mdash; The Dune Collection <i>&#10022;</i></span>
+      <span class="mq-item">Every plant ships with a 7-day root guarantee <i>&#10022;</i></span>
+    </marquee-band>
+  </div>
+
+  <!-- ========== Header ========== -->
+  <header class="site-header">
+    <button class="icon-btn burger" data-menu-toggle aria-label="Open menu" aria-expanded="false">
+      <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M2 5h16M2 10h16M2 15h16"/></svg>
+    </button>
+
+    <nav class="nav" aria-label="Primary">
+      <a href="/#shop">Shop</a>
+      <a href="/collections">Collections</a>
+      <a href="/blogs" class="active">Journal</a>
+      <a href="/#community">Community</a>
+    </nav>
+
+    <a class="logo" href="/">FROND<sup>&reg;</sup></a>
+
+    <div class="header-actions">
+      <predictive-search></predictive-search>
+      <button class="icon-btn" data-search-toggle aria-label="Search" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg>
+      </button>
+      <button class="icon-btn" aria-label="Account">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 5-5.5 8-5.5s6.5 1.5 8 5.5"/></svg>
+      </button>
+      <button class="icon-btn" data-cart-toggle aria-label="Open cart">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M5 8h14l-1.2 12.2a1.5 1.5 0 0 1-1.5 1.3H7.7a1.5 1.5 0 0 1-1.5-1.3L5 8Z"/><path d="M8.5 10V6.5a3.5 3.5 0 0 1 7 0V10"/></svg>
+        <span class="cart-count" aria-live="polite">0</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- ========== Blog Hero Header ========== -->
+    <section class="section blog-hero-sec">
+      <div class="container text-center">
+        <p class="eyebrow" data-reveal>Field Notes &amp; Care Rituals</p>
+        <h1 class="blog-hero-title" data-reveal>
+          <reveal-text>The Botanical</reveal-text>
+          <span class="ib accent">Journal.</span>
+        </h1>
+        <p class="blog-hero-lead" data-reveal>
+          Real stories and expert guides from greenhouse growers. Learn the art of slow indoor gardening, root propagation, and architectural lighting.
+        </p>
+
+        <!-- Category Tag Filter Pills -->
+        <div class="blog-category-nav" id="blog-cat-nav" data-reveal>
+          <button type="button" class="blog-cat-pill active" data-tag="all">All Stories</button>
+          <button type="button" class="blog-cat-pill" data-tag="Care Lab">Care Lab</button>
+          <button type="button" class="blog-cat-pill" data-tag="Guides">Guides</button>
+          <button type="button" class="blog-cat-pill" data-tag="Deep Dive">Deep Dive</button>
+          <button type="button" class="blog-cat-pill" data-tag="Plant School">Plant School</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== Top Popular Articles (Editorial Magazine Showcase matching Reference 1) ========== -->
+    <section class="section blog-showcase-sec">
+      <div class="container">
+        <div class="blog-section-head text-center" style="flex-direction:column; align-items:center; margin-bottom:3rem;">
+          <h2 class="serif" style="font-size:clamp(2rem, 3.8vw, 3rem); font-weight:500; letter-spacing:-.02em;">Top Popular Articles</h2>
+          <p style="color:var(--ink-60); margin-top:.6rem; font-size:clamp(.95rem, 1.2vw, 1.08rem); max-width:60ch;">
+            Real reviews and techniques from real growers. See how our botanical methods transform living spaces.
+          </p>
+        </div>
+
+        <div class="blog-magazine-grid" id="magazine-grid">
+          <!-- Left: Big Featured Hero Article -->
+          <div class="mag-featured-col" id="mag-featured-card">
+            <!-- Rendered by blogs.js -->
+          </div>
+
+          <!-- Right: Stacked Editorial Rows with Micro-Thumbnails -->
+          <div class="mag-stacked-col" id="mag-stacked-list">
+            <!-- Rendered by blogs.js -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== Latest News Section (Matching Reference 2) ========== -->
+    <section class="section blog-latest-sec" style="background:var(--paper); border-top:1px solid var(--ink-12); padding-block:clamp(3.5rem, 6vw, 6rem);">
+      <div class="container">
+        <div class="blog-section-head text-center" style="flex-direction:column; align-items:center; margin-bottom:3rem;">
+          <h2 class="serif" style="font-size:clamp(2rem, 3.8vw, 3rem); font-weight:500; letter-spacing:-.02em;">Latest News</h2>
+          <p style="color:var(--ink-60); margin-top:.6rem; font-size:clamp(.95rem, 1.2vw, 1.08rem); max-width:60ch;">
+            Discover the latest greenhouse rituals, plant care stories, and seasonal decor inspirations.
+          </p>
+        </div>
+
+        <!-- 3-Column Split or Responsive Articles Grid -->
+        <div class="blog-articles-grid" id="blog-all-grid">
+          <!-- Rendered dynamically by blogs.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ========== Newsletter ========== -->
+    <section class="section newsletter">
+      <div class="container">
+        <p class="eyebrow" data-reveal style="justify-content:center;display:flex">Plant mail</p>
+        <h2 style="margin-top:1rem"><reveal-text>Sunday <em>cuttings.</em></reveal-text></h2>
+        <p data-reveal>One short letter a week. Care rituals, new arrivals, occasional drama from the greenhouse.</p>
+        <form class="nl-form" data-reveal novalidate>
+          <input type="email" required placeholder="your@email.com" aria-label="Email address">
+          <button type="submit">Subscribe <span class="btn-arrow">?</span></button>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <!-- ========== Footer (Standard Theme Footer) ========== -->
+  <footer class="site-footer">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <a class="logo" href="/" style="color:var(--cream)">FROND<sup>&reg;</sup></a>
+        <p>Slow-grown plants &amp; quietly sculptural objects. Greenhouse-direct since 2019.</p>
+      </div>
+      <div>
+        <h4>Shop</h4>
+        <ul>
+          <li><a href="/#shop">Bestsellers</a></li>
+          <li><a href="/collections">Statement plants</a></li>
+          <li><a href="/collections">Easy care</a></li>
+          <li><a href="/collections">Pots &amp; objects</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Help</h4>
+        <ul>
+          <li><a href="#">Shipping &amp; returns</a></li>
+          <li><a href="#">Root guarantee</a></li>
+          <li><a href="#">Care guides</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Social</h4>
+        <ul>
+          <li><a href="#">Instagram</a></li>
+          <li><a href="#">Pinterest</a></li>
+          <li><a href="#">TikTok</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-mark" aria-hidden="true">FROND</div>
+    <div class="foot-bar">
+      <span>? 2026 Frond ? demo clone</span>
+      <span>Built with vanilla Web Components</span>
+    </div>
+  </footer>
+
+  <!-- ========== Drawers ========== -->
+  <shop-modal></shop-modal>
+  <cart-drawer></cart-drawer>
+  <menu-drawer left></menu-drawer>
+
+  <script src="/assets/data.js?v=450" defer></script>
+  <script src="/assets/vendor/lenis.min.js" defer></script>
+  <script src="/assets/vendor/embla-carousel.umd.js" defer></script>
+  <script src="/assets/theme.js?v=450" defer></script>
+  <script src="/assets/blogs.js?v=450" defer></script>
+</body>
+</html>
+
+
+

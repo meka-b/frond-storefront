@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Customer Account &amp; Dashboard &mdash; FROND</title>
+  <meta name="description" content="Manage your botanical orders, greenhouse subscriptions, saved addresses, and plant care reminders.">
+  <base href="/">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,600&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/theme.css?v=900">
+</head>
+<body class="page-account">
+  <div class="announce">
+    <marquee-band speed="36s" aria-label="Announcements">
+      <span class="mq-item">Free shipping on orders over $75 <i>&#10022;</i></span>
+      <span class="mq-item">New in &mdash; The Dune Collection <i>&#10022;</i></span>
+      <span class="mq-item">Every plant ships with a 7-day root guarantee <i>&#10022;</i></span>
+    </marquee-band>
+  </div>
+
+  <header class="site-header">
+    <button class="icon-btn burger" data-menu-toggle aria-label="Open menu" aria-expanded="false">
+      <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M2 5h16M2 10h16M2 15h16"/></svg>
+    </button>
+    <nav class="nav" aria-label="Primary">
+      <a href="/#shop">Shop</a>
+      <a href="/collections">Collections</a>
+      <a href="/blogs">Journal</a>
+      <a href="/#community">Community</a>
+    </nav>
+    <a class="logo" href="/">FROND<sup>&reg;</sup></a>
+    <div class="header-actions">
+      <predictive-search></predictive-search>
+      <button class="icon-btn" data-search-toggle aria-label="Search" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg>
+      </button>
+      <a class="icon-btn active" href="/account" aria-label="Account">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 5-5.5 8-5.5s6.5 1.5 8 5.5"/></svg>
+      </a>
+      <button class="icon-btn" data-cart-toggle aria-label="Open cart">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M5 8h14l-1.2 12.2a1.5 1.5 0 0 1-1.5 1.3H7.7a1.5 1.5 0 0 1-1.5-1.3L5 8Z"/><path d="M8.5 10V6.5a3.5 3.5 0 0 1 7 0V10"/></svg>
+        <span class="cart-count" aria-live="polite">0</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="section account-sec" style="padding-top:2.5rem; padding-bottom:5rem;">
+      <div class="container">
+        
+        <!-- Account Header Strip -->
+        <div class="account-header-strip" style="display:flex; justify-content:space-between; align-items:center; background:var(--paper); padding:1.8rem 2.2rem; border-radius:var(--radius-l); margin-bottom:2.5rem; border:1px solid var(--paper-line);">
+          <div class="acc-user-info" style="display:flex; align-items:center; gap:1.4rem;">
+            <div class="acc-avatar" id="acc-avatar" style="width:64px; height:64px; border-radius:50%; background:var(--moss); color:var(--cream); display:flex; align-items:center; justify-content:center; font-family:var(--font-display); font-size:1.4rem; font-weight:600;">JD</div>
+            <div>
+              <h1 class="serif" style="font-size:clamp(1.6rem, 3vw, 2.2rem); font-weight:500;">Welcome, <span id="acc-user-name">Jane Doe</span></h1>
+              <p style="color:var(--ink-60); font-size:.9rem; margin-top:.2rem;">Greenhouse Member &bull; <span id="acc-user-email">jane.doe@example.com</span></p>
+            </div>
+          </div>
+          <button type="button" class="btn btn--ghost" id="btn-acc-logout" style="padding:.6rem 1.2rem; font-size:.88rem;">Sign Out</button>
+        </div>
+
+        <!-- Account Layout: Tabs & Panels -->
+        <div class="account-dashboard-grid">
+          <!-- Sidebar Tabs Navigation -->
+          <aside class="account-nav-col">
+            <nav class="account-tabs-nav" id="account-tabs-nav">
+              <button type="button" class="acc-tab-btn active" data-target="orders">
+                <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 4h14l-1.5 12h-11L3 4Z"/><path d="M7 7V4a3 3 0 0 1 6 0v3"/></svg>
+                <span>Orders &amp; Tracking</span>
+              </button>
+              <button type="button" class="acc-tab-btn" data-target="addresses">
+                <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M10 2a6 6 0 0 0-6 6c0 4.5 6 10 6 10s6-5.5 6-10a6 6 0 0 0-6-6Z"/><circle cx="10" cy="8" r="2"/></svg>
+                <span>Saved Addresses</span>
+              </button>
+              <button type="button" class="acc-tab-btn" data-target="plants">
+                <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M10 18v-8M10 10a5 5 0 0 1 5-5c0 4-5 5-5 5ZM10 13a4 4 0 0 0-4-4c0 3 4 4 4 4Z"/></svg>
+                <span>My Plant Collection</span>
+              </button>
+              <button type="button" class="acc-tab-btn" data-target="settings">
+                <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="10" cy="10" r="3"/><path d="M16 10a6 6 0 0 0-.2-1.5l1.6-1.2-1.4-2.4-1.9.7A6 6 0 0 0 12.8 4.2L12.5 2.2h-2.8l-.3 2A6 6 0 0 0 8 5.6l-1.9-.7-1.4 2.4 1.6 1.2A6 6 0 0 0 6 10a6 6 0 0 0 .2 1.5l-1.6 1.2 1.4 2.4 1.9-.7a6 6 0 0 0 1.3 1.4l.3 2h2.8l.3-2a6 6 0 0 0 1.3-1.4l1.9.7 1.4-2.4-1.6-1.2A6 6 0 0 0 16 10Z"/></svg>
+                <span>Profile Settings</span>
+              </button>
+            </nav>
+          </aside>
+
+          <!-- Panels Content Area -->
+          <div class="account-panels-col">
+            
+            <!-- 1. Orders Panel -->
+            <div class="acc-panel active" id="panel-orders">
+              <div class="panel-header" style="margin-bottom:1.6rem;">
+                <h2 style="font-family:var(--font-display); font-size:1.5rem;">Order History</h2>
+                <p style="color:var(--ink-60); font-size:.9rem; margin-top:.2rem;">Track greenhouse dispatches, live delivery tracking, and receipt archives.</p>
+              </div>
+              <div class="acc-orders-list" id="acc-orders-list">
+                <!-- Populated by account.js -->
+              </div>
+            </div>
+
+            <!-- 2. Addresses Panel -->
+            <div class="acc-panel" id="panel-addresses">
+              <div class="panel-header" style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1.6rem;">
+                <div>
+                  <h2 style="font-family:var(--font-display); font-size:1.5rem;">Saved Shipping Addresses</h2>
+                  <p style="color:var(--ink-60); font-size:.9rem; margin-top:.2rem;">Manage delivery locations for future orders.</p>
+                </div>
+                <button type="button" class="btn btn--ghost" id="btn-add-address" style="padding:.6rem 1.2rem; font-size:.88rem;">+ Add Address</button>
+              </div>
+              <div class="acc-addresses-grid" id="acc-addresses-grid">
+                <!-- Populated by account.js -->
+              </div>
+            </div>
+
+            <!-- 3. My Plant Collection -->
+            <div class="acc-panel" id="panel-plants">
+              <div class="panel-header" style="margin-bottom:1.6rem;">
+                <h2 style="font-family:var(--font-display); font-size:1.5rem;">My Living Plant Collection</h2>
+                <p style="color:var(--ink-60); font-size:.9rem; margin-top:.2rem;">Track watering cycles, sunlight conditions, and health logs for your plants.</p>
+              </div>
+              <div class="acc-plants-grid" id="acc-plants-grid">
+                <!-- Populated by account.js -->
+              </div>
+            </div>
+
+            <!-- 4. Profile Settings -->
+            <div class="acc-panel" id="panel-settings">
+              <div class="panel-header" style="margin-bottom:1.6rem;">
+                <h2 style="font-family:var(--font-display); font-size:1.5rem;">Profile Settings</h2>
+                <p style="color:var(--ink-60); font-size:.9rem; margin-top:.2rem;">Update your personal information and contact preferences.</p>
+              </div>
+              <form class="acc-settings-form" id="acc-settings-form" style="background:var(--paper); padding:2rem; border-radius:var(--radius); border:1px solid var(--paper-line); max-width:600px;">
+                <div class="form-row two-col" style="display:grid; grid-template-columns:1fr 1fr; gap:1.2rem; margin-bottom:1.2rem;">
+                  <div class="form-field">
+                    <label for="set-fname" style="display:block; font-size:.82rem; font-weight:600; margin-bottom:.4rem;">First Name</label>
+                    <input type="text" id="set-fname" value="Jane" style="width:100%; padding:.8rem 1rem; border-radius:var(--r-btn); border:1px solid var(--paper-line); background:var(--cream);">
+                  </div>
+                  <div class="form-field">
+                    <label for="set-lname" style="display:block; font-size:.82rem; font-weight:600; margin-bottom:.4rem;">Last Name</label>
+                    <input type="text" id="set-lname" value="Doe" style="width:100%; padding:.8rem 1rem; border-radius:var(--r-btn); border:1px solid var(--paper-line); background:var(--cream);">
+                  </div>
+                </div>
+                <div class="form-row" style="margin-bottom:1.5rem;">
+                  <div class="form-field full">
+                    <label for="set-email" style="display:block; font-size:.82rem; font-weight:600; margin-bottom:.4rem;">Email Address</label>
+                    <input type="email" id="set-email" value="jane.doe@example.com" style="width:100%; padding:.8rem 1rem; border-radius:var(--r-btn); border:1px solid var(--paper-line); background:var(--cream);">
+                  </div>
+                </div>
+                <button type="submit" class="btn" style="padding:.8rem 1.8rem;">Save Profile Changes</button>
+              </form>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ========== Add Address Modal ========== -->
+  <div class="acc-modal-backdrop" id="address-modal" style="display:none;">
+    <div class="acc-modal-box">
+      <div class="acc-modal-head">
+        <h3 style="font-family:var(--font-display); font-size:1.35rem; margin:0;">Add New Shipping Address</h3>
+        <button type="button" class="acc-modal-close" id="btn-close-modal" aria-label="Close modal">&times;</button>
+      </div>
+      <form class="acc-modal-form" id="add-address-form">
+        <div class="form-row" style="margin-bottom:1rem;">
+          <label style="display:block; font-size:.82rem; font-weight:600; margin-bottom:.35rem;">Address Title (e.g. Home, Design Studio)</label>
+          <input type="text" id="modal-addr-title" placeholder="Home / Loft" required style="width:100%; padding:.75rem 1rem; border-radius:var(--r-btn); border:1px solid var(--paper-line); background:var(--cream); font-size:.88rem;">
+        </div>
+        <div class="form-row" style="margin-bottom:1rem;">
+          <label style="display:block; font-size:.82rem; font-weight:600; margin-bottom:.35rem;">Recipient Full Name</label>
+          <input type="text" id="modal-addr-name" placeholder="Jane Doe" required style="width:100%; padding:.75rem 1rem; border-radius:var(--r-btn); border:1px solid var(--paper-line); background:var(--cream); font-size:.88rem;">
+        </div>
+        <div class="form-row" style="margin-bottom:1rem;">
+          <label style="display:block; font-size:.82rem; font-weight:600; margin-bottom:.35rem;">Street Address &amp; Apartment / Suite</label>
+          <input type="text" id="modal-addr-street" placeholder="123 Botanical Way, Apt 4B" required style="width:100%; padding:.75rem 1rem; border-radius:var(--r-btn); border:1px solid var(--paper-line); background:var(--cream); font-size:.88rem;">
+        </div>
+        <div class="form-row two-col" style="display:grid; grid-template-columns:1.4fr 1fr; gap:1rem; margin-bottom:1rem;">
+          <div>
+            <label style="display:block; font-size:.82rem; font-weight:600; margin-bottom:.35rem;">City &amp; State</label>
+            <input type="text" id="modal-addr-city" placeholder="San Francisco, CA" required style="width:100%; padding:.75rem 1rem; border-radius:var(--r-btn); border:1px solid var(--paper-line); background:var(--cream); font-size:.88rem;">
+          </div>
+          <div>
+            <label style="display:block; font-size:.82rem; font-weight:600; margin-bottom:.35rem;">Postal Code</label>
+            <input type="text" id="modal-addr-zip" placeholder="94107" required style="width:100%; padding:.75rem 1rem; border-radius:var(--r-btn); border:1px solid var(--paper-line); background:var(--cream); font-size:.88rem;">
+          </div>
+        </div>
+        <div class="form-row" style="margin-bottom:1.4rem;">
+          <label style="display:block; font-size:.82rem; font-weight:600; margin-bottom:.35rem;">Phone Number (For Courier Tracking)</label>
+          <input type="tel" id="modal-addr-phone" placeholder="+1 (555) 019-2834" required style="width:100%; padding:.75rem 1rem; border-radius:var(--r-btn); border:1px solid var(--paper-line); background:var(--cream); font-size:.88rem;">
+        </div>
+        <div style="display:flex; justify-content:flex-end; gap:.8rem; margin-top:1.5rem;">
+          <button type="button" class="btn btn--ghost" id="btn-cancel-modal" style="padding:.75rem 1.4rem; font-size:.88rem;">Cancel</button>
+          <button type="submit" class="btn" style="padding:.75rem 1.6rem; font-size:.88rem;">Save Address</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <a class="logo" href="/" style="color:var(--cream)">FROND<sup>&reg;</sup></a>
+        <p>Slow-grown plants &amp; quietly sculptural objects. Greenhouse-direct since 2019.</p>
+      </div>
+      <div>
+        <h4>Shop</h4>
+        <ul>
+          <li><a href="/#shop">Bestsellers</a></li>
+          <li><a href="/collections">Statement plants</a></li>
+          <li><a href="/collections">Easy care</a></li>
+          <li><a href="/collections">Pots &amp; objects</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Help</h4>
+        <ul>
+          <li><a href="#">Shipping &amp; returns</a></li>
+          <li><a href="#">Root guarantee</a></li>
+          <li><a href="#">Care guides</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Social</h4>
+        <ul>
+          <li><a href="#">Instagram</a></li>
+          <li><a href="#">Pinterest</a></li>
+          <li><a href="#">TikTok</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="foot-mark" aria-hidden="true">FROND</div>
+    <div class="foot-bar">
+      <span>&copy; 2026 Frond &mdash; demo clone</span>
+      <span>Built with vanilla Web Components</span>
+    </div>
+  </footer>
+
+  <shop-modal></shop-modal>
+  <cart-drawer></cart-drawer>
+  <menu-drawer left></menu-drawer>
+
+  <script src="/assets/data.js?v=900" defer></script>
+  <script src="/assets/vendor/lenis.min.js" defer></script>
+  <script src="/assets/theme.js?v=900" defer></script>
+  <script src="/assets/account.js?v=900" defer></script>
+</body>
+</html>
+
+
+
