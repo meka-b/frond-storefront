@@ -221,6 +221,7 @@ app.get('/api/ai/keys', (c) => {
   return c.json([
     { key: 'EXA_API_KEY', label: 'Exa.ai - Neural Web Search', saved: true },
     { key: 'FIRECRAWL_API_KEY', label: 'Firecrawl - Web Scraping', saved: true },
+    { key: 'PLANTNET_API_KEY', label: 'PlantNet - Visual botanical identification', saved: true },
     { key: 'MISTRAL_API_KEY', label: 'Mistral AI - LLM Reasoning', saved: true }
   ]);
 });

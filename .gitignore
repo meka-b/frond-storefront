@@ -29,3 +29,6 @@ Thumbs.db
 
 API.txt
 *.key
+server.log
+*.sqlite-shm
+*.sqlite-wal

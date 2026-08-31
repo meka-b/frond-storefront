@@ -55,6 +55,8 @@ app.post('/test-key', async (c) => {
       testRes = await fetch('https://api.firecrawl.dev/v1/scrape', { method: 'POST', headers: { 'Content-Type': 'application/json', Authorization: 'Bearer ' + apiKey }, body: JSON.stringify({ url: 'https://example.com', formats: ['markdown'] }), signal: AbortSignal.timeout(8000) });
     } else if (service === 'MISTRAL_API_KEY') {
       testRes = await fetch('https://api.mistral.ai/v1/models', { headers: { Authorization: 'Bearer ' + apiKey }, signal: AbortSignal.timeout(8000) });
+    } else if (service === 'PLANTNET_API_KEY') {
+      testRes = await fetch(`https://my-api.plantnet.org/v2/projects/all?api-key=${apiKey}`, { signal: AbortSignal.timeout(8000) });
     } else {
       return c.json({ ok: true, message: 'Test mevcut degil, anahtar kaydedildi' });
     }

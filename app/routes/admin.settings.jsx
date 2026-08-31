@@ -23,6 +23,7 @@ import {
 const AI_SERVICES = [
   { key: 'EXA_API_KEY',              label: 'Exa.ai',           desc: 'Neural & semantik web araması, rakip analizi',    color: '#6366f1' },
   { key: 'FIRECRAWL_API_KEY',        label: 'Firecrawl',        desc: 'Web scraping, SERP bilgi çıkarımı',              color: '#f59e0b' },
+  { key: 'PLANTNET_API_KEY',         label: 'PlantNet',         desc: 'Görsel botanik tür doğrulama',                   color: '#22c55e' },
   { key: 'MISTRAL_API_KEY',          label: 'Mistral AI',       desc: 'LLM akıl yürütme & içerik üretimi',             color: '#ef4444' },
   { key: 'RAGFLOW_API_KEY',          label: 'RAGFlow',          desc: 'Bulut vektör arama (opsiyonel)',                  color: '#10b981' },
   { key: 'LLAMAINDEX_CLOUD_API_KEY', label: 'LlamaIndex Cloud', desc: 'Yönetilen RAG boru hattı (opsiyonel)',           color: '#8b5cf6' },
